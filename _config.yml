@@ -1,6 +1,5 @@
 markdown: rdiscount
 pygments: true
-permalink: /:title
 
 theme:
   name: Polobexim
