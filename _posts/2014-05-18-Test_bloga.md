@@ -1,3 +1,9 @@
+---
+layout: default
+title: Post testowy
+---
+
+
 Test
 ====
 
