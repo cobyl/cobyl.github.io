@@ -103,7 +103,7 @@ header {
 
 header ul {
   list-style:none;
-  margin-left: 0;
+  padding: 0;
 }
 
 header li {
@@ -118,7 +118,6 @@ strong {
 }
 
 header ul li + li {
-  width:88px;
   border-left:1px solid #fff;
 }
 
