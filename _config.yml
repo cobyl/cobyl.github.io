@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 
-url: http://cobyl.github.io/
+url: http://cobyl.github.io
 
 theme:
   name: Polobexim
