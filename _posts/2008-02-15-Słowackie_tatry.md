@@ -8,8 +8,8 @@ tags: [Słowacja]
 Trasa
 -----
 
-* 10.II.2008 Warszawa – (PKP) – Kraków – (autem, z Andrzejkiem) – Tatranská Polianka, Vysoké Tatry
-* 15.II.2008 Tatranská Polianka, Vysoké Tatry – (autem) – Warszawa
+* **10.II.2008** Warszawa – (PKP) – Kraków – (autem, z Andrzejkiem) – Tatranská Polianka, Vysoké Tatry
+* **15.II.2008** Tatranská Polianka, Vysoké Tatry – (autem) – Warszawa
 
 Uwagi
 -----
