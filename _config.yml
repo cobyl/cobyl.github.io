@@ -1,9 +1,9 @@
 markdown: rdiscount
 pygments: true
 
+url: http://cobyl.github.io/
+
 theme:
   name: Polobexim
   email: tomek.kobylinski@gmail.com
-  # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
 
