@@ -103,6 +103,7 @@ header {
 
 header ul {
   list-style:none;
+  margin-left: 0;
 }
 
 header li {
