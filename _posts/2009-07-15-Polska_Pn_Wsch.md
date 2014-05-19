@@ -16,8 +16,8 @@ Trasa
 Zdjęcia
 -------
 
-[Galeria na google+.](https://plus.google.com/photos/+TomekKobyli%C5%84ski/albums/5358753703394899297?banner=pwa&sort=1) lub
-[Pokaz slajdow](https://plus.google.com/photos/+TomekKobyli%C5%84ski/albums/5358753703394899297/5358753709938450386?banner=pwa&sort=1&pid=5358753709938450386&oid=%2BTomekKobyli%C5%84ski)
+[Galeria na google+](https://plus.google.com/photos/+TomekKobyli%C5%84ski/albums/5358753703394899297?banner=pwa&sort=1) lub
+[pokaz slajdow](https://plus.google.com/photos/+TomekKobyli%C5%84ski/albums/5358753703394899297/5358753709938450386?banner=pwa&sort=1&pid=5358753709938450386&oid=%2BTomekKobyli%C5%84ski)
 
 ![](https://cloud.githubusercontent.com/assets/1532732/3015011/34146232-df5e-11e3-85e0-3bec9887ab7f.JPG)
 
