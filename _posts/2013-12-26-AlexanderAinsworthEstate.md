@@ -10,9 +10,9 @@ Zupełnie przypadkiem idąc Abbey Road, natrafiłem na to bardzo ciekawe osiedle
 
 Parę faktów po bardzo szybkimi internetowym researchu. Osiedle zaprojektował Neave Brown – na zlecenie dzielnicy Camden. 
 Projektowanie zakończono pod koniec lat ’60; budowa trwałą od 1972 a 1978 roku. 
-Osiedle to 520 mieszkań dla ponad 1600 osób. Więcej informacji np tu (http://www.alexandraandainsworth.org/history.html).
+Osiedle to 520 mieszkań dla ponad 1600 osób. Więcej informacji np tu [http://www.alexandraandainsworth.org/history.html](http://www.alexandraandainsworth.org/history.html).
 
-Jest też film: (http://www.rowleyway.org.uk/part1.html); (http://www.rowleyway.org.uk/part2.html). 
+Jest też film: [http://www.rowleyway.org.uk/part1.html](http://www.rowleyway.org.uk/part1.html); [http://www.rowleyway.org.uk/part2.html](http://www.rowleyway.org.uk/part2.html). 
 Nie oglądałem jeszcze, więc nie wiem czy dobry.
 
 ![](https://cloud.githubusercontent.com/assets/1532732/3479886/1366d776-0359-11e4-9ad1-85dd5a135ba7.jpg)
