@@ -47,3 +47,4 @@ A to początek ulicy Silom
 
 ![20140913135808-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261855/99654754-3b80-11e4-8b5b-009c369f5bc6.jpg)
 
+![20140913140707-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261900/64a39f54-3b83-11e4-9ed0-a6e389f579cf.jpg)
