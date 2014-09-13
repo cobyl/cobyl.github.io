@@ -4,13 +4,12 @@ title: Do BTS, 14.IX.2014
 category: Tajlandia
 ---
 
-No więc zgodnie z groźbami/obietnicami coś na kształt bloga. Może na początek pokaże wam jak idę sobie do BTS (naziemnego metra)..
-Dodatkowo w deszcu. Bo wiadomo - monsun. Swoją drogą pierwszy raz jak tu jestme był dziś deszcz i dość krótko.
+No więc zgodnie z groźbami/obietnicami coś na kształt bloga. Może na początek pokaże wam jak idę sobie do BTS (naziemnego metra). Dodatkowo w deszczu. Bo wiadomo - monsun. Swoją drogą pierwszy raz jak tu jestem był dziś deszcz. Ale tylko godzinę. Potem juz było ladnie.
 
 Tu mieszkam:
 ![20140913105258-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261682/7ead4cf0-3b7a-11e4-8ed0-030fad62632e.jpg)
 
-A to mój soi - czyli uliczka (zaułek?) odchodzący od głównej ulicy. Nazywa się Soi Ou Nut 8. Czyli po prostu 8 zaułek przy ulicy Ou Nut. Okolica od czasu kiedy dociągnięto tutaj BTS się szybko gentryfikuje. Trochę łądnych will, trochę biednych drewnianych domków a międzynimi wieżowce. W tej okolicy mieszkalne. Ale w innych dzielnicach całkiem normalny widok to drewniana chatka wciśnięta między jakieś Hiltony czy inne banki.
+A to mój Soi - czyli uliczka (zaułek?) odchodzący od głównej ulicy. Nazywa się Soi Ou Nut 8. Czyli po prostu 8 zaułek przy ulicy Ou Nut. Okolica od czasu kiedy dociągnięto tutaj BTS się szybko gentryfikuje. Trochę ładnych willi, trochę biednych drewnianych domków a między nimi wieżowce. W tej okolicy mieszkalne. Ale w innych dzielnicach całkiem normalny widok to drewniana chatka wciśnięta między jakieś Hiltony czy inne banki.
 ![20140913105501-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261683/7eb304b0-3b7a-11e4-8cc5-39c48ccfd8cb.jpg)
 
 A to już główna ulica Ou Nut. 
@@ -19,13 +18,13 @@ A to już główna ulica Ou Nut.
 To postój taksówek motocyklowych. Bardzo skuteczny (i tani) sposób na korki. 
 ![20140913105829-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261685/7eb583a2-3b7a-11e4-9cec-859d10796b17.jpg)
 
-Na drugim planie nowa zabudowa. A ten samochód na pierwszym planie to tutejszy odpowiednik marszrutki. Nazywa się to to Songthaew, jeździ zgóry określonymi (acz dla mnie tajemniczymi) trasami. I jest bardzo tanie. 
+Na drugim planie nowa zabudowa. A ten samochód na pierwszym planie to tutejszy odpowiednik marszrutki. Nazywa się to to Songthaew, jeździ z góry określonymi (acz dla mnie tajemniczymi) trasami. I jest bardzo tanie. 
 ![20140913105925-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261686/7ebc29be-3b7a-11e4-8c66-8027f6856fcd.jpg)
 
 A to ta starsza zabudowa:
 ![20140913110046-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261687/7ebd0c8a-3b7a-11e4-94ef-617b7cdd9133.jpg)
 
-Już zaraz dochodzimy do metra. To pierwsze z centrów handlowych jakie jest w okolicy. To to małę. Nazywa sie Big C i jest taką siecią obecną tu wszędzie. Takie coś pomiędzy Biedronką a Tesco.
+Już zaraz dochodzimy do metra. To pierwsze z centrów handlowych jakie jest w okolicy. To to małe. Nazywa sie Big C i jest taką siecią obecną tu wszędzie. Takie coś pomiędzy Biedronką a Tesco.
 ![20140913110249-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261689/7ee85c3c-3b7a-11e4-8749-7b6c7861e135.jpg)
 
 A to już sama stacja. Z boku widać Tesco Lotus. Bardzo, bardzo duże.
