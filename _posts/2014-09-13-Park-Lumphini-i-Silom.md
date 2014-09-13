@@ -4,16 +4,17 @@ title: Park Lumphini i Silom, 14.IX.2014
 category: Tajlandia
 ---
 
-I jeszcze trochę zdjęc ze spaceru po Parku Lumphini i ulicy Silom. 
+I jeszcze trochę zdjęc ze spaceru po Parku Lumphini i Silom. 
 
 Park Lumphini to oczywiście ogromne ilości biegaczy, trochę ludzi wspólnie wykonujących bliżej dla mnie nie zrozumiałe ćwiczenia. 
 A Silom - to centra handlowe & centrum biznesowe. A więc dużo wieżowców, szkła, betonu, stali. 
 
-
+Najpierw idę od BTS do Parku
 ![20140913121700-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261839/98e57b32-3b80-11e4-8bdd-180db148bec9.jpg)
 
 ![20140913124643-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261840/98e7a0ba-3b80-11e4-94fe-df105e32c34b.jpg)
 
+O to i park
 ![20140913125222-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261842/98eb9a1c-3b80-11e4-9fba-942c59895c9f.jpg)
 
 ![20140913125634-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261841/98eb8e32-3b80-11e4-8dfa-8981808f4f16.jpg)
@@ -27,6 +28,7 @@ Zdjęcie tego nie oddaje, ale tych ludzi to było tak pod setkę. A jeszcze w in
 
 ![20140913130221-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261846/99227cee-3b80-11e4-85bb-caaa20489949.jpg)
 
+A to początek ulicy Silom
 ![20140913130843-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261847/99256026-3b80-11e4-9c4f-ecba66f93d86.jpg)
 
 ![20140913130952-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261848/99273e28-3b80-11e4-9d7b-c337957346b2.jpg)
