@@ -37,3 +37,19 @@ A tu już bramki do BTS. Wraz z McDonaldem sprzedającym wszystko poza hamburger
 ![20140913111542-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4261692/7ef8649c-3b7a-11e4-8dca-acc17b27afa7.jpg)
 
 O samym BTS będzie kiedy indziej. 
+
+---
+
+Jeszcze parę zdjeć z tej trasy z następnego dnia z ciut lepszą pogodą:
+
+![20140914114612-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264779/f8ca0790-3c32-11e4-8f8f-302aa4e6785a.jpg)
+
+![20140914114705-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264780/f8cdff30-3c32-11e4-9c4e-353821f4c4d0.jpg)
+
+![20140914114852-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264781/f8d41d98-3c32-11e4-8a33-d8229c124d95.jpg)
+
+![20140914115009-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264782/f9087fb6-3c32-11e4-871d-8cb6d09dddc5.jpg)
+
+![20140914115355-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264783/f90d1666-3c32-11e4-9779-24fa16edeb77.jpg)
+
+![20140914120334-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4264784/f90ef972-3c32-11e4-99ef-98d55be49811.jpg)
