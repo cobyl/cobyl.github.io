@@ -2,7 +2,7 @@
 layout: default
 title: Jugosławia, 7 – 17.VII.2008
 category: Wycieczki
-tags: [Grecja, Macedonia, Albania, Czarnogóra, Chorwacja, Bośnia, Niemcy]
+tags: [Grecja, Macedonia, Albania, Czarnogóra, Chorwacja, BiH, Niemcy]
 ---
 
 Trasa
