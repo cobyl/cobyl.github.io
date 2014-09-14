@@ -2,7 +2,7 @@
 layout: default
 title: Edynburg i Londyn, 24.III – 6.IV.2010
 category: Wycieczki
-tags: [Wielka Brytania]
+tags: [Anglia, Szkocja]
 ---
 
 Trasa
