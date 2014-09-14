@@ -1,18 +1,14 @@
 <h2>Tajlandia</h2>
 <ul>
-{% for posts in site.categories[Tajlandia] %}
-  {% for post in posts %}
+{% for post in site.categories[Tajlandia] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
 {% endfor %}
 </ul>
 
 <h2>Wycieczki</h2>
 <ul>
-{% for posts in site.categories[Wycieczki] %}
-  {% for post in posts %}
+{% for post in site.categories[Wycieczki] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
 {% endfor %}
 </ul>
 
