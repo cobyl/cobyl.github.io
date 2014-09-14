@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Park Lumphini i Silom, 14.IX.2014
+title: Park Lumphini i Silom, 13.IX.2014
 category: Tajlandia
 ---
 
