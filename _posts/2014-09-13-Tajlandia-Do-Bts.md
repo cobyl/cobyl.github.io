@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Do BTS, 13.IX.2014
+title: Do BTS
 category: Tajlandia
 ---
 
