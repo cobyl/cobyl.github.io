@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talad Rot Fai, 13.IX.2014
+title: Talad Rot Fai, 20.IX.2014
 category: Tajlandia
 ---
 
