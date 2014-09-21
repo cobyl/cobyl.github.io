@@ -6,7 +6,7 @@ category: Tajlandia
 
 BTS nazywany też Skytrain to takie naziemne metro. W koszmarnie zakorkowanym Bangkoku dość przydatna rzecz. Skądinąd
 jak na tutejsze warunki - dość droga. Jak wiadomo, lub nie, mam w sobie trochę takiech chłopackiej fascynacji 
-komunikacją miejską i w zwiazku z powyższym poniżej trochę za dużo zdjęć BTS. Raczej dla konserów.
+komunikacją miejską i w zwiazku z powyższym poniżej trochę za dużo zdjęć BTS. Raczej dla koneserów.
 
 Bo w ogóle ma to całkiem ciekawy wygląd - może nie jest to w oczywisty sposób ładne ale taka brutalistyczna surowość 
 (o ile można nazwać po prostu duża ilość betonu brutalizmem...) całkiem fajnie i porządkująco działa na ogólnie totalny 
