@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BTS, 20.IX.2014
+title: BTS
 category: Tajlandia
 ---
 
