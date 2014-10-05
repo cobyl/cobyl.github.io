@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talad Rot Fai
+title: Bangkok. Talad Rot Fai.
 category: Tajlandia
 ---
 
