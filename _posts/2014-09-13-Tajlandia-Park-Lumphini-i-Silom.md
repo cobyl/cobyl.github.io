@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Park Lumphini i Silom
+title: Bangkok. Park Lumphini i Silom.
 category: Tajlandia
 ---
 
