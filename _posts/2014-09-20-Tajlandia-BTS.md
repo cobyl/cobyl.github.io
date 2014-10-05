@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BTS
+title: Bangkok. BTS.
 category: Tajlandia
 ---
 
