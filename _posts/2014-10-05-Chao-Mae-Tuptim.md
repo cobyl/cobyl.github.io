@@ -12,10 +12,7 @@ Zabawne jest jest jej umiejscowienie - znajduje się na zapleczeu luksusowego ho
 Ciekawe acz chyba nie warte jako cel wycieczki sam w sobie. Ale jak się jest w pobliżu, to czemu nie? A łatwo być w pobliżu, 
 bo znajduje się w absolutnym centrum miasta, tuż obok super-mega-luksusowych malli. 
 
-* (http://en.wikipedia.org/wiki/Chao_Mae_Tuptim_shrine)[http://en.wikipedia.org/wiki/Chao_Mae_Tuptim_shrine]
-* (http://www.simandan.com/?p=2134)[http://www.simandan.com/?p=2134]
-* (http://www.thaizer.com/culture-shock/bangkoks-penis-shrine-chao-mae-tuptim/)[http://www.thaizer.com/culture-shock/bangkoks-penis-shrine-chao-mae-tuptim/]
-
-
-
+* (en.wikipedia.org/wiki/Chao_Mae_Tuptim_shrine)[http://en.wikipedia.org/wiki/Chao_Mae_Tuptim_shrine]
+* (www.simandan.com/?p=2134)[http://www.simandan.com/?p=2134]
+* (www.thaizer.com/culture-shock/bangkoks-penis-shrine-chao-mae-tuptim/)[http://www.thaizer.com/culture-shock/bangkoks-penis-shrine-chao-mae-tuptim/]
 
