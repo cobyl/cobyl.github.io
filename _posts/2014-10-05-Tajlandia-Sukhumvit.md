@@ -4,7 +4,7 @@ title: Bangkok. Sukhumvit.
 category: Tajlandia
 ---
 
-Takie tam foteczki ze spaceru ulicą Sukhumvit i jej okolicami. Tak mniej więcej od BTS Chit Lom do BTS Phrom Phong.
+Takie tam foteczki ze spaceru ulicą Sukhumvit. Tak mniej więcej od BTS Chit Lom do BTS Phrom Phong. Tyle, że na foteczkach akurat prawie Sukhumvit nie ma. Za to są różne mniej lub bardziej podejrzane ulice i okolice od niego odbijające. 
 
 ![20141005113009-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4519059/a050d35c-4cac-11e4-8afd-a1beecaa2d83.jpg)
 
