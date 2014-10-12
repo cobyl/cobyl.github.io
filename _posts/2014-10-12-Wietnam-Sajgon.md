@@ -6,13 +6,16 @@ category: Wietnam
 
 Jakieś znowu dość przypadkiem ze spaceru. Troszkę z dzielnicy kolonialnej. 
 
+Pani z kawą.
 ![20141012100444-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4606357/2f07c434-521b-11e4-891d-4221302d3161.jpg)
 
 ![20141012100525-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4606358/2f08c2a8-521b-11e4-96b6-75de3ee3b2c5.jpg)
 
+Fajna fontanna. Nazywa się żółwie jezioro. Poprzednio był tutaj pomnik ku chwale żołnierza francuskiego. Jeszcze za czasów wietnamu południowego został zburzony i rozpoczęto budowę o tego. Jeśli dobrze rozumiem dość niejasne materiały na temat tego w internecie wszystko to wiązało się z magiczną mocą żółwi. Które miały pomóć w jakiś sprytny sposób wygrać wojnę z północą. Modernistyczny żółw jak wiemy zawiodły. Tak to bywa z tym modernizmem, że bywa często bardziej ładny niż praktyczny.
 ![20141012101009-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4606359/2f1500f4-521b-11e4-9e00-49e88a2030b7.jpg)
 
 ![20141012101045-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4606361/2f1c6efc-521b-11e4-8e33-74fef8d579d3.jpg)
+
 
 ![20141012101234-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4606360/2f1c3040-521b-11e4-9e56-4e68b966f2fc.jpg)
 
