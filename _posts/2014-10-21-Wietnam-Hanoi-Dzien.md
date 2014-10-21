@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hanoi. Dzień 1. 
+category: Wietnam
+---
+
 ![20141021045109-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719960/bdd2233a-592d-11e4-8ba7-1b983f63fff5.jpg)
 
 ![20141021051513-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719961/bdfb7794-592d-11e4-8a27-9cd82d1578ef.jpg)
@@ -13,12 +19,6 @@
 ![20141021083027-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719966/beac7f3a-592d-11e4-92c0-9d0866c312d1.jpg)
 
 ![20141021083626-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719967/beb7a5b8-592d-11e4-9c9f-23cc8a18bf77.jpg)
----
-layout: default
-title: Hanoi. Dzień 1. 
-category: Wietnam
----
-
 
 ![20141021085653-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719968/bf23c8c4-592d-11e4-89d1-e68aa79e4337.jpg)
 
