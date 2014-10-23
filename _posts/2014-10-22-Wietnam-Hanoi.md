@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Hanoi. Dzień 1. 
+title: Hanoi.
 category: Wietnam
 ---
+
+Byłem dwa dni w Hanoi. Hanoi się różni od Sajgonu. Ale jako, że byłem tylko dwa dni to chyba nie mam odwqgi mówić czym. Nie ma
+co produkować anecdata. 
 
 Tak wygląda akademik Julii.
 ![20141021045109-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719960/bdd2233a-592d-11e4-8ba7-1b983f63fff5.jpg)
@@ -79,3 +82,19 @@ A to bardzo ładna świątynia literatury. konfucjańska (tak to się?) chyba na
 ![20141021120102-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719984/c13d7894-592d-11e4-8e44-9ddc38a2f106.jpg)
 
 ![20141021120124-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4719985/c148d388-592d-11e4-93c7-887ba37bf64a.jpg)
+
+I jescze parę zdjęc z dnia drugiego:
+
+![20141022072733-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748765/52eb8006-5a78-11e4-82c5-ea8eedcde54d.jpg)
+
+![20141022084405-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748763/52e76dae-5a78-11e4-8f61-1949f6d7da9a.jpg)
+
+![20141022085255-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748764/52ea4aec-5a78-11e4-946c-5a73d7fd9f4c.jpg)
+
+![20141022090637-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748768/537ed932-5a78-11e4-9df5-1eab295d56ca.jpg)
+
+Pomnik Lenina. Od zgiełku wielkiego miasta najlepiej odpocząć w cieniu ludobójcy. 
+
+![20141022091623-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748766/52f37202-5a78-11e4-8068-165c41c97de8.jpg)
+
+![20141022095507-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4748767/52f45b54-5a78-11e4-9cfa-1220a50ee58c.jpg)
