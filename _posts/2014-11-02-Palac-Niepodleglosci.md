@@ -7,6 +7,7 @@ category: Wietnam
 O samym pałacu w np [wikipedii](http://en.wikipedia.org/wiki/Independence_Palace). W skrócie: dawny pałac prezydenta 
 Wietnamu Południowego. Super świetnie zachowany styl lat 60tych w takim orientalnym sosie. Sam budynek poza ciekawą 
 architekturą ma w sobie różne myki - np zbudowany jest na planie chińśkiego znaku oznaczającego powodzenie/szczęscie.
+Klimat trochę jak z Bonda, trochę jak z Mad Menów. 
 
 ![20141102081556-nex-5n](https://cloud.githubusercontent.com/assets/1532732/4876191/fbe57fe2-62b9-11e4-9ac2-9c1a3b03edd5.jpg)
 
