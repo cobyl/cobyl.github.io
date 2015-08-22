@@ -9,19 +9,9 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
     <link rel="stylesheet" href="/assets/stylesheets/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/pl_PL/all.js#xfbml=1&appId=324204131005455";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, "script", "facebook-jssdk"));</script>  
     <div class="wrapper">
       <header>
         {% include sidebar.html %}
@@ -32,9 +22,6 @@
         
         {{content}}
         
-        <hr/>
-        <h2>Comments</h2>
-        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="100" data-width="100%"></div>
       </section>
       <footer>
           {% include footer.html %}
