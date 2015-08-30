@@ -13,7 +13,7 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 ## Spis tresci
 
 * [Królewski Uniwersytet w Phnom Penh](#ruopp)
-**  [Instytut Języków Obcych][#ruopp-iofl]
+  *  [Instytut Języków Obcych][#ruopp-iofl]
 * [iotoc](#iotoc)
 
 <a id="#ruopp" />
