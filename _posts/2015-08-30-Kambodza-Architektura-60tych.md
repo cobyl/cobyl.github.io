@@ -38,8 +38,6 @@ Budynek glowny
 
 ![](https://lh3.googleusercontent.com/u8TAxv6OUMCalW8gUA3TJVvQg7oJTxzFBiBgsIgFdVVR=w9999-h9999-no)
 
-![](https://lh3.googleusercontent.com/MXpKnG0gWpcKaY2wQxaRlyl7Z7Rs1uQJ4T24Eh_08f3T=w9999-h9999-no)
-
 Biblioteka
 
 ![](https://lh3.googleusercontent.com/DQKTruzossfwC_t_5dVWmJ3Pln5xtL4ttGVeDoJSblwT=w9999-h9999-no)
@@ -50,9 +48,11 @@ Biblioteka
 
 ![](https://lh3.googleusercontent.com/spaiAunU15U45Cj6frghCeYJXsd8hZtXWCOAusgJeM0I=w9999-h9999-no)
 
+![](https://lh3.googleusercontent.com/MXpKnG0gWpcKaY2wQxaRlyl7Z7Rs1uQJ4T24Eh_08f3T=w9999-h9999-no)
+
 Sale cwiczeniowe
 
-![](https://lh3.googleusercontent.com/BIz1no)G1iIklMS81_truN11d4k4z9WcambDbR1PxUZYn=w9999-h9999-no)
+![](https://lh3.googleusercontent.com/BIz1noG1iIklMS81_truN11d4k4z9WcambDbR1PxUZYn=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/LBr1ToFKHQHAR6JaLeMDeDDc0lwaADeH2CJkXLN21XvF=w9999-h9999-no)
 
