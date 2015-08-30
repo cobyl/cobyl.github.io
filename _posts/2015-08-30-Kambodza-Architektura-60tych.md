@@ -25,7 +25,7 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 * [Sala konferencyjna Chaktomuk](#cch)
 * [Lokalizacja budynków na mapie](#map)
 
-<a id="ruopp" />
+<a id="ruopp"></a>
 ## Królewski Uniwersytet w Phnom Penh
 _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / [http://www.rupp.edu.kh/](http://www.rupp.edu.kh/) )_  
 
