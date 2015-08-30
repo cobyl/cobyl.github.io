@@ -29,7 +29,7 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 ## Królewski Uniwersytet w Phnom Penh
 _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / [http://www.rupp.edu.kh/](http://www.rupp.edu.kh/) )_  
 
-<a id="ruopp-iofl" />
+<a id="ruopp-iofl"></a>
 ### Instytut Języków Obcych
 _( Institute of Foreign Languages )_
 
