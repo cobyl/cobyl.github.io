@@ -18,6 +18,8 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 * [Instytut Technologii w Kambodży](#iotoc)
 * [Narodowy zespół obiektów sportowych](#nsc)
 * [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
+* [Biały budynek](#wh)
+* ["100 budynków"](#100h)
 * [Kino Chenla](#ct)
 * [Hotel Cambodiana](#hc)
 * [Sala konferencyjna Chaktomuk](#cch)
@@ -103,6 +105,24 @@ _( Khmer-Soviet Friendship Hospital )_
 ![](https://lh3.googleusercontent.com/OssJfqrlpC3f24f_mZqO66V2Y4tMjn9va_P1qvqMg9Du=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/Dk9UPcuT0GBjDJp8FDubndpmmkAQwHU-iwN5IbcY_h40=w9999-h9999-no)
+
+<a id='#wb' />
+## Biały budynek
+_( White building )_
+
+![](https://lh3.googleusercontent.com/WPv5jgJpLruIDdlCuntvUg6CQNsNV8NmuXO-mV9JBVJI=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/VDnjBHTz42C2otMU98Bo2pgzMEHV1V8US5OK3hwuRu3C=w9999-h9999-no)
+
+<a id='#100h' />
+## 100 budynków
+_( 100s houses )_
+
+![](https://lh3.googleusercontent.com/cQuXEqQIXXQrb0mpxfldX1PVdEpmc20mBo8YB6ZDkl3b=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/pmHaSHYXNbWctrJOqZYqqSrGzhxsZpCdoTfmrc4kl1Gc=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/gOHr690fqGvyTCGydAYpK3IU1iYZBAkfZQRcjchhb3aD=w9999-h9999-no)
 
 <a id='#ct' />
 ## Kino Chenla
