@@ -52,7 +52,7 @@ Biblioteka
 
 Sale cwiczeniowe
 
-![](https://lh3.googleusercontent.com/BIz1noG1iIklMS81_truN11d4k4z9WcambDbR1PxUZYn=w9999-h9999-no)
+![](https://lh3.googleusercontent.com/BIz1nOG1iIklMS81_truN11d4k4z9WcambDbR1PxUZYn=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/LBr1ToFKHQHAR6JaLeMDeDDc0lwaADeH2CJkXLN21XvF=w9999-h9999-no)
 
