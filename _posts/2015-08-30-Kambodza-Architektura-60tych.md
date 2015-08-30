@@ -14,18 +14,22 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 
 * [Królewski Uniwersytet w Phnom Penh](#ruopp)
   *  [Instytut Języków Obcych](#ruopp-iofl)
+  *  [Aula](#ruopp-a)
 * [Instytut Technologii w Kambodży](#iotoc)
+* [Narodowy zespół obiektów sportowych](#nsc)
 * [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
-* [Chenla Theater](#ct)
+* [Kino Chenla](#ct)
+* [Hotel Cambodiana](#hc)
+* [Sala konferencyjna Chaktomuk](#cch)
 * [Lokalizacja budynków na mapie](#map)
 
-<a id="#ruopp" />
+<a id="ruopp" />
 ## Królewski Uniwersytet w Phnom Penh
 _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / [http://www.rupp.edu.kh/](http://www.rupp.edu.kh/) )_  
 
-<a id="#ruopp-iofl" />
+<a id="ruopp-iofl" />
 ### Instytut Języków Obcych
-_( Institute of Foreign Languages / )_
+_( Institute of Foreign Languages )_
 
 Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale ćwiczeniowe zaprojektowane specjalnie by uniknac klimatyzacji. / Budynek zaprojektowany inspirujac sie archetypical diagram of the 11th C Angkorian temple
 
@@ -55,11 +59,12 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/LBr1ToFKHQHAR6JaLeMDeDDc0lwaADeH2CJkXLN21XvF=w9999-h9999-no)
 
-### Jeden z budynków głównych
+### Budynki uniwersytetu
 
 ![](https://lh3.googleusercontent.com/cl8_zO2QWe353fqjqfpzXWuOrjXZmU3fQ_5EJdREfiuy=w9999-h9999-no)
 
-### Aula?
+<a id="ruopp-a" />
+### Aula
 
 ![](https://lh3.googleusercontent.com/cmoS8msEnfAFxycqBWRXWWnWehYaKG-3weFjcTrVAwpc=w9999-h9999-no)
 
@@ -79,6 +84,16 @@ _( Institute of Technology of Cambodia / [http://www.itc.edu.kh](http://www.itc.
 
 ![](https://lh3.googleusercontent.com/CMKuZUAzqeXtx0eBGtu3VMgXhla7Yf4xDZCUJkfoDzDL=w9999-h9999-no)
 
+<a id='nsc' />
+## Narodowy zespół obiektów sportowych
+_( National Sports Complex )_
+
+![](https://lh3.googleusercontent.com/qF9_0_PTFVepe0hSe8-oUf4R8NZC82ZvYRgB6tXuc4b7=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/EvThAjWNSJZyJrJot08OwGpXV1uvaGDe1sVY1egLsnbI=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/NSPbvODOizR2ksa8awh-dRhpWVUm14XQhZrj9xMrR49X=w9999-h9999-no)
+
 <a id='#ksfh' />
 ## Szpital przyjaźni Khmersko - Sowieckiej
 _( Khmer-Soviet Friendship Hospital )_
@@ -90,9 +105,23 @@ _( Khmer-Soviet Friendship Hospital )_
 ![](https://lh3.googleusercontent.com/Dk9UPcuT0GBjDJp8FDubndpmmkAQwHU-iwN5IbcY_h40=w9999-h9999-no)
 
 <a id='#ct' />
-## Chenla Theater
+## Kino Chenla
+_( Chenla State Cinema )_
 
 ![](https://lh3.googleusercontent.com/ugr68BWkgxpcMZ7lffe-0wkIuYPAZYtbLkd24z61BdKc=w9999-h9999-no)
+
+<a id='#hc' />
+## Hotel Cambodiana
+
+![](https://lh3.googleusercontent.com/lPRE3xbb5itwYu2nKMv4Dg4ausUCoqk0vgIE-scf1Fq1=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/UZ1FlqFP1eptRh6mMgG_0oe7SQwImG2I9V8_f3vs4aFa=w9999-h9999-no)
+
+<a id='#cch' />
+## Sala konferencyjna Chaktomuk
+_( Chaktomuk Conference Hall )_
+
+![](https://lh3.googleusercontent.com/RSvfCVnTBqO-ZaYzLPKVPRmw8jsJ7SaxfOXWe-PT6mrD=w9999-h9999-no)
 
 <a id='#map' />
 ## Lokalizacja budynków na mapie
