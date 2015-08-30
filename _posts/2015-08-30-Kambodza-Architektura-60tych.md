@@ -14,7 +14,7 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 
 * [Królewski Uniwersytet w Phnom Penh](#ruopp)
   *  [Instytut Języków Obcych](#ruopp-iofl)
-* [iotoc](#iotoc)
+* [Instytut Technologii w Kambodży](#iotoc)
 * [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
 * [Chenla Theater](#ct)
 * [Lokalizacja budynków na mapie](#map]
@@ -68,7 +68,8 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 ![](https://lh3.googleusercontent.com/PF9WD-LNSYVeYEKRg9UU1hoOkdvzqxp_BOaDTvkmxCWa=w9999-h9999-no)
 
 <a id='iotoc' />
-## Institute of Technology of Cambodia
+## Instytut Technologii w Kambodży
+_( Institute of Technology of Cambodia / [http://www.itc.edu.kh](http://www.itc.edu.kh/) )_
 
 ![](https://lh3.googleusercontent.com/P0-vgFFO1ig5Bugd5DMEjGousWlbcC-MPqqExc3HynBI=w9999-h9999-no)
 
