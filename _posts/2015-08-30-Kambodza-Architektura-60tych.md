@@ -13,8 +13,11 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 ## Spis tresci
 
 * [Królewski Uniwersytet w Phnom Penh](#ruopp)
-  *  [Instytut Języków Obcych][#ruopp-iofl]
+  *  [Instytut Języków Obcych](#ruopp-iofl)
 * [iotoc](#iotoc)
+* [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
+* [Chenla Theater](#ct)
+* [Lokalizacja budynków na mapie](#map]
 
 <a id="#ruopp" />
 ## Królewski Uniwersytet w Phnom Penh
@@ -75,7 +78,9 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/CMKuZUAzqeXtx0eBGtu3VMgXhla7Yf4xDZCUJkfoDzDL=w9999-h9999-no)
 
+<a id='#ksfh' />
 ## Szpital przyjaźni Khmersko - Sowieckiej
+_( Khmer-Soviet Friendship Hospital )_
 
 ![](https://lh3.googleusercontent.com/y7I1lV3C6eTFSqZJmEXvyBRIhi28UE1kalIKE4wlOddH=w9999-h9999-no)
 
@@ -83,10 +88,12 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/Dk9UPcuT0GBjDJp8FDubndpmmkAQwHU-iwN5IbcY_h40=w9999-h9999-no)
 
+<a id='#ct' />
 ## Chenla Theater
 
 ![](https://lh3.googleusercontent.com/ugr68BWkgxpcMZ7lffe-0wkIuYPAZYtbLkd24z61BdKc=w9999-h9999-no)
 
+<a id='#map' />
 ## Lokalizacja budynków na mapie
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=ziBijXi8RDOk.klRvYvX5Jt50" width="100%" height="480"></iframe>
