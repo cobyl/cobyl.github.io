@@ -4,12 +4,6 @@ title: Phnom Penh. Architektura lat 60tych.
 category: Kambodza
 ---
 
-Lata 60te to jeden z tych zabawnych zdarzajcych od czasu do czasu krotkich okresow w historii ludzkosci gdy wydaje sie ze wszystko  zmiwrza w dobrym kierunku. Optymizm zwiazany z dekolonizacja. Troche takie cos jak lata 90te.
-
-Nie zeby bylo jakos przesadnie rozowo - wojna w indochinach sie tli, czerwoni khmerowie rosna w sile to w kambodzt swiezo po odzyskaniu niepodleglosci (1700) ciagle wiele optymizmy.
-
-Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zostalybz biwgiem czasu monebrami radykalnke dosc przebudowane
-
 ## Spis tresci
 
 * [Królewski Uniwersytet w Phnom Penh](#ruopp)
@@ -32,8 +26,6 @@ _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភ�
 <a id="ruopp-iofl"></a>
 ### Instytut Języków Obcych
 _( Institute of Foreign Languages )_
-
-Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale ćwiczeniowe zaprojektowane specjalnie by uniknac klimatyzacji. / Budynek zaprojektowany inspirujac sie archetypical diagram of the 11th C Angkorian temple
 
 #### Budynek glowny
 
