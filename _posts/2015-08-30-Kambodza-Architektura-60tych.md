@@ -10,9 +10,17 @@ Nie zeby bylo jakos przesadnie rozowo - wojna w indochinach sie tli, czerwoni kh
 
 Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zostalybz biwgiem czasu monebrami radykalnke dosc przebudowane
 
+## Spis tresci
+
+* [Królewski Uniwersytet w Phnom Penh](#ruopp)
+**  [Instytut Języków Obcych][#ruopp-iofl]
+* [iotoc](#iotoc)
+
+<a id="#ruopp" />
 ## Królewski Uniwersytet w Phnom Penh
 _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / [http://www.rupp.edu.kh/](http://www.rupp.edu.kh/) )_  
 
+<a id="#ruopp-iofl" />
 ### Instytut Języków Obcych
 _( Institute of Foreign Languages / )_
 
@@ -56,6 +64,7 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/PF9WD-LNSYVeYEKRg9UU1hoOkdvzqxp_BOaDTvkmxCWa=w9999-h9999-no)
 
+<a id='iotoc' />
 ## Institute of Technology of Cambodia
 
 ![](https://lh3.googleusercontent.com/P0-vgFFO1ig5Bugd5DMEjGousWlbcC-MPqqExc3HynBI=w9999-h9999-no)
@@ -80,5 +89,5 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ## Lokalizacja budynków na mapie
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=ziBijXi8RDOk.klRvYvX5Jt50" width="100%" height="680"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=ziBijXi8RDOk.klRvYvX5Jt50" width="100%" height="480"></iframe>
 
