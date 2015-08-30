@@ -17,7 +17,7 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
 * [Instytut Technologii w Kambodży](#iotoc)
 * [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
 * [Chenla Theater](#ct)
-* [Lokalizacja budynków na mapie](#map]
+* [Lokalizacja budynków na mapie](#map)
 
 <a id="#ruopp" />
 ## Królewski Uniwersytet w Phnom Penh
