@@ -17,9 +17,9 @@ Budynki zgodnei z najlepsza tradycja hansenowskiej formy otwartej oczywiscie zos
   *  [Aula](#ruopp-a)
 * [Instytut Technologii w Kambodży](#iotoc)
 * [Narodowy zespół obiektów sportowych](#nsc)
-* [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
 * [Biały budynek](#wh)
 * ["100 budynków"](#100h)
+* [Szpital przyjaźni Khmersko-Sowieckiej](#ksfh)
 * [Kino Chenla](#ct)
 * [Hotel Cambodiana](#hc)
 * [Sala konferencyjna Chaktomuk](#cch)
@@ -65,7 +65,7 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/cl8_zO2QWe353fqjqfpzXWuOrjXZmU3fQ_5EJdREfiuy=w9999-h9999-no)
 
-<a id="ruopp-a" />
+<a id="ruopp-a"></a>
 ### Aula
 
 ![](https://lh3.googleusercontent.com/cmoS8msEnfAFxycqBWRXWWnWehYaKG-3weFjcTrVAwpc=w9999-h9999-no)
@@ -74,7 +74,7 @@ Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale 
 
 ![](https://lh3.googleusercontent.com/PF9WD-LNSYVeYEKRg9UU1hoOkdvzqxp_BOaDTvkmxCWa=w9999-h9999-no)
 
-<a id='iotoc' />
+<a id='iotoc'></a>
 ## Instytut Technologii w Kambodży
 _( Institute of Technology of Cambodia / [http://www.itc.edu.kh](http://www.itc.edu.kh/) )_
 
@@ -86,7 +86,7 @@ _( Institute of Technology of Cambodia / [http://www.itc.edu.kh](http://www.itc.
 
 ![](https://lh3.googleusercontent.com/CMKuZUAzqeXtx0eBGtu3VMgXhla7Yf4xDZCUJkfoDzDL=w9999-h9999-no)
 
-<a id='nsc' />
+<a id='nsc'></a>
 ## Narodowy zespół obiektów sportowych
 _( National Sports Complex )_
 
@@ -96,17 +96,7 @@ _( National Sports Complex )_
 
 ![](https://lh3.googleusercontent.com/NSPbvODOizR2ksa8awh-dRhpWVUm14XQhZrj9xMrR49X=w9999-h9999-no)
 
-<a id='#ksfh' />
-## Szpital przyjaźni Khmersko - Sowieckiej
-_( Khmer-Soviet Friendship Hospital )_
-
-![](https://lh3.googleusercontent.com/y7I1lV3C6eTFSqZJmEXvyBRIhi28UE1kalIKE4wlOddH=w9999-h9999-no)
-
-![](https://lh3.googleusercontent.com/OssJfqrlpC3f24f_mZqO66V2Y4tMjn9va_P1qvqMg9Du=w9999-h9999-no)
-
-![](https://lh3.googleusercontent.com/Dk9UPcuT0GBjDJp8FDubndpmmkAQwHU-iwN5IbcY_h40=w9999-h9999-no)
-
-<a id='#wb' />
+<a id='#wb'></a>
 ## Biały budynek
 _( White building )_
 
@@ -114,7 +104,7 @@ _( White building )_
 
 ![](https://lh3.googleusercontent.com/VDnjBHTz42C2otMU98Bo2pgzMEHV1V8US5OK3hwuRu3C=w9999-h9999-no)
 
-<a id='#100h' />
+<a id='#100h'></a>
 ## 100 budynków
 _( 100s houses )_
 
@@ -124,26 +114,36 @@ _( 100s houses )_
 
 ![](https://lh3.googleusercontent.com/gOHr690fqGvyTCGydAYpK3IU1iYZBAkfZQRcjchhb3aD=w9999-h9999-no)
 
-<a id='#ct' />
+<a id='#ksfh'></a>
+## Szpital przyjaźni Khmersko - Sowieckiej
+_( Khmer-Soviet Friendship Hospital )_
+
+![](https://lh3.googleusercontent.com/y7I1lV3C6eTFSqZJmEXvyBRIhi28UE1kalIKE4wlOddH=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/OssJfqrlpC3f24f_mZqO66V2Y4tMjn9va_P1qvqMg9Du=w9999-h9999-no)
+
+![](https://lh3.googleusercontent.com/Dk9UPcuT0GBjDJp8FDubndpmmkAQwHU-iwN5IbcY_h40=w9999-h9999-no)
+
+<a id='#ct'></a>
 ## Kino Chenla
 _( Chenla State Cinema )_
 
 ![](https://lh3.googleusercontent.com/ugr68BWkgxpcMZ7lffe-0wkIuYPAZYtbLkd24z61BdKc=w9999-h9999-no)
 
-<a id='#hc' />
+<a id='#hc'></a>
 ## Hotel Cambodiana
 
 ![](https://lh3.googleusercontent.com/lPRE3xbb5itwYu2nKMv4Dg4ausUCoqk0vgIE-scf1Fq1=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/UZ1FlqFP1eptRh6mMgG_0oe7SQwImG2I9V8_f3vs4aFa=w9999-h9999-no)
 
-<a id='#cch' />
+<a id='#cch'></a>
 ## Sala konferencyjna Chaktomuk
 _( Chaktomuk Conference Hall )_
 
 ![](https://lh3.googleusercontent.com/RSvfCVnTBqO-ZaYzLPKVPRmw8jsJ7SaxfOXWe-PT6mrD=w9999-h9999-no)
 
-<a id='#map' />
+<a id='#map'></a>
 ## Lokalizacja budynków na mapie
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=ziBijXi8RDOk.klRvYvX5Jt50" width="100%" height="480"></iframe>
