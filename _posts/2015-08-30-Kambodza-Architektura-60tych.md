@@ -4,11 +4,15 @@ title: Phnom Penh. Architektura lat 60tych.
 category: Kambodza
 ---
 
-# Architektura lat 60tych
+## Królewski Uniwersytet w Phnom Penh
+_( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / [http://www.rupp.edu.kh/](http://www.rupp.edu.kh/) )_  
 
-## Institute of Foreign Languages
+### Instytut Języków Obcych
+_( Institute of Foreign Languages / )_
 
-### Budynek glowny
+Pierwotnie studium nauczycielskie.  / Zaprojektowane przez Vann Molyvana. /Sale ćwiczeniowe zaprojektowane specjalnie by uniknac klimatyzacji. / Budynek zaprojektowany inspirujac sie archetypical diagram of the 11th C Angkorian temple
+
+#### Budynek glowny
 
 ![](https://lh3.googleusercontent.com/DMa1c0VqHov0ZtAD5sXJpNgyr3-fbpfaOI4f0X9ls_HQ=w9999-h9999-no)
 
@@ -16,7 +20,7 @@ category: Kambodza
 
 ![](https://lh3.googleusercontent.com/u8TAxv6OUMCalW8gUA3TJVvQg7oJTxzFBiBgsIgFdVVR=w9999-h9999-no)
 
-### Biblioteka
+#### Biblioteka
 
 ![](https://lh3.googleusercontent.com/DQKTruzossfwC_t_5dVWmJ3Pln5xtL4ttGVeDoJSblwT=w9999-h9999-no)
 
@@ -28,14 +32,11 @@ category: Kambodza
 
 ![](https://lh3.googleusercontent.com/MXpKnG0gWpcKaY2wQxaRlyl7Z7Rs1uQJ4T24Eh_08f3T=w9999-h9999-no)
 
-### Sale cwiczeniowe
+#### Sale cwiczeniowe
 
 ![](https://lh3.googleusercontent.com/BIz1nOG1iIklMS81_truN11d4k4z9WcambDbR1PxUZYn=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/LBr1ToFKHQHAR6JaLeMDeDDc0lwaADeH2CJkXLN21XvF=w9999-h9999-no)
-
-## Królewski Uniwersytet w Phnom Penh
-_( Royal University of Phnom Penh / សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ / http://www.rupp.edu.kh/ )_  
 
 ### Jeden z budynków głównych
 
