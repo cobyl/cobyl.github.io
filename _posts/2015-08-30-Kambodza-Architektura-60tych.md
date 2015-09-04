@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Phnom Penh. Nowa khmerska architektua.
+title: Phnom Penh. Nowa khmerska architektura.
 category: Kambodza
 ---
 
-Chyba to było tak, że na początek lat 60tych w Kambodży przypadał jeden z tych zdarzających się czasem narodom  krótkich okreśow historii przesyconych optymizmem. Przekonanie, że tu i teraz nie jest idealnie - ale przynajmniej wszystko zmierza w dobrym kierunku. Bardzo to zabawne i zawsze się kończy kacem jak wiemy. No takie coś w rodzaju lat dziewiędziesiątych w polsce. Tu i tam rzecz jasna - tylko dla niektórych.
+Chyba to było tak, że na początek lat 60tych w Kambodży przypadał jeden z tych zdarzających się czasem narodom  krótkich okreśow historii przesyconych optymizmem. Przekonanie, że tu i teraz nie jest idealnie - ale przynajmniej wszystko zmierza w dobrym kierunku. Bardzo to zabawne i zawsze się kończy kacem jak wiemy. No takie coś w rodzaju lat dziewiędziesiątych w polsce. 
 
-Świeżo uzyska niepodległość (1953), wojna w sąsiednich indochinach chwilowo wygaszona, a sama Kambodża stara się zachować (wyjątkowo niezdarnie) neutralność w zimnej wojnie.
+Świeżo uzyska niepodległość (1953), wojna w indochinach chwilowo wygaszona, a sama Kambodża stara się zachować (wyjątkowo niezdarnie) neutralność w zimnej wojnie.
 
 No i [Norodom Sihanouk](https://pl.wikipedia.org/wiki/Norodom_Sihanouk) - zależnie od okresu/kaprysu król, premier, "głowa państwa". Bardzo tutaj wielbiony ale z pobieżnych i może zbyt mało uważnych lektur dość jasno mi wynika, że oględnie mówiąc niespecjalnie rozgarnięty. Co byłoby może i zabawne gdy nie to, że jego absolutnie zawsze blędne decyzje polityczne (np udostępnienie wschodniej kambodży vietcongowi, teoretycznie tylko taktyczny sojusz z czerwonymi kherami i takie tam) ściągneły na ten kraj zdecydowanie zbyt dużą liczbę nieszczęść. Taką, że polacy spokojnie mogą zazdrościć. Te drobne potknięcia jednakowoż narodu kambodżańskiego nie zraziły i nie przeszkodziły w wiernej miłości do "Króla Ojca", bo taki przydomek zyskał w ostatnich latach swojego życia.
 
