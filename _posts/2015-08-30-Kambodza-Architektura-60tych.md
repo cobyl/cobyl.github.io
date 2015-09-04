@@ -4,6 +4,7 @@ title: Phnom Penh. Nowa khmerska architektua.
 category: Kambodza
 ---
 
+<div style='max-width: 780px'>
 Chyba to było tak, że na początek lat 60tych w Kambodży przypadał jeden z tych zdarzających się czasem narodom  krótkich okreśow historii przesyconych optymizmem. Przekonanie, że tu i teraz nie jest idealnie - ale przynajmniej wszystko zmierza w dobrym kierunku. Bardzo to zabawne i zawsze się kończy kacem jak wiemy. No takie coś w rodzaju lat dziewiędziesiątych w polsce.
 
 Świeżo uzyska niepodległość (1953), wojna w sąsiednim indochinach chwilowo wygaszona a sama Kambodża stara się zachować (wyjątkowo niezdarnie) neutralność w zimnej wojnie.
@@ -12,13 +13,14 @@ No i [Norodom Sihanouk](https://pl.wikipedia.org/wiki/Norodom_Sihanouk) - zależ
 
 Sihanuk to była taka bardzo artystyczną dusza. Poeta, pisarz, [filmowiec](https://www.youtube.com/watch?v=DkGH1OhHkgg) (państwo było, co doprawdy zaskakujące, bardzo szczodrym medenasem, nadzwyczaj chętne finansowało jego filmy…), [kompozytor](https://www.youtube.com/watch?v=rkiJXYcSMbY) i w ogóle miłośnik sztuk. 
 
-Na takim właśnie gruncie wyrasta “Nowa khmerska architektura”. Czyli po prostu taka modernistyczna w formie, a khmerska w treści. Albo na odwrót. Inaczej mówiąc khmerscy architekci wyszkoleni głównie we francji łączą te wszystkie fajne modernistyczne idee z tradycją Angor wat i wiejskich domów. Tak o tym pisze [wikipedia](https://en.wikipedia.org/wiki/New_Khmer_Architecture) ale i nawet tak mało wprawne jak moje oko dość łatwo to zauważa. 
+Na tym właśnie gruncie i z takim mecenasem wyrasta “Nowa khmerska architektura”. Czyli po prostu taka modernistyczna w formie, a khmerska w treści. Albo na odwrót. Inaczej mówiąc khmerscy architekci wyszkoleni głównie we francji łączą te wszystkie fajne modernistyczne idee z tradycją Angor wat i wiejskich domów. Tak o tym pisze [wikipedia](https://en.wikipedia.org/wiki/New_Khmer_Architecture) ale i nawet tak mało wprawne jak moje oko dość łatwo to zauważa. 
 
-Koniec tego ruchu to lata 70te wraz z obaleniem Sihanuka i późniejszym przejęciem władzy przez czerwonych khemerów. Jak na zdjęciach widać większosć budynków zachowała się bardzo dobrym stanie bez przeróbek - za czerwonych khmerów Phnom Penh zostało prawie całkowicie wyludnione, późniejsza bieda też paradoksalnie sprzyjałą zachowaniu czystej formy. Dopiero lata dziewiędziesiąte wraz z nastaniem turbokapitalizmu rozpoczeły okres destrukcj i modyfikacji. Czyli coś co znamy doskonalem w polsce. (W ogóle kambodzą ma trochę coś z polski lat dziewiędziesiątych). 
+Koniec tego ruchu to początek lat 70tych wraz z obaleniem Sihanuka (bez obaw wróci i to nie raz!) a także późniejszym przejęciem władzy przez czerwonych khemerów. Jak na zdjęciach widać większosć budynków zachowała się bardzo dobrym stanie bez przeróbek - za czerwonych khmerów Phnom Penh zostało prawie całkowicie wyludnione, późniejsza bieda też paradoksalnie sprzyjałą zachowaniu czystej formy. Dopiero lata dziewiędziesiąte wraz z nastaniem turbokapitalizmu rozpoczeły okres destrukcj i modyfikacji. Czyli coś co znamy doskonalem i w polsce. (W ogóle kambodzą ma trochę coś z polski lat dziewiędziesiątych). 
 
-Dość ciekawym wyjątkiem od tego co napisałem powyżej jest [biały budynek](#wh) - niegdyś bardzo elegancki budnek, obecnie samodzielnie przekształcony przez mieszkańców w najlepszej tradycji hansenowskiej formy otwartej w dośc przerażający slums. 
+Dość ciekawym wyjątkiem od tego co napisałem powyżej jest [biały budynek](#wh) - niegdyś bardzo elegancki budnek, obecnie samodzielnie przekształcony przez mieszkańców - w zgodzie z najlepszą tradycją hansenowskiej formy otwartej - w dośc przerażający slums. 
 
 No nic. Poniżej zdjęcia nowej khmerskiej architektury i okolic. Według mnie dość to ładne jest i ciekawe. Więc polecam uwadze.
+</div>
 
 ## Spis tresci
 
