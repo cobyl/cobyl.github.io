@@ -42,7 +42,7 @@ _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភ�
 <a id="ruopp-iofl"></a>
 ### Instytut Języków Obcych
 _( Institute of Foreign Languages )_
-Architekt: (Vann Molyvann)[https://en.wikipedia.org/wiki/Vann_Molyvann]
+Architekt: [Vann Molyvann](https://en.wikipedia.org/wiki/Vann_Molyvann)
 
 #### Budynek glowny
 
