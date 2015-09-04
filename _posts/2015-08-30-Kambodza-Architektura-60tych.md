@@ -1,8 +1,24 @@
 ---
 layout: default
-title: Phnom Penh. Architektura lat 60tych.
+title: Phnom Penh. Nowa khmerska architektua.
 category: Kambodza
 ---
+
+Chyba to było tak, że na początek lat 60tych w Kambodży przypadał jeden z tych zdarzających się czasem narodom  krótkich okreśow historii przesyconych optymizmem. Przekonanie, że tu i teraz nie jest idealnie - ale przynajmniej wszystko zmierza w dobrym kierunku. Bardzo to zabawne i zawsze się kończy kacem jak wiemy. No takie coś w rodzaju lat dziewiędziesiątych w polsce.
+
+Świeżo uzyska niepodległość (1953), wojna w sąsiednim indochinach chwilowo wygaszona a sama Kambodża stara się zachować (wyjątkowo niezdarnie) neutralność w zimnej wojnie.
+
+No i [Norodom Sihanouk](https://pl.wikipedia.org/wiki/Norodom_Sihanouk) - zależnie od okresu/kaprysu król, premier, "głowa państwa". Bardzo tutaj wielbiony ale z pobieżnych i może zbyt mało uważnych lektur dość jasno mi wynika, że oględnie mówiąc niespecjalnie rozgarnięty. Co byłoby może i zabawne gdy nie to, że jego absolutnie zawsze blędne decyzje polityczne (np udostępnienie wschodniej kambodży vietcongowi, teoretycznie tylko taktyczny sojusz z czerwonymi kherami i takie tam) ściągneły na ten kraj zdecydowanie zbyt dużą liczbę nieszczęść. Taką, że polacy spokojnie mogą zazdrościć. Te drobne potknięcia jednakowoż narodu kambodżańskiego nie zraziły i nie przeszkodziły w wiernej miłości do "Króla Ojca", bo taki przydomek zyskał w ostatnich latach swojego życia.
+
+Sihanuk to była taka bardzo artystyczną dusza. Poeta, pisarz, [filmowiec](https://www.youtube.com/watch?v=DkGH1OhHkgg) (państwo było, co doprawdy zaskakujące, bardzo szczodrym medenasem, nadzwyczaj chętne finansowało jego filmy…), [kompozytor](https://www.youtube.com/watch?v=rkiJXYcSMbY) i w ogóle miłośnik sztuk. 
+
+Na takim właśnie gruncie wyrasta “Nowa khmerska architektura”. Czyli po prostu taka modernistyczna w formie, a khmerska w treści. Albo na odwrót. Inaczej mówiąc khmerscy architekci wyszkoleni głównie we francji łączą te wszystkie fajne modernistyczne idee z tradycją Angor wat i wiejskich domów. Tak o tym pisze [wikipedia](https://en.wikipedia.org/wiki/New_Khmer_Architecture) ale i nawet tak mało wprawne jak moje oko dość łatwo to zauważa. 
+
+Koniec tego ruchu to lata 70te wraz z obaleniem Sihanuka i późniejszym przejęciem władzy przez czerwonych khemerów. Jak na zdjęciach widać większosć budynków zachowała się bardzo dobrym stanie bez przeróbek - za czerwonych khmerów Phnom Penh zostało prawie całkowicie wyludnione, późniejsza bieda też paradoksalnie sprzyjałą zachowaniu czystej formy. Dopiero lata dziewiędziesiąte wraz z nastaniem turbokapitalizmu rozpoczeły okres destrukcj i modyfikacji. Czyli coś co znamy doskonalem w polsce. (W ogóle kambodzą ma trochę coś z polski lat dziewiędziesiątych). 
+
+Dość ciekawym wyjątkiem od tego co napisałem powyżej jest [biały budynek](#wh) - niegdyś bardzo elegancki budnek, obecnie samodzielnie przekształcony przez mieszkańców w najlepszej tradycji hansenowskiej formy otwartej w dośc przerażający slums. 
+
+No nic. Poniżej zdjęcia nowej khmerskiej architektury i okolic. Według mnie dość to ładne jest i ciekawe. Więc polecam uwadze.
 
 ## Spis tresci
 
@@ -26,6 +42,7 @@ _( Royal University of Phnom Penh / សាកលវិទ្យាល័យភ�
 <a id="ruopp-iofl"></a>
 ### Instytut Języków Obcych
 _( Institute of Foreign Languages )_
+Architekt: (Vann Molyvann)[https://en.wikipedia.org/wiki/Vann_Molyvann]
 
 #### Budynek glowny
 
@@ -81,6 +98,7 @@ _( Institute of Technology of Cambodia / [http://www.itc.edu.kh](http://www.itc.
 <a id='nsc'></a>
 ## Narodowy zespół obiektów sportowych
 _( National Sports Complex )_
+Architekt: [Vann Molyvann](https://en.wikipedia.org/wiki/Vann_Molyvann)
 
 ![](https://lh3.googleusercontent.com/qF9_0_PTFVepe0hSe8-oUf4R8NZC82ZvYRgB6tXuc4b7=w9999-h9999-no)
 
@@ -91,7 +109,14 @@ _( National Sports Complex )_
 <a id='#wb'></a>
 ## Biały budynek
 _( White building )_
+Architekci: [Lu Ban Hap](http://www.phnompenhpost.com/national/architect-lu-ban-hap) / [Vladimir Bodiansky](https://en.wikipedia.org/wiki/Vladimir_Bodiansky)
 
+Tak to wyglądało:
+
+![](https://cloud.githubusercontent.com/assets/1532732/9677141/98fa7708-52d6-11e5-93e5-d0cb36598b02.jpg)
+
+A tak wygląda:
+ 
 ![](https://lh3.googleusercontent.com/WPv5jgJpLruIDdlCuntvUg6CQNsNV8NmuXO-mV9JBVJI=w9999-h9999-no)
 
 ![](https://lh3.googleusercontent.com/VDnjBHTz42C2otMU98Bo2pgzMEHV1V8US5OK3hwuRu3C=w9999-h9999-no)
@@ -119,6 +144,7 @@ _( Khmer-Soviet Friendship Hospital )_
 <a id='#ct'></a>
 ## Kino Chenla
 _( Chenla State Cinema )_
+Architekci: [Lu Ban Hap](http://www.phnompenhpost.com/national/architect-lu-ban-hap)
 
 ![](https://lh3.googleusercontent.com/ugr68BWkgxpcMZ7lffe-0wkIuYPAZYtbLkd24z61BdKc=w9999-h9999-no)
 
@@ -132,6 +158,8 @@ _( Chenla State Cinema )_
 <a id='#cch'></a>
 ## Sala konferencyjna Chaktomuk
 _( Chaktomuk Conference Hall )_
+Architekt: [Vann Molyvann](https://en.wikipedia.org/wiki/Vann_Molyvann)
+
 
 ![](https://lh3.googleusercontent.com/RSvfCVnTBqO-ZaYzLPKVPRmw8jsJ7SaxfOXWe-PT6mrD=w9999-h9999-no)
 
