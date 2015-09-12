@@ -8,23 +8,8 @@ layout: default
 	{% for post in site.posts limit:10 %}  
 	   <li>  
 		   <span>
-		   
-{% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}.{% case m %}
-  {% when '1' %}I
-  {% when '2' %}II
-  {% when '3' %}III
-  {% when '4' %}IV
-  {% when '5' %}V
-  {% when '6' %}VI
-  {% when '7' %}VII
-  {% when '8' %}VIII
-  {% when '9' %}IX
-  {% when '10' %}X
-  {% when '11' %}XI
-  {% when '12' %}XII
-{% endcase %}.{{ post.date | date: "%Y" }}		   
-		   
+			{% assign m = post.date | date: "%-m" %}
+			{{ post.date | date: "%-d" }}.{% case m %}{% when '1' %}I{% when '2' %}II{% when '3' %}III{% when '4' %}IV{% when '5' %}V{% when '6' %}VI{% when '7' %}VII{% when '8' %}VIII{% when '9' %}IX{% when '10' %}X{% when '11' %}XI{% when '12' %}XII{% endcase %}.{{ post.date | date: "%Y" }}
 		   </span> &raquo;  
 		   <a href="{{ BASE_PATH }}{{ post.url }}">  
 		   {{ post.title }}</a>  
