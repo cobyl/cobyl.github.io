@@ -1,6 +1,7 @@
 <h2>Wycieczki</h2>
-<a href='/tags.html'>Krajami</a>
+
 <ul>
+    <li><a href='/tags.html'>[spis wg krajów]</a></li>
 {% for post in site.categories['wycieczki'] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
