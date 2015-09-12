@@ -10,7 +10,7 @@ layout: default
 		   <span>
 		   
 {% assign m = post.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}.{% case m %}
+{{ post.date | date: "%-d" }}.{% case m %}
   {% when '1' %}I
   {% when '2' %}II
   {% when '3' %}III
@@ -23,7 +23,7 @@ layout: default
   {% when '10' %}X
   {% when '11' %}XI
   {% when '12' %}XII
-{% endcase %}.{{ page.date | date: "%Y" }}		   
+{% endcase %}.{{ post.date | date: "%Y" }}		   
 		   
 		   </span> &raquo;  
 		   <a href="{{ BASE_PATH }}{{ post.url }}">  
