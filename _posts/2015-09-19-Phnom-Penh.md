@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Phnom Penh. Nowa khmerska architektura.
+title: Phnom Penh. 
 category: Kambodza
 ---
 
