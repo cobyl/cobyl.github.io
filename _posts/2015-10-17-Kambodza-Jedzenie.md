@@ -10,6 +10,8 @@ W zamian za to "porządne knajpy" są tu tanie i jest ich naprawdę spory wybór
 
 Aha. Kambodża nie jest krajem dla wegetarianina. Można oczywiście nie jeść tu mięsa. Ale oznacza to jedzenie tylko i wyłącznie np bananów. I gotowanie sobie samemu.
 
+Zdjecia i dania wybrane przypadkowo. Akurat takie mialem zdjecia. Akurat tego co jadlem najczesciej np tu zdjec nie ma;)
+
 Tak na szybko. Żeby jeśc dobrze i w miarę tanio w kambodży należy jeśc owoce morza. To jest najbezpieczniejsza, najbardziej opłącalna i najpewniejsza strategia. Śniadanie składające się z 6 świeżych ostryg to jest koło dwóch dolarów. 
 
 Ostrygi podaje się z zieleniną, paskudną prażoną cebulką (nawet wspomnienia hotdogów z połowy lat 90 nie czynią jej smaczniejszą) oraz jakimś świeżym warzywem:
