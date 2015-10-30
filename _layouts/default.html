@@ -7,27 +7,53 @@
     <meta name="author" content="{{ site.theme.name }}" />
     <meta name="description" content="Blog {{ site.theme.name }}" />
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
-    <link rel="stylesheet" href="/assets/stylesheets/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.5/material.indigo-pink.min.css">
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.5/material.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/assets/stylesheets/styles.css">
   </head>
   <body>
     <div id="fb-root"></div>
-    <div class="wrapper">
-      <header>
+    
+    
+<!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">Title</span>
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Title</span>
+    <nav class="mdl-navigation">
+
         {% include sidebar.html %}
-      </header>
-      <section>
+      
+    </nav>
+  </div>
+  <main class="mdl-layout__content">
+    <div class="page-content">
+
         <h1>{{ page.title }}</h1>
         <h2><em>{% for category in page.tags %}{{ category }}; {% endfor %}</em></h2>
         
         {{content}}
-        
-      </section>
-      <footer>
-          {% include footer.html %}
-      </footer>
+
+      
     </div>
-    <script src="/assets/javascripts/scale.fix.js"></script>
+  </main>
+</div>    
+    
+    
+    
+    {% include footer.html %}
     {% include analytics.html %}
   </body>
 </html>
