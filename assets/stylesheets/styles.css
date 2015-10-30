@@ -1,7 +1,6 @@
 /* new css */
 
 .demo-container {
-  max-width: 1600px;
   width: calc(100% - 16px);
   margin: 0 auto;
 }
@@ -29,6 +28,6 @@
 }
 
 .demo-content img {
-  max-width: calc(100% + 92px); 
-  margin-left: -46px;
+  max-width: calc(100% + 112px); 
+  margin-left: -56px;
 }
