@@ -1,16 +1,10 @@
-<h2>Wycieczki</h2>
-
-<ul>
-    <li><a href='/tags.html'>[spis wg krajów]</a></li>
+    <a class="mdl-navigation__link" href='/tags.html'>[spis wg krajów]</a><
 {% for post in site.categories['wycieczki'] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
 
-<h2>Inne zdjęcia</h2>
-<ul>
-{% for post in site.categories['zdjęcia'] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <a class="mdl-navigation__link" href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
-</ul>
+
+{% for post in site.categories['zdjęcia'] %}
+    <a class="mdl-navigation__link" href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 
