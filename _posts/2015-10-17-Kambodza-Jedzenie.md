@@ -4,23 +4,23 @@ title: Jedzenie w Kambodży.
 category: Kambodza
 ---
 
-Istnieje powszechne zgoda co do tego, że jedzenie w kambodży jest marne. Na tle wybitnych sąsiadów - Tajlandii i Wietnamu, owszem Kabodża wypada dość przeciętnie. Oczywiście, nie oznacza, to że nie da się zjeść tu dobrze. Wprost przeciwnie, da się zjeść tu świetnie. Problem w tym, że wymaga to sporozachodu. To co najłatwiej tu dostępne - czyli street food jest owszem więcej niż średni. A dotego sporo droższy niż czy to w Tajlandii, czy Wietnamie, czy np w Malezji.
+Istnieje powszechne zgoda co do tego, że jedzenie w kambodży jest marne. Na tle wybitnych sąsiadów - Tajlandii i Wietnamu, owszem Kabodża wypada dość przeciętnie. Oczywiście, nie oznacza, to że nie da się zjeść tu dobrze. Wprost przeciwnie, da się zjeść tu świetnie. Problem w tym, że wymaga to sporo zachodu. To co najłatwiej tu dostępne - czyli street food jest owszem więcej niż średni. A do tego sporo droższy niż czy to w Tajlandii, czy Wietnamie, czy np w Malezji.
 
 W zamian za to "porządne knajpy" są tu tanie i jest ich naprawdę spory wybór. Ale o nich nie będe pisał, bo z trochę masochistyczną determinacją stale próbowałem znaleźć dobry street food. 
 
-Aha. Kambodża nie jest krajem dla wegetarianina. Można oczywiście nie jeść tu mięsa. Ale oznacza to jedzenie tylko i wyłącznie np bananów. I gotowaniesobie samemu.
+Aha. Kambodża nie jest krajem dla wegetarianina. Można oczywiście nie jeść tu mięsa. Ale oznacza to jedzenie tylko i wyłącznie np bananów. I gotowanie sobie samemu.
 
 Tak na szybko. Żeby jeśc dobrze i w miarę tanio w kambodży należy jeśc owoce morza. To jest najbezpieczniejsza, najbardziej opłącalna i najpewniejsza strategia. Śniadanie składające się z 6 świeżych ostryg to jest koło dwóch dolarów. 
 
-Ostrygi podaje się z zieleniną, paskudną prażoną cebulką (nawet wspomniena hotdogów z połowy lat 90 nie czynią jej smaczniejszą) oraz jakimś świeżym warzywem:
+Ostrygi podaje się z zieleniną, paskudną prażoną cebulką (nawet wspomnienia hotdogów z połowy lat 90 nie czynią jej smaczniejszą) oraz jakimś świeżym warzywem:
 
 ![](https://lh3.googleusercontent.com/9jS4ldJc1N-CH-e2tjfSeXnSR0U9LTcfBBsnbSypgWps9wLrNDxRGm-P6iLozyZNlpt2a5QKPwO4BU2hG04dUIAYw79mu-0AkwUh9XeuMgnU0RPS_Ba9dzejTX9SWAAHbhMzER2aerPjZpZNVmCdB2aIJALNt_zWOAyVU_QqtHrKOUXOTdopiPxF_h_TH9hIvp3hPr9w9ifpnWTZZJZ6ixKu_a6u7bwAM1zupR3MjQKv-6mGkKmK11nqQNkgcnhGfIpH346rxXK1Xls9G_rnf42hGkPXRrIlGyNNTjrTF6IYeHg0mQdvak7zfOmOUtH0L94EdGZNTaICp4zy1z6ImntkIt7imDnHkC1sXnguql0RYFrzewgxgIk0EU0TfjH752xaIM76WcR-B23utgbpPMVnDivc3F6-crSWl15zWEEkIARmUOoqzdHNgPoRDJ2_GmkgqLLh8lhNhkNkYm0qHcukT4g3XByTAiEqz-A585ZYxz7JbnBfBWr0pZjjNfT2lH8i7Tr6yDrZjDm54XKT1_461H97J_fMpeCQResL2Azr=w9999-h9999-no)
 
-A to sałatka z ośmironicy. To nie ma szansy być złe. 
+A to sałatka z ośmiornicy. To nie ma szansy być złe. 
 
 ![](https://lh3.googleusercontent.com/T0SghafZMkDG6ruMaIKFS9p0XpATt_ADp5swOqSORVpvJUxjbAPDdNmUPIgDCC33zNcqy65mkGBWMfWgI-y0HW7Khmvko5E900MKxnzpDotuaGYm58TtvnW6JU9A9yElXNOJvROEcDTQfm6MKiaOZdWb7YFgE7z3Q_WPoMHo9zeSEcEJ6IfIjKcPu5N-rWEH8uffkkp20ZC2KZraZtSYQUA19NunwjpfBFcpoe9Rt8lzhlOmMrqTRav7znDo8H7v3scUz_71KJrZKxw-I73OBYgEROs8h5YAYwdy5cTqkDpma57hTAz6vSlDMWq0RGUQg3wKLAW2WkMM4AgZKMwyHEiMQ7jBx0ovSAtDfGe7uva6_zdt4h2GAZ4ee7S7LIYjUHHNhRqEww9sb2ooVhF1QwJjoxx35a1KcXycqhKCLMV-p9AXInBFnoSRtSkqlG1hwjbyGaLowSpO8PLH6MNQTmsRwUa7yOmT65snptEssR3TjtMesBYgODqP6Ri5ZEFV5NuDWgQdvNa4EuOxEP_2NANiAPWPN6glKfsqhtctL_G_=w9999-h9999-no)
 
-A to typowe danie tak dla kambodży jak i wietnamu i tajlandii. Gotowana w sosie własnym i sojowym golonka podwana z ryżem i jajkiem. W wariancie tajskim dobre, w pozostałcyh takie sobie. Duża zaleta tego, to to, że oni tu mają bardzo dobre jajka. 
+A to typowe danie tak dla kambodży jak i wietnamu i tajlandii. Gotowana w sosie własnym i sojowym golonka podawana z ryżem i jajkiem. W wariancie tajskim dobre, w pozostałcyh takie sobie. Duża zaleta tego, to to, że oni tu mają bardzo dobre jajka. 
 
 ![](https://lh3.googleusercontent.com/fFkmIG8XD7Nn-PvozDYPqlmXbbSunxnPMdkXk4wk7lbOcDiIzSwkIXvKcZ2z2X4eYHBsilQRuoWcrQZvVisNll17DIXGvqZdntmM25xlhpzJQkPnQwefY-cTXFixwyTwiqKEhYVSG628OkzhQbB-_NMLNCNoirMsRqbXNVTKpBf8R38fEjv-q06f-c2c9YCinZTMk0mJeSDG4S68hAHFv4iNbZQzcLIPkTWsC7P_W99LPs6b-4ZjJHfVZW27zPmC6a2lH0Usb3XnJfpyjsE4xzRvzmoCzcvcJCcIRFY2mxnpcckAPqZr76HAZaLO2HBLAqSjsmlb4OybAlX18KP3s-J33Lei_g1LSMXsx1yrwYuxZ1Z0pcfUmWWObOfFjV1xSRCzZEfV5BJtyoK8jGAOeADm1vSpDq5NuLGYIW8qZYHr5x2ln8UEX8b-CLUhwbIW1C0aYVbIiKwylU9jHb0WQCWoBQXbcIdDDS3_zR1_Z3SuKULB3wZfQiV6GKh_lwaqqs5wurKBhW3qxLIR9nkn4mq1kVeEHL_DW8axW76-1TxZ=w9999-h9999-no)
 
@@ -28,7 +28,7 @@ W kambodży, tak jak i w wietnamie w ulicznych jadłodajniach zawsze za darmo i 
 
 ![](https://lh3.googleusercontent.com/jbEjPPgKIe2CI7_TJY6La5vSfOJk-zxLYNsJ3ub7uY3Oh1q8VplgNrUjfHOvq0Ta_Y_UWQME9vEsyqAMUVbg7TKKZR81EUifRjrvZosZdLAxCOz40BGnsyo1_mM77TAG52KbeYF4mYIAY1VqscO3Nn9PM6ZcAMYGZT54ets2cMS1LLSGUz_eIuJV7q18QXIZqRL2kSfl0kxrGcHIC4-z2zt4MKAkYr8d2Nk5HC0WAGjfPWjBoYx5KqEw1MD70Ha7iY76heth_XwIh3y8Nvt3eJWghp1d7DxNpK_XnL08P3YmaEKttsvM8QSrKrZpW-2mNxIl8ap25agV6iqcPkG0D0RoUNxc4DASX0nkoH4CRDtMHmemV7Foc5LP5MBetmrV_doXwyA9ilXdg2hmRJf-AKUegSF6-WvtpoRoUZNPyrqBpP8Ld_NxoBbI-uqX4zvHuBoINANBVdparhXv0UfbELieu2qP_l4yTWJgMMZsgywmOAA3oqZDkdro3y8rGCjL23b3YfcWi9lDLMu-rRQCuTttKWtqJGpA5L7XzSL6PMxF=w9999-h9999-no)
 
-A to kolejna rzecz wspólna dla kambodży i wietnamu. Śniadaniowe takie danie. Potrawka z pieczonej świny, do tego ryż, cienka zupka z wodorostem (w wietnamie pyszna, w kambodży zawsze mocno przeciętna) i trochę sałątki.
+A to kolejna rzecz wspólna dla kambodży i wietnamu. Śniadaniowe takie danie. Potrawka z pieczonej świniny, do tego ryż, cienka zupka z wodorostem (w wietnamie pyszna, w kambodży zawsze mocno przeciętna) i trochę sałątki.
 
 ![](https://lh3.googleusercontent.com/Q_S3h52CDsXe-IZgv_Fl5--lybbPUH4E0Yp6IbrRNBUH5W26BycCIr2D77rt4meTO2tBV74303JMos1nynZplvIJh2zWeoFPh2c5RVsT-0WpiokiHZG1TYhyR3Ucrl7eQZ480cdtVcF94JI8d3zBi1v9veSoTsRNyPgIsG5QiPnrZV6AW56uif2W0DlF_wtdzIgpuQLwiImLGPpFYV1t1pwUVP3HByBwLayE5bEs3ZZei6AvIBRtFvLYYjwNh6ud3s_aqsBP6Wo1JJBxNo72IQIx8Nwp4My08BwFUEqStkTAnsMGdIva3kMZlW2ytfnD43AgISwSRfCronQ_jQU0eJ56BtPsR-sHm6J0i_ieUjTL_ipyEaHbBFsSnyFcgj0b7OZCL_6pmum9uO8SVqvS5FiTczV48OLT40ii5KGEZP19Bgp7dys999aaB5hlsyteQaAmclGF9PIoKxnf_O0ejJUU99Hri4W0Dg9VONNecT5mjtEQ739VZmhrwVLnItUX_88ufS8wNKfUkn8-GAvVKHb6fkRH7AbXMeSRdqLKolXA=w9999-h9999-no)
 
