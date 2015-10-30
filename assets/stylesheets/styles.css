@@ -27,3 +27,8 @@
 .demo-footer .mdl-mini-footer--link-list a {
   font-size: 13px;
 }
+
+.demo-content img {
+  max-width: calc(100% + 56px); 
+  margin-left: -56px;
+}
