@@ -5,7 +5,18 @@ category: Wycieczki
 tags: [Węgry]
 ---
 
-*Trasa i zdjęcia do uzupełnienia.*
+Trasa
+-----
+
+* 23.XI.2012 Warszawa – Budapesz
+* 25.XI.2012 Budapesz – Warszawa
+
+Uwagi
+-----
+
+Moiszekonferencja.
+
+
 
 Zdjęcia
 -------
