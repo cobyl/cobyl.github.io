@@ -7,9 +7,9 @@ category: Indie
 Trasa
 -----
 
-17.VII.2011 Kodaikanal – (bus, 4h) – Madurai – (bus, 5h) – Rameswaran
-18.VII.2011 Rameswaran – kręcenie się po okolicy – (nocny pociąg, 240rp) – Kanyakumari
-19.VII.2011 Kanyakumari
+* 17.VII.2011 Kodaikanal – (bus, 4h) – Madurai – (bus, 5h) – Rameswaran
+* 18.VII.2011 Rameswaran – kręcenie się po okolicy – (nocny pociąg, 240rp) – Kanyakumari
+* 19.VII.2011 Kanyakumari
 
 Uwagi
 -----
