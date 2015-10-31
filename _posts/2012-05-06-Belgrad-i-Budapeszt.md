@@ -5,7 +5,18 @@ category: Wycieczki
 tags: [Węgry, Serbia]
 ---
 
-*Trasa i zdjęcia do uzupełnienia.*
+Trasa
+-----
+
+* 1.V.2012 Warszawa – Budapeszt
+* 2.V.2012  Budapeszt – Belgrad
+* 4/5.V2012  Belgrad – Budapesz
+* 6/7.V.2012 Budapeszt – Warszawa
+
+Uwagi
+-----
+Tak na szybko, koleją. Belgrad super.
+
 
 Zdjęcia
 -------
