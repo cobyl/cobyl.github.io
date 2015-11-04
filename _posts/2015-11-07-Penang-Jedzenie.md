@@ -4,11 +4,11 @@ title: Jedzenie na Penang
 category: Malezja
 ---
 
-Penang to nazwa wyspy, a także malezyjskiego stanu obejmującego poza wyspą także trochę kontynentu. Z bogatą kolonialną historią - bo to dawna część tej samej kolonii co Singapur. Były to tzw. Straits Settlements, podlegającej bezpośrednio koronie brytyjskiej, nie zaś będące tylko protektoratami, jak okoliczne państwa malajskie (z których potem wyłoni się Malezja).
+Penang to nazwa wyspy, a także malezyjskiego stanu obejmującego poza wyspą także trochę kontynentu. Z bogatą kolonialną historią - bo to dawna część tej samej kolonii co Singapur. Były to tzw. Straits Settlements, podlegającej bezpośrednio koronie brytyjskiej, nie zaś będące tylko protektoratami, tak jak okoliczne państwa malajskie (z których potem wyłoni się Malezja).
 
 Struktura etniczna Penang to 45% chińczyków, 45% malajów i 10% hindusów. Nie mam na ten temat danych, ale podejrzewam, że 
 Chińczycy zdecydowanie dominują  miastach, bo w Georgetown, a więc stolicy stanu w której mieszkałem, tak na oko jest ich 
-zdecydowana większość. 
+większość. 
 
 Efektem tego kulturowego miksu poza, oczywiście,  długą tradycją nienawiści rasowej jest także ciekawa kuchnia. I akurat to
 drugie postanowiono uczynić  lokalną atrakcją turystyczną. Penang mieni się więc mekką foodies, chociaż nie wiem czy pisanie 
