@@ -4,7 +4,7 @@ title: Cmentarz Żydowski w Georgetown
 category: Malezja
 ---
 
-Założony w 1805 roku jest najstarszym cmentarzem żydowskim w południowo-wschodniej azji. Nastarszy na nim grób pochodzi z 1835 roku, a najnowszy z 2011 - i jest to zapewne ostatni grób na tym cmentarzu, bo pochowany jest w nim ostatni członek
+Założony w 1805 roku jest pierwszym cmentarzem żydowskim w południowo-wschodniej azji. Nastarszy na nim grób pochodzi z 1835 roku, a najnowszy z 2011 - i jest to zapewne ostatni grób na tym cmentarzu, bo pochowany jest w nim ostatni członek
 [społeczności żydowskiej na Penang](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Malaysia).
 
 Jak widać na zdjęciach zachowany w bardzo dobrym stanie. Ma nawet swoją [stronę internetową](http://www.penangjewishcemetery.com/). 
