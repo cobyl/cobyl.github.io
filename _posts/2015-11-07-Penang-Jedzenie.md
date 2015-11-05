@@ -9,7 +9,7 @@ Penang to nazwa wyspy, a także malezyjskiego stanu obejmującego poza wyspą ta
 Struktura etniczna Penang to 45% chińczyków, 45% malajów i 10% hindusów. Nie mam na ten temat danych, ale podejrzewam, że 
 Chińczycy zdecydowanie dominują  miastach, bo w Georgetown, a więc stolicy stanu w której mieszkałem, tak na oko jest ich 
 większość. 
-
+roj
 Efektem tego kulturowego miksu poza, oczywiście,  długą tradycją nienawiści rasowej jest także ciekawa kuchnia. I akurat to
 drugie postanowiono uczynić  lokalną atrakcją turystyczną. Penang mieni się więc mekką foodies, chociaż nie wiem czy pisanie 
 mekka w kraju w którym, kościołom chrześcijańskim konfiskuje się biblię, za zawarcie w niej słowa "Allah" nie jest trochę
@@ -118,7 +118,7 @@ Coś trochę podobnego do wspomnianego wcześniej Ice Kacanga. Też starty lód.
 srcset='https://lh3.googleusercontent.com/ioEeZs4ByupaEBW7PO9-tJvAj_vcvIeZKBAY31m0Bb7ZfNI-S5cPFT_dpBKno9kfHk7U2wDvGasTUHaRm0tHJo5kk3Z36FDB-HQphqEPFop5kv7YMDBNg6axBruEMXD5cTbPKpj_vERaNnhWlBr3WcHp21cJ6WAvE03NogtNfxomL3QT-5DzH-0XVtb_yuESdFtNY9IoC6nuP67_m4_ypB-hFFTHssEV3z4Jbl6tZles-adWTlrLPYAcoRQhhjPgX8JuyNa3TcCmmBy5i7CkV1fa9-wiJFkEWVbwjPUPIEcllJtFb581VaR6ED6CIEDG_ceC3hpTtP3Ry0oRu3mYUQLEX5OGOJReU2GXdvmN3zfmF6o7658jWA0KQZ90mVMwFIs-4l9DAIzDT1iEbv1eR4_a0jlCHK2NFK0avUHbdcvYVQ3e1X1zrao7fGIKOfS97eIKpQMW-MiTRnFtzjwND39ry0rKqPTT9tax_7JcPRQLkKIPoFME452LGsLOLOuTPMp5uZ4O_wFB35BuoMxTwFf6_-_dIbCQ1uzCOYndAM4R=w1400-h9999-no 1400w,
 https://lh3.googleusercontent.com/ioEeZs4ByupaEBW7PO9-tJvAj_vcvIeZKBAY31m0Bb7ZfNI-S5cPFT_dpBKno9kfHk7U2wDvGasTUHaRm0tHJo5kk3Z36FDB-HQphqEPFop5kv7YMDBNg6axBruEMXD5cTbPKpj_vERaNnhWlBr3WcHp21cJ6WAvE03NogtNfxomL3QT-5DzH-0XVtb_yuESdFtNY9IoC6nuP67_m4_ypB-hFFTHssEV3z4Jbl6tZles-adWTlrLPYAcoRQhhjPgX8JuyNa3TcCmmBy5i7CkV1fa9-wiJFkEWVbwjPUPIEcllJtFb581VaR6ED6CIEDG_ceC3hpTtP3Ry0oRu3mYUQLEX5OGOJReU2GXdvmN3zfmF6o7658jWA0KQZ90mVMwFIs-4l9DAIzDT1iEbv1eR4_a0jlCHK2NFK0avUHbdcvYVQ3e1X1zrao7fGIKOfS97eIKpQMW-MiTRnFtzjwND39ry0rKqPTT9tax_7JcPRQLkKIPoFME452LGsLOLOuTPMp5uZ4O_wFB35BuoMxTwFf6_-_dIbCQ1uzCOYndAM4R=w1950-h9999-no 1950w' />
 
-Pikantna sałatka owocowa. Mango, zielone jabłko i jakieś inne rzeczy których nie umiem rozpoznać. Do tego pikantny sos na bazie cukru, chilli, limonki. Posypane czymś co jak wikipedia twierzdi po polsku nazywa się Etlingera wyniosła. Bardzo dobre!
+Pikantna sałatka owocowa. Mango, zielone jabłko i jakieś inne rzeczy których nie umiem rozpoznać. Do tego pikantny sos na bazie cukru, chilli, limonki no i pasty krewetkowej. Posypane czymś co jak wikipedia twierzdi po polsku nazywa się Etlingera wyniosła. Bardzo dobre!
 
 #### Chee Cheong Fun
 <img src='https://lh3.googleusercontent.com/Iuirrgv_VBSeE1X2vNhV_xEgmJvcAwwSdrIpX73lEq8zShupNXrHZA-XmvZCqSdHGmpnZehc1xOALJEgAwKxmv6DLuXSQqc_amwP-wcdsr1ImLWa9xD8YwJACOdiZPZgn8xbmKkimIAkej3xzZQDQZWKIE0xuIjXtaAQYGGQJ4JRzw3lCcYPwKk_DGgs3-7xcQwGqH164gvh-AuPTBYvxBWjCMdvl0JT5HEsfF-e3wtuGvikNsmf-XOj99pwBto4E06PbikE2L5p71RP17iF7Zom9UzIZ9gc6_PQaUYoSUQCtQg_AeW_2MyK46nEGZoolNGh1II-DDmRhfwxLt6IrciVwnxvFSEjMKmy9IlWohUF7TGJP0p3ZB1iH6RRYxndTlEtj44YzPeWpQwQddmhcdEwgXgilohSX7r_JimRENItrdjrLizio4TbzEF4CUqgvAdoJoqsYNZcOFC3sW88PmYokVBWvz7C4QkqvJ9jpv6gx66metJv445H4UESO9QbxNfdWy-TthFsnzgHLcy5V1jWbmwgZJNvzVuZ_Vz80baR=w9999-h9999-no' 
