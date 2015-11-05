@@ -23,10 +23,14 @@ To teraz przegląd lokalnych dań. Oraz ich opis. Nie że taki mądry jestem i r
 #### Char Koay Teow
 ![](https://lh3.googleusercontent.com/ymDRjRhDFxNq4DzlxL70dkjfpr3dw6qNPW8e2nr1DjCcYeni6ce-SAxv9x0nyYONq99BqFpVIzcLZ6skQOBJ11c0wh8e8Q0zANX_08sGAbwKpM4kSktEZOSnTFWg9BVMYSJXmED82U4B4UweEoWmfT0oUs-55LhXL94Y4qbM4vU6pd-SiSZUheervWgiMIQBw7I3hAtcccWmuHNKOI8w30ZF_AsTRhHUO0fG_D61J0REdArzoyHIFDePiieaG_4YPS1Wo64IXi6LvJR2J_6KayKGiG9SVHb8RvnLX1No_yQ5Y19QCy6zttUcmsGrARZTf96arpKKkoYhOrG1wB6Tm9rINczN4G_fHlOC3c3Cr60ZxYqOL3jDDtiXNp7XADdtk6lx4Y_j-HS0n63ytPHB9p3qPo51UUgtamOq4FlgQU6maqL452r8viDhfI7F7Kl3ObZ0KHHpFh2a-SPsvR-HFb8h6tAwqThWIi0HEu2Xx0sJjBMxlnIVm9rSG_0sdbRU9pS7sgZbUqbWJCLcXFWlSUG6XrhsnqVXgZsiDvMFoF_7=w9999-h9999-no)
 
-Kluski ryżowe smażone na bardzo bardzo rozgrzanym żelaznym (co umożliwiać ma naprawd wysok temperaturę. Smażone na oleju z czosnkiem i (chyba) pastą krewetkową.  Do tego sos sojowy, kiełki, krewetki oraz cienka pokrojona  kiełbasa. Tak właśnie.  Całkiem dobre, takie lekko w fajny sposób przypalone.
+Kluski ryżowe smażone na bardzo bardzo rozgrzanym żelaznym (co umożliwiać ma naprawd wysok temperaturę. Smażone na oleju 
+(albo i smalcu???) z czosnkiem i (chyba) pastą krewetkową.  Do tego sos sojowy, kiełki, krewetki oraz cienka pokrojona  kiełbasa. Tak właśnie.  Całkiem dobre, takie lekko w fajny sposób przypalone.
 
 #### Hokkien Mee
 ![](https://lh3.googleusercontent.com/seE9tbnKyjQ7YwI287hFN0C-aPUYIm1D2RXfOig6ql7lOQv0rg1bHap2hstND6UAP91h3e4DASUWqwIC8ucVncWLfMRezvoXIjMisDlBZ890iDhKf59DKez7wqZ1wpIqZl47Now_PaXCiUb7jZDbZSViCt8zsIBe1s1iJqaK3dkuFrp_OuaAdKoyg8zvg9Vtk3SgJVe5-QINopmnnBFmkZ42AoYjs-SIZaa1FK11tUQn9UKHEtXnNdENjFLhKWEjTcqQJ6LnRXvOAd5gTkisVPMmUayVoh62XjLb7qjqJIeiSzHvU7l5B-gpvvVxbnxxUtg0hpvYRNDMr71X8L1pCk-Bs2ZOOHDySXbUUqPqaOZSIK85pTpnkMXXHfFaRZSyO6dRAhP5ZtEspoS79FkrqBHcp5Iwjq6LahvEuMiIJRbw5qnh9yHOVFJ_Pfb22CKg0idfhuh8ElR8pyy3sVwgQFXJsiY1zMF8cFdc7J3b1CfY8Tbv65deVDgp8Hs8FlC_qw24KVjx3uBMBWUTZ3peTXDh7NOod9F1uKBzWujq28qc=w9999-h9999-no)
+
+Zupa na bulione z pancerzyków krewetek (czyli daaaaaaleka kuzynka bisque). A w tym bulionie kluski ryżowe i jajeczne, krewetki, cieniutkie plasterki kiełbasy. No i jak widzimy podana do rozmieszania pasta chilli. 
+
 
 #### Penang Laksa
 ![](https://lh3.googleusercontent.com/G11NT6zeSuuZjuCLjzM5zfU_7au6MzNCYgc7SCQElWBxTt4IFCGJJfuoHnn4PER_kJqnkLuuUQYhzj5xfio8TiaxejgkXbtKrdQZ_T3zyybBaRpj7LOZbmcw-itdigJsJuYtDTn05WdR8VUBLSD6mCR7uPAwfDlJ5hPGynOsAVy3O59jPI0vhNtO_ipRp8VbwvKa-4UhbDWWF5izfTGdXfEuyk6n23NwKjdSN81aBnf8WjWY5UqUR_nAKOfVUsoyOaWOiMm36hFjGjpsSGJV7QUczaiXRYRaXhMtYAGIVT5EwJ46gWDTRmnNWzb8CwjK0DcaJB1ZqXWrkACPXyPRO03pfCy2JmjY-kHC9soQRUyo9jYfKwtFDFNWQOvu7A-KiiwAsUfkOaWCP9M-nXNckOggbXSQxoLM-0b3GA72_0mlrSbTCQshRoRlTbmEl7K7p8x8WKiCEChoWV0TXbW2-Z8pGeIsUdDYyUK3FlkzK7MWa8BC6XdIYzQZhcKB9b0AXOZvoNoeA6rAT9vbuWAjL-UbPIqmi3PdS-n74-D0zyCk=w9999-h9999-no)
@@ -36,9 +40,12 @@ Dziwaczna rzecz. Złośliwie mówiąc zupa z makreli w sosie pomidorowym z puszk
 #### Wan Tan Mee
 ![](https://lh3.googleusercontent.com/b6OIU9_aH8li4ILoJaZpSGQi_MdyB5dXcXk-vuiPNmhUZdKnegxvIw8Xv_kIlcEy7ptkuiNlW-80w8v3qPdaBOY6nIPm0YFiD0pU5VMsLbKM3vsTbclsdMc0DA3zBnfSz3Oa2looR7gRDWO1kR9vye0ZAGVtew2HCzDzmHXEyxoY6ALm7BH48jBtMD1EBua2TGKYMkqW4rZzI-ouiNvcfb2ou6RNgidjxZd_TDt9Ix4yPCm6gG5gU6njahQEUVIgINN1Kn-pt0nfvECFhFKkkEat9qiNAPpDVcCiAydkZbHhWbZJ6opDbsGmqCUQMBoMeUMX5cPAzZJp9Ogdu2BDaXAmNq5am-AVFX1B5xLSsuYYZowLt2UhXx20t7kwtC3exKVBELjMxbNkGPO1EXEbpbqUVh8ON6lHRgw66bOiqF8rHws0INr5zDTUiK9dIu177E3Oyfy-cZlchNsGAC9b5rcqUcg4i24NAkLRCR2tEuwPogl1RL0oUePbOxkq0b_PXwbSJLLiEMOth0pz-ZSruWDZJYR8fu-8bdsruFYBX9_y=w9999-h9999-no)
 
+Mój faworyt. Nazwa pochodzi od pierożków wan tan - które dodaje się do tego dania w ilości sztuk dwie. Do datkowo mamy krótk obgotowany makaron jajeczny, sos na bazie sosu sojowego, trochę pokrojonej w cienkie paski świni, sczypiorku etc. Smaczne!
+
 #### Koay Theow Thng
 ![](https://lh3.googleusercontent.com/yaFAOZ6N0hfrUmDaYsS7U_yL9g35PQ7KTx_8ts-MxZHAK7Sb3D7LqmYGyF0E5GAbToL_mFV0awgvLTfsttkheKOrSTUqmuVzk6aNzmpybPe1AZSzcoZR1fCSzJR29NbWaQLaEtNMgec2Ule8IAyPLG-E8IlfMq4n2bUKhmE79vtyudTHoZRHZ84kllhNaHv76DCrTUUkG8WvNWWmgsqvfKowUSuFuqZLD8DTTczfwA3YFxooTTgVE1STmCU-psevYDmWlrPF6SvYB7HMqxGbxhkY1zsjGCvkezKnUglHLXgdTDSdtQNu1Ee2G75p2v4o4SGauK6_01BZOxMVEzz83A7Rs3ri6vlZeA7hnlUFypGlSMLR83sGW2_hZdBrwX-8zynv7-DnxJ0ozjapnwR9_gaJLibB97bYBTDE2R992TbbPbBM0_w5195dFfgFeIO6rkb9_Ji0TuIdG3jq1xxZtr9RVKuMYOfO4_gqY5qgszPCoptW-1fhm2PeTF3PCIduowOwBfEjtu-La3OmidqHuuxhIad7RT30YKJuI6b-SMb_=w9999-h9999-no)
 
+A tu chyba źle zapisałem nazwę bo nie mogę znaleźć co to jest dokłądnie. W każdym razie cienki bulion z kulkami rybnymi. Spokojnie można odpuścić sobie.
 
 
 
