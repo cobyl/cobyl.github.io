@@ -9,16 +9,14 @@ Penang to nazwa wyspy, a także malezyjskiego stanu obejmującego poza wyspą ta
 Struktura etniczna Penang to 45% chińczyków, 45% malajów i 10% hindusów. Nie mam na ten temat danych, ale podejrzewam, że 
 Chińczycy zdecydowanie dominują  miastach, bo w Georgetown, a więc stolicy stanu w której mieszkałem, tak na oko jest ich 
 większość. 
-roj
-Efektem tego kulturowego miksu poza, oczywiście,  długą tradycją nienawiści rasowej jest także ciekawa kuchnia. I akurat to
+
+Efektem tego kulturowego miksu poza, oczywiście,  tradycją nienawiści rasowej jest także ciekawa kuchnia. I akurat to
 drugie postanowiono uczynić  lokalną atrakcją turystyczną. Penang mieni się więc mekką foodies, chociaż nie wiem czy pisanie 
 mekka w kraju w którym, kościołom chrześcijańskim konfiskuje się biblię, za zawarcie w niej słowa "Allah" nie jest trochę
-nierozsądne. Ale wracając do tematu: je się tu dobrze, ciekawie i smacznei. Bardzo wulgaryzując kuchnia jest takim ciekawym 
-miksem kuchni chińskiej i tajskiej. Je się tutaj tanio (dania na ulicy kosztują tak koło 4 ringgitów malezyjski, co jest 
-równowartością 4 złotych polskich), je się tu wygodnie - lokalny samorząd przygotował dużo fajnych darmowych ulotek i 
-przewodników po lokalnej kuchni.
+nierozsądne. Ale wracając do tematu: je się tu dobrze, ciekawie i smacznie. Bardzo wulgaryzując kuchnia jest takim ciekawym 
+miksem kuchni chińskiej (przewaga) i okolicznych. Je się tutaj tanio (dania na ulicy kosztują tak koło 4 ringgitów malezyjski, co jest  równowartością 4 złotych polskich), je się tu wygodnie - lokalny samorząd przygotował dużo fajnych darmowych ulotek i  przewodników po lokalnej kuchni.
 
-To teraz przegląd lokalnych dań. Oraz ich opis. Nie że taki mądry jestem i rozkminiłem tak bardzo dobrze przepisy. Ot posiłkowałem się wspomnianymi materiałami dla głupich, takich jak ja, turystów.
+To teraz przegląd lokalnych dań. Oraz ich opis. Nie że taki mądry jestem i rozkminiłem tak bardzo dobrze przepisy. Ot posiłkowałem się wspomnianymi materiałami dla takich jak ja, turystów.
 
 Aha  - uprzedzam nie jestem mistrzem fotografi także i kulinarnej. Zdjęcia takie są bardziej poglądowe.
 
