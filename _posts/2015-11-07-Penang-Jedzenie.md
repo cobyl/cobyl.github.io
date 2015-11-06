@@ -18,7 +18,7 @@ miksem kuchni chińskiej (przewaga) i okolicznych. Je się tutaj tanio (dania na
 
 To teraz przegląd lokalnych dań. Oraz ich opis. Nie że taki mądry jestem i rozkminiłem tak bardzo dobrze przepisy. Ot posiłkowałem się wspomnianymi materiałami dla takich jak ja, turystów.
 
-Aha  - uprzedzam nie jestem mistrzem fotografi także i kulinarnej. Zdjęcia takie są bardziej poglądowe.
+Aha  - uprzedzam zdjęcia takie są bardziej poglądowe, chyba nie jestem mistrzem fotografi także i kulinarnej.
 
 #### Char Koay Teow
 <img src='https://lh3.googleusercontent.com/ymDRjRhDFxNq4DzlxL70dkjfpr3dw6qNPW8e2nr1DjCcYeni6ce-SAxv9x0nyYONq99BqFpVIzcLZ6skQOBJ11c0wh8e8Q0zANX_08sGAbwKpM4kSktEZOSnTFWg9BVMYSJXmED82U4B4UweEoWmfT0oUs-55LhXL94Y4qbM4vU6pd-SiSZUheervWgiMIQBw7I3hAtcccWmuHNKOI8w30ZF_AsTRhHUO0fG_D61J0REdArzoyHIFDePiieaG_4YPS1Wo64IXi6LvJR2J_6KayKGiG9SVHb8RvnLX1No_yQ5Y19QCy6zttUcmsGrARZTf96arpKKkoYhOrG1wB6Tm9rINczN4G_fHlOC3c3Cr60ZxYqOL3jDDtiXNp7XADdtk6lx4Y_j-HS0n63ytPHB9p3qPo51UUgtamOq4FlgQU6maqL452r8viDhfI7F7Kl3ObZ0KHHpFh2a-SPsvR-HFb8h6tAwqThWIi0HEu2Xx0sJjBMxlnIVm9rSG_0sdbRU9pS7sgZbUqbWJCLcXFWlSUG6XrhsnqVXgZsiDvMFoF_7=w9999-h9999-no' 
