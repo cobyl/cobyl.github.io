@@ -1,9 +1,7 @@
-    <a class="mdl-navigation__link" href='/tags.html'>[spis wg krajów]</a><
+<a class="mdl-navigation__link" href='/tags.html'>[spis wg krajów]</a>
 {% for post in site.categories['wycieczki'] %}
-
-      <a class="mdl-navigation__link" href="{{ post.url }}">{{ post.title }}</a>
+    <a class="mdl-navigation__link" href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
-
 {% for post in site.categories['zdjęcia'] %}
     <a class="mdl-navigation__link" href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
