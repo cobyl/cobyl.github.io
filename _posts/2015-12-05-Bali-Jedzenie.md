@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jedzenie na Bali
-category: Indonezja, Jedzenie
+category: Indonezja
 ---
 
 Zacznijmy od tego, że przed przyjechaniem na Bali jedyne Indonezjskie danie jakie znałem to sataje. No i wychodzi na to, że dużo traciłem. Bo to jest bardzo dobra kuchnia. Może nie są to takie odloty i orgazmy jak w Malezji ale i tak warto. 
