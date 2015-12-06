@@ -5,11 +5,11 @@ category: Wycieczki
 tags: [Singapur]
 ---
 
-No to Singapur. Taki Londyn, ale w środku Azji. Tylko, że czysty. I bogaty. Bardzo. Czyli, zupełnie nie jak Londyn. 
+No to Singapur. Taki Londyn, ale w środku Azji. Tylko, że czysty. I bogaty. Bardzo. Czyli, trochę jednak nie jak Londyn. 
 
 Zdjęcia poniżej. Mało one w sumie reprezentatywne dla tego miasta. Trochę mi się nie chciało robić wiecej. Bo pogoda jakaś koszmarna mi się trafiła.  Lalo prawie nonstop. Trochę też przez to nie pozwiedzałem różnych fajnych ogrodów tutaj. Cóż, jest powód by tu wrócić.
 
-A w ogóle to pierwszy raz skorzystałem w couchsurfingu. Bardzo fajnie trafiłem. Więc teraz trochę jestem fanem.
+A w ogóle to pierwszy raz skorzystałem z couchsurfingu. Bardzo fajnie trafiłem. Więc teraz jestem fanem.
 
 <img src='https://lh3.googleusercontent.com/2gxzj5F1dCJpqsOfm0LoDWLyu96KKPtgAwfgLPkuB1E_-ANG2SBSTs_lb74aQcmKxUhcBiNf-WYF7ThdyuSHaujsGwwD06mRrsB6YTgEym_ofFD9Adzt_WL3XhV6Sg3ZCohaKoavVuOGwVSyvEdZpzD7EuE9VuvVYYtwEqn9FcId0xTaOJGfPzaMTlNCaH13bpBUt-thlJG7Wmz_2eFcWS-P7oEXZkugoCc2bx9aaF48WBXgqPutHhtGnJKMggJKwoHMjlUtcqF5q0FfP9QtmsamhvRVrAZCac33VQv8umz6O5EUXg8v03poI1lanHRpA793GS_9_9cu8SOoSvvbtM6G-dfhtfuQZIJ1xnr6Npflx8nXPWjLLJcGF1YRwnuoc20FG69HC3X_L9Tb7SUP_QLoGvm3qCeQVXhmYmewSoqyejP076epyYdVLdcX7o4LBV_NX1zp9wu-qEO4jE5ywWPynFYQrL8mqH-YgySJ--4-eji-mUMdBb8I_W4xIMbrLw6EzbQEidxsC9KmFk4l46Vmy16hhEMLLUWRbE8vn3KB=w9999-h9999-no' srcset='https://lh3.googleusercontent.com/2gxzj5F1dCJpqsOfm0LoDWLyu96KKPtgAwfgLPkuB1E_-ANG2SBSTs_lb74aQcmKxUhcBiNf-WYF7ThdyuSHaujsGwwD06mRrsB6YTgEym_ofFD9Adzt_WL3XhV6Sg3ZCohaKoavVuOGwVSyvEdZpzD7EuE9VuvVYYtwEqn9FcId0xTaOJGfPzaMTlNCaH13bpBUt-thlJG7Wmz_2eFcWS-P7oEXZkugoCc2bx9aaF48WBXgqPutHhtGnJKMggJKwoHMjlUtcqF5q0FfP9QtmsamhvRVrAZCac33VQv8umz6O5EUXg8v03poI1lanHRpA793GS_9_9cu8SOoSvvbtM6G-dfhtfuQZIJ1xnr6Npflx8nXPWjLLJcGF1YRwnuoc20FG69HC3X_L9Tb7SUP_QLoGvm3qCeQVXhmYmewSoqyejP076epyYdVLdcX7o4LBV_NX1zp9wu-qEO4jE5ywWPynFYQrL8mqH-YgySJ--4-eji-mUMdBb8I_W4xIMbrLw6EzbQEidxsC9KmFk4l46Vmy16hhEMLLUWRbE8vn3KB=w1950-h9999-no 1950w'  srcset='https://lh3.googleusercontent.com/2gxzj5F1dCJpqsOfm0LoDWLyu96KKPtgAwfgLPkuB1E_-ANG2SBSTs_lb74aQcmKxUhcBiNf-WYF7ThdyuSHaujsGwwD06mRrsB6YTgEym_ofFD9Adzt_WL3XhV6Sg3ZCohaKoavVuOGwVSyvEdZpzD7EuE9VuvVYYtwEqn9FcId0xTaOJGfPzaMTlNCaH13bpBUt-thlJG7Wmz_2eFcWS-P7oEXZkugoCc2bx9aaF48WBXgqPutHhtGnJKMggJKwoHMjlUtcqF5q0FfP9QtmsamhvRVrAZCac33VQv8umz6O5EUXg8v03poI1lanHRpA793GS_9_9cu8SOoSvvbtM6G-dfhtfuQZIJ1xnr6Npflx8nXPWjLLJcGF1YRwnuoc20FG69HC3X_L9Tb7SUP_QLoGvm3qCeQVXhmYmewSoqyejP076epyYdVLdcX7o4LBV_NX1zp9wu-qEO4jE5ywWPynFYQrL8mqH-YgySJ--4-eji-mUMdBb8I_W4xIMbrLw6EzbQEidxsC9KmFk4l46Vmy16hhEMLLUWRbE8vn3KB=w1400-h9999-no 1400w' />
 
