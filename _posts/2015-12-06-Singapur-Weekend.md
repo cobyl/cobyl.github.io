@@ -7,7 +7,7 @@ tags: [Singapur]
 
 No to Singapur. Taki Londyn, ale w środku Azji. Tylko, że czysty. I bogaty. Bardzo. Czyli, trochę jednak nie jak Londyn. 
 
-Zdjęcia poniżej. Mało one w sumie reprezentatywne dla tego miasta. Trochę mi się nie chciało robić wiecej. Bo pogoda jakaś koszmarna mi się trafiła.  Lalo prawie nonstop. Trochę też przez to nie pozwiedzałem różnych fajnych ogrodów tutaj. Cóż, jest powód by tu wrócić.
+Zdjęcia poniżej. Mało one w sumie reprezentatywne dla tego miasta. Trochę mi się nie chciało robić wiecej. Bo pogoda jakaś koszmarna mi się trafiła.  Lało prawie nonstop. Trochę też przez to nie pozwiedzałem różnych fajnych ogrodów tutaj. Cóż, jest powód by tu wrócić.
 
 A w ogóle to pierwszy raz skorzystałem z couchsurfingu. Bardzo fajnie trafiłem. Więc teraz jestem fanem.
 
