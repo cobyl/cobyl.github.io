@@ -5,7 +5,7 @@ category: Wycieczki
 tags: [Singapur]
 ---
 
-No to Singapur. Taki Londyn, ale w środku Azji. Tyle, że czysty. I bogatszy. I mniej multikulti. Czyli, zupełnie nie Londyn. 
+No to Singapur. Taki Londyn, ale w środku Azji. Tylko, że czysty. I bogaty. Bardzo. Czyli, zupełnie nie jak Londyn. 
 
 Zdjęcia poniżej. Mało one w sumie reprezentatywne dla tego miasta. Trochę mi się nie chciało robić wiecej. Bo pogoda jakaś koszmarna mi się trafiła.  Lalo prawie nonstop. Trochę też przez to nie pozwiedzałem różnych fajnych ogrodów tutaj. Cóż, jest powód by tu wrócić.
 
