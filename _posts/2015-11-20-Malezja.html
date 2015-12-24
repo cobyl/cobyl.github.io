@@ -1,0 +1,24 @@
+---
+layout: default
+title: Malezja, 7.XII - 20.XII.2015
+category: Wycieczki
+tags: [Malezja]
+---
+
+<div style='margin:auto;max-width: 55em'>
+<p>
+    <ul>
+    <li><b>Singapur - Johor Bahru  - Melaka</b>. 7.XII.2015</li>
+    <li><b>Melaka</b>. 7-11.XII.2015</li>
+    <li><b>Melaka - Kuala Lumpur</b>. 11.XII.2015</li>
+    <li><b>Kuala Lumpur</b>. 11-20.XII.2015</li>
+    </ul>
+</p>
+
+<ul>
+{% for post in site.categories.malezja2 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+</div>
