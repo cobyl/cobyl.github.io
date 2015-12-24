@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jedzenie na Penang
-category: Malezja, Jedzenie
+category: Malezja
 ---
 
 Penang to nazwa wyspy, a także malezyjskiego stanu obejmującego poza wyspą także trochę kontynentu. Z bogatą kolonialną historią - bo to dawna część tej samej kolonii co Singapur. Były to tzw. Straits Settlements, podlegającej bezpośrednio koronie brytyjskiej, nie zaś będące tylko protektoratami, tak jak okoliczne państwa malajskie (z których potem wyłoni się Malezja).
