@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h2>Ostatnie 20 wpisów</h2>
+<h2>Ostatnie 30 wpisów</h2>
 
 <ul class="posts">  
-	{% for post in site.posts limit:20 %}  
+	{% for post in site.posts limit:30 %}  
 	   <li>  
 		   <span>
 			{% assign m = post.date | date: "%-m" %}
