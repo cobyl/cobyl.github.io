@@ -1,0 +1,23 @@
+---
+layout: default
+title: Wietnam, 16.I.2016 - 2.III.2016
+category: Wycieczki
+tags: [Wietnam]
+---
+
+<div style='margin:auto;max-width: 55em'>
+<p>
+    <ul>
+    <li><b>Chiang Mai - Bangkok - Sajgon/Ho Chi Minh City</b>. 16.I.2016</li>
+    <li><b>Saigon - Can Tho/Delta Mekongu - Saigon</b>. 6-9.II.2016</li>
+    </ul>
+</p>
+
+<ul>
+{% for post in site.categories.wietnam2 reversed %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+</div>
