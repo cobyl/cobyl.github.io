@@ -23,7 +23,7 @@ Kolejny balijski klasyk to Nasi Campur. Nasi to ryż. A campur znaczy tyle, że 
 
 Tu pani kompletuje mi obiad. Mogłoby być higieniczniej. 
 
-<img src='https://www.dropbox.com/s/a3wb0s8fyobx3ss/3.jpg' />
+<img src='https://www.dropbox.com/s/a3wb0s8fyobx3ss/3.jpg?raw=1' />
 
 <img src='https://www.dropbox.com/s/xyrw9k7dv2wj8z2/4.jpg' />
 
