@@ -1,29 +1,24 @@
 ---
 layout: default
 title: Indonezja. Bali. Nyepi.
-category: Indonezja2
+category: indonezja2
 ---
 
 Nyepi, czyli Balijski Nowy Rok. To już trzeci nowy rok tego roku dla mnie. Co to Nyeypi to można sobie przeczytać na przykład tutaj 
-(https://en.wikipedia.org/wiki/Nyepi)[https://en.wikipedia.org/wiki/Nyepi]. A jak się komuś nie chce czytać to w skrócie chodzi o to, 
-że to dzień milczenia. W zasadzie nie powinno się jeść, odzywać, używać elektryczności, gotować etc.
+[https://en.wikipedia.org/wiki/Nyepi](https://en.wikipedia.org/wiki/Nyepi). 
 
-Absolutnym minimum (którego pilnuje specjalna religijna policja, pecalang) jest siedzenie przez cały dzień w domu. Dotyczy to tak 
-Balijczyków jak i turystów. Z tym świętem koncepcja jest taka, że tego dnia na wyspę przychodzą złe duchy. Trzeba je więc przekonać, 
-że nikt tu nie miesza. Co by zniechęcone wróciły tam gdzie im  dobrze. Czyli jak podejrzewam do Polski. Niesety byliśmy dość cicho. 
-Sorry Polsko. 
+A jak się komuś nie chce czytać to w skrócie chodzi o to, że to dzień milczenia. W zasadzie nie powinno się jeść, odzywać, używać elektryczności, gotować etc. Absolutnym minimum (którego pilnuje specjalna religijna policja, pecalang) jest siedzenie przez cały dzień w domu. Dotyczy to tak Balijczyków jak i turystów. Z tym świętem koncepcja jest taka, że tego dnia na wyspę przychodzą złe duchy. Trzeba je więc przekonać, że nikt tu nie miesza. Co by zniechęcone wróciły tam gdzie im  dobrze. Czyli jak podejrzewam do Polski. Niesety byliśmy dość cicho. Sorry Polsko. 
 
 Skądinąd zazdrościć należy przekonania Balijczyków, że zło jest tak tępawe, że się na takie triki nabiera.
 
-A dzień przed tym świętem dzieje się o to co na zdjęciach poniżej. W Balijskich wioskach odbywają się procesje z figurami Ogoh-Ogoh.  
+Dzień przed tym świętem dzieje się o to co na zdjęciach poniżej. W Balijskich wioskach odbywają się procesje z figurami Ogoh-Ogoh.  
 Te  wykonane z paper mache reprezentacje demonów są obnoszone po wsi/miasteczku a następnie palone. Symboliki tego trochę nie łapię, 
-internet jest pełen sprzecznych informacji. Coś w rodzaju, że, te demony odstraszają złe duchy. Nie składa mi się to w logiczną część. 
-Ale być może logika to nie jest najlepsze narzędzie do analizowania religi.
+internet jest pełen sprzecznych informacji. Coś w rodzaju, że, te demony odstraszają złe duchy. Nie składa mi się to w logiczną część. Ale być może logika to nie jest najlepsze narzędzie do analizowania religi.
 
 W każdym razie chodzi o dobro i zło. W sensie, efektem tego wszystkiego ma być to, że zła nie będzie. Wychodzi więc na to ze 
-skutecznośc tych procesji jestdość niska. Ale w sumie jest kolorowo i ładnie, więc nie ma co się czepiać. 
+skutecznośc tych procesji jest raczej niska. Ale w sumie jest kolorowo i ładnie, więc nie ma co się czepiać. 
 
-A i jescze, co ciekawe jest to bardzo świeża, mająca tylko trzydzieści parę lat tradycja. 
+A i jeszcze, co ciekawe jest to bardzo świeża, mająca tylko trzydzieści parę lat tradycja. 
 
 No to zdjęcia:
 
