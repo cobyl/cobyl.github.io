@@ -7,24 +7,30 @@ category: Wietnam3
 <div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='height: auto; column-count: 3; -webkit-column-count: 3'>
-        <p>Zapraszam do mojego przeglądu wietnamskiego jedzenia. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. 
+        <p>Zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. 
         </p>
         <p>
         Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.
         </p>
-        <p>PJedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
+        <p>Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
         <p>
+        <p>Ceny. Jest tanio. Ceny większości tych dań wahają się między 15 000 VND a 30 000 VND, czyli między 0.7$ a 1.4$. To są ceny streetfoodu oraz takich tanich ulicznych jadłodajni. W knajpach jest drożej, ale nie wiele drożej. Powiedzmy dwa razy drożej. Wyjątkiem są ceny owoców morza. Przy czym nie zup, faszerowanych owoców, drobnych potrawek - te mają ceny ja podałem. Więcej kosztują ostrygi, kraby etc. Powiedzmy, że taki porządny obiad z piwem dla dwóch osób, żeby się ledwo od owoców morza ruszać to koło 10$ - 15$. A właśnie - piwo. Piwo jest dobre tu i tanie. W sklepie okolo 0.5$, w knajpie koło 1$ (ceny podaje w dolarach bo wietnamski dong jest z dolarem prawie sztywno związany).</p>
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
+            <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
+            <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
+            <li><a href='#canh-bun'>Canh bun</a></li>
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
+            <li><a href='#cua-farci'>Cua Farci</a></li>
             <li><a href='#dua-nuoc'>Dua nuoc</a></li>
+            <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ol>
         </p>
@@ -55,6 +61,18 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
     </div>
 </div>
 
+
+<div class="demo-container mdl-grid slides" id="banh-canh-cua">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/xuhqa94zt2r8tng/2016-04-02_1459560587.jpg?raw=1'/>
+        <p>
+        <h1>Banh Canh Cua</h1>
+        Zupa z takimi grubymi kluskami z mąki ryżowej i tapioki (<em>banh canh</em>) oraz krabem (<em>cua</em>). Ja nie jestem wielkim fanem krabów, więcej chrzanienia niż radości. I chyba wyjątek robię właśnie dla zup, ta jest naprawdę świetna.
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="banh-khot">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/e44nawi71v9b3z0/2016-01-24_1453621358.jpg?raw=1'/>
@@ -76,16 +94,6 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="bun-dau-ta-la">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
-        <p>
-        <h1>Bun Dau Ta La</h1>
-Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
-        </p>
-    </div>
-</div>
-
 <div class="demo-container mdl-grid slides" id="bun-cha">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
@@ -96,12 +104,44 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="bun-dau-ta-la">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
+        <p>
+        <h1>Bun Dau Ta La</h1>
+Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="bun-mang-ga">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/ah76aptn9b62agw/2016-04-07_1460000728.jpg?raw=1'/>
+        <p>
+        <h1>Bun Mang Ga</h1>
+        Rosół z kury z pędami bambusa. Podawany, jak zawsze tu podawawane są zupy. A więc oddzielnie z limonką i czili do doprawienia.  Oraz zestawem ziół. Dodatkowo jeszcze dostaeęm obgotowane kiełki. W miarę jedzenia dokłada się kolejne ich porcje do zupy. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="bun-rieu-cua">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/l6rx1i9y2a72bj2/2016-01-18_1453095800.jpg?raw=1'/>
         <p>
         <h1>Bun Rieu Cua</h1>
         Zupa z drobnym makaronem ryżowym (na drobny makaron jest polskie słowo, wermiszel, nie znałem go wcześniej), pomidorami, pastą krewetkową i malutkimi	słodkowodnymi krabami (Takie wielkoci małży, zyją na polach ryżowych). Doprawiana, dokwaszana, świńską krwią. Do tego trochę wędlin, szpinaku wodnego, kiełków, tofu. Pożywne i dobre.
+        </p>
+    </div>
+</div>
+
+
+<div class="demo-container mdl-grid slides" id="canh-bun">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/n2p8gswx7vhj3iv/2016-04-04_1459748214.jpg?raw=1'/>
+        <p>
+        <h1>Canh Bun</h1>
+        Zupa w której główną rolę grają pulpety z mielonego mięsa kraba. Do tego jescze trochę tofu, wodnego szpinaku i (co jest typowe dla wielu zup z owocami morza tu) troche wieprzowej krwi do smaku. Pokrewne danie do <a href='bun-rieu-cua'>Bun Rieu</a>.
         </p>
     </div>
 </div>
@@ -115,6 +155,17 @@ Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bar
         </p>
     </div>
 </div>
+
+<div class="demo-container mdl-grid slides" id="cua-farci">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/93h1f4c5w2ezc2o/2016-04-06_1459923556.jpg?raw=1'/>
+        <p>
+        <h1>Cua Farci</h1>
+        Faszerowany krab. Masa to wieprzowina, jajko no i oczywiście mięso kraba. Następnie gotowane na parze. Nic specjalnego.
+        </p>
+    </div>
+</div>
+
 
 
 <div class="demo-container mdl-grid slides" id="dau-hu-nhoi-thit">
@@ -136,6 +187,17 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         </p>
     </div>
 </div>
+
+<div class="demo-container mdl-grid slides" id="muc-nhoi-thit">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/75urftjbbkd5zla/2016-04-08_1460127112.jpg?raw=1'/>
+        <p>
+        <h1>Muc Nhoi Thit</h1>
+        Faszerowany wieprzowiną kalmar. 
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="xiu-mai">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -605,14 +667,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/xuhqa94zt2r8tng/2016-04-02_1459560587.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -641,41 +695,8 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/n2p8gswx7vhj3iv/2016-04-04_1459748214.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/93h1f4c5w2ezc2o/2016-04-06_1459923556.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ah76aptn9b62agw/2016-04-07_1460000728.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/75urftjbbkd5zla/2016-04-08_1460127112.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
