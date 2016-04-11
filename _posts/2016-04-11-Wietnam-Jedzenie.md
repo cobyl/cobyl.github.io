@@ -18,22 +18,26 @@ category: Wietnam3
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
+            <li><a href='#banh-can'>Banh Can</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
             <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
+            <li><a href='#bo-la-lot'>Bo La Lot</a></li>
             <li><a href='#bot-chien'>Bot Chien</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
-            <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
             <li><a href='#ca-kho'>Ca Kho</a></li>
             <li><a href='#canh-bun'>Canh Bun</a></li>
             <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
+            <li><a href='#com-tam'>Com Tam</a></li>
             <li><a href='#cua-farci'>Cua Farci</a></li>
+            <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
             <li><a href='#dua-nuoc'>Dua Nuoc</a></li>
+            <li><a href='#hu-tieu-mi-kho'>Hu Tieu Mi Kho</a></li>
             <li><a href='#mi-hoanh-tanh'>Mi Hoanh Tanh</a></li>
             <li><a href='#mi-quang'>Mi Quang</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
@@ -68,10 +72,21 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="banh-can">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/8b2bwlc27oqje51/2016-02-23_1456247597.jpg?raw=1'/>
+        <p>
+        <h1>Banh Can</h1>
+        Naleśniki ryżowe, trochę podobne do <a href='#banh-khot'>Banh Khot</a> ale bez dodatku mleka kokosowego. Nadziewane różnymi dodatkami (na zdjęciu mało to widać, ale są z jajkiem i kalmarem). Podawane z gęstym (na granicy zupy) sosie z jajkami i kulkami mięsnymi. 
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="banh-canh-cua">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/xuhqa94zt2r8tng/2016-04-02_1459560587.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/rponnvga3384vyh/2016-02-19_1455860405.jpg?raw=1'/>
         <p>
         <h1>Banh Canh Cua</h1>
         Zupa z takimi grubymi kluskami z mąki ryżowej i tapioki (<em>banh canh</em>) oraz krabem (<em>cua</em>). Ja nie jestem wielkim fanem krabów, więcej chrzanienia niż radości. I chyba wyjątek robię właśnie dla zup, ta jest naprawdę świetna.
@@ -111,6 +126,17 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         </p>
     </div>
 </div>
+
+<div class="demo-container mdl-grid slides" id="bo-la-lot">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/pg3w9togxbqrmep/2016-02-13_1455339204.jpg?raw=1'/>
+        <p>
+        <h1>Bo La Lot</h1>
+        Grillowana, owinięta w liście betelu, wołowina. Podaje się ją z makaronem ryżowym, zestawem sałat i ziół, piklami i papierem ryżowym. Je się to zawijajc wszystko to w papier ryżowy, tworząc własne spring rollsy. Jedno z moich ulubionych wietnamskich dań.  
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="bot-chien">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -204,6 +230,15 @@ Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="com-tam">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/i3p47cq6xopxvk8/2016-02-20_1455946382.jpg?raw=1'/>
+        <p>
+        <h1>Com Tam</h1>
+        <em>Com Tam</em> znaczy ugotowany uszkodzony ryż. <em>Tam</em> to są uszkodzone ziarna ryżu, niegdyś pokarm najuboższych, obecnie chyba trochę przysmak. Klasyczny wariant tego dania to sporo ryżu, grillowana  karkówka, trochę świeżych warzyw oraz oczywiście sos rybny z octem i chilli. Charakterystyczna potrawa dla Sajgonu. Je się to zazwyczaj wieczorem. 
+        </p>
+    </div>
+</div>
 
 
 <div class="demo-container mdl-grid slides" id="cua-farci">
@@ -234,6 +269,16 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <p>
         <h1>Dua Nuoc</h1>
         Sok? Woda? z owoców nipy krzewnikowej, nazywanej tutaj kokosem wodnym. Bardzo podobne zresztą w smaku do wody kokosowej, tylko dużo słodsze. No i dużo mniej wydajne, na malą szklankę napoju trzeba rozłupać kilka owoców.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="hu-tieu-mi-kho">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/mtz8gd22qwocncn/2016-02-27_1456582114.jpg?raw=1'/>
+        <p>
+        <h1>Hu Tieu Mi Kho</h1>
+        Hu Tieu to chińskie danie, znam je z malezji, pod nazwą <em>Kuy Teav</em>.  Zasadniczo są to ryżowe kluski podane w wieprzowym rosole z dużą ilością dodatków (krewetki, kurczak, mięso mielone...). Ale tu wersja "sucha" (<em>Mi Kho</em>), z rosołem podanym osobno, oraz dwoma rodzajami klusek lekko podsmażonych na smalcu. 
         </p>
     </div>
 </div>
@@ -334,15 +379,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/8ztbf45nagnfkmo/2016-01-24_1453661507.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/5ttjksgs4yznpx4/2016-01-27_1453877925.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
@@ -454,33 +490,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/pg3w9togxbqrmep/2016-02-13_1455339204.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/rponnvga3384vyh/2016-02-19_1455860405.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/i3p47cq6xopxvk8/2016-02-20_1455946382.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/0iq0by9bpy2edgz/2016-02-20_1455954630.jpg?raw=1'/>
         <p>
         <h1></h1>
@@ -525,14 +534,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 </div>
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/8b2bwlc27oqje51/2016-02-23_1456247597.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -580,14 +581,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/mtz8gd22qwocncn/2016-02-27_1456582114.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
