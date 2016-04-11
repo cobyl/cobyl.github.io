@@ -22,6 +22,7 @@ category: Wietnam3
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
+            <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
             <li><a href='#dua-nuoc'>Dua nuoc</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ul>
@@ -52,6 +53,17 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         </p>
     </div>
 </div>
+
+<div class="demo-container mdl-grid slides" id="banh-khot">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/e44nawi71v9b3z0/2016-01-24_1453621358.jpg?raw=1'/>
+        <p>
+        <h1>Banh Khot</h1>
+        Malutkie naleśniki z mąki ryżowej, mleka kokosowego no i kurkumy. A na nich krewetka i trochę szalotki. Je się mocząc je w sosie <em>Nuoc Cham</em> (patrz np. <a href='#banh-beo-hue'>Banh Beo Hue</a>)
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="banh-mi">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -93,6 +105,17 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="ca-phe-sua-da">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/jc1z7edogjsxehd/2016-01-29_1454041229.jpg?raw=1'/>
+        <p>
+        <h1>Ca Phe Sua Da</h1>
+Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bardzo bardzo bardzo dużo lodu. Zazwyczaj podawana dodatkowo z mrożoną zieloną herbatą.         
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="dau-hu-nhoi-thit">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/3zb6xpieqng7zry/2016-01-22_1453438209.jpg?raw=1'/>
@@ -107,7 +130,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/3frp0l4l4xyatel/2016-04-10_1460262745.jpg?raw=1'/>
         <p>
-        <h1>Dua nuoc</h1>
+        <h1>Dua Nuoc</h1>
         Sok? Woda? z owoców nipy krzewnikowej, nazywanej tutaj kokosem wodnym. Bardzo podobne zresztą w smaku do wody kokosowej, tylko dużo słodsze. No i dużo mniej wydajne, na malą szklankę napoju trzeba rozłupać kilka owoców.
         </p>
     </div>
@@ -168,15 +191,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/e44nawi71v9b3z0/2016-01-24_1453621358.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/xziujjjeeai8qwq/2016-01-24_1453623276.jpg?raw=1'/>
         <p>
         <h1></h1>
@@ -205,15 +219,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/5ttjksgs4yznpx4/2016-01-27_1453877925.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/jc1z7edogjsxehd/2016-01-29_1454041229.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
