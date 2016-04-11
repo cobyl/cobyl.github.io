@@ -22,6 +22,7 @@ category: Wietnam3
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
             <li><a href='#dua-nuoc'>Dua nuoc</a></li>
+            <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ul>
         </p>
     </div>
@@ -101,7 +102,17 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="xiu-mai">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/cwg1b0akflhg84b/2016-02-16_1455595330.jpg?raw=1'/>
+        <p>
+        <h1>Xiu Mai</h1>
+         Wieprzowe klopsy w sosie pomidorowym. Częsty dodatek do <em>Banh Mi</em>, ale występują, jak widać, także jako samodzielne danie. 
+        </p>
+    </div>
+</div>
 
+<hr />
 
 
 <div class="demo-container mdl-grid slides" id="slide-">
@@ -363,15 +374,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/pg3w9togxbqrmep/2016-02-13_1455339204.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/cwg1b0akflhg84b/2016-02-16_1455595330.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
