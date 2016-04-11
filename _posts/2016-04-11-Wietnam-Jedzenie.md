@@ -7,14 +7,16 @@ category: Wietnam3
 <div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='height: auto; column-count: 3; -webkit-column-count: 3'>
-        <p>Zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. 
-        </p>
-        <p>
-        Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.
-        </p>
+        <p>Zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. </p>
+        <p>Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.        </p>
         <p>Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
-        <p>
         <p>Ceny. Jest tanio. Ceny większości tych dań wahają się między 15 000 VND a 30 000 VND, czyli między 0.7$ a 1.4$. To są ceny streetfoodu oraz takich tanich ulicznych jadłodajni. W knajpach jest drożej, ale nie wiele drożej. Powiedzmy dwa razy drożej. Wyjątkiem są ceny owoców morza. Przy czym nie zup, faszerowanych owoców, drobnych potrawek - te mają ceny ja podałem. Więcej kosztują ostrygi, kraby etc. Powiedzmy, że taki porządny obiad z piwem dla dwóch osób, żeby się ledwo od owoców morza ruszać to koło 10$ - 15$. A właśnie - piwo. Piwo jest dobre tu i tanie. W sklepie okolo 0.5$, w knajpie koło 1$ (ceny podaje w dolarach bo wietnamski dong jest z dolarem prawie sztywno związany).</p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
+         style='height: auto; column-count: 3; -webkit-column-count: 3'>
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
@@ -54,7 +56,6 @@ category: Wietnam3
         </p>
     </div>
 </div>
-
 
 <div class="demo-container mdl-grid slides" id="banh-bao">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
