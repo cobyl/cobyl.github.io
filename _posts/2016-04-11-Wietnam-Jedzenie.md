@@ -21,6 +21,7 @@ category: Wietnam3
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
+            <li><a href='#dua-nuoc'>Dua nuoc</a></li>
         </ul>
         </p>
     </div>
@@ -89,6 +90,17 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         </p>
     </div>
 </div>
+
+<div class="demo-container mdl-grid slides" id="dua-nuoc">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/3frp0l4l4xyatel/2016-04-10_1460262745.jpg?raw=1'/>
+        <p>
+        <h1>Dua nuoc</h1>
+        Sok? Woda? z owoców nipy krzewnikowej, nazywanej tutaj kokosem wodnym. Bardzo podobne zresztą w smaku do wody kokosowej, tylko dużo słodsze. No i dużo mniej wydajne, na malą szklankę napoju trzeba rozłupać kilka owoców.
+        </p>
+    </div>
+</div>
+
 
 
 
@@ -657,15 +669,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/icf7x16vlpfn995/2016-04-10_1460256039.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/3frp0l4l4xyatel/2016-04-10_1460262745.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
