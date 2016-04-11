@@ -8,11 +8,12 @@ category: Wietnam3
 <div class="demo-container mdl-grid slides" id="start">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='column-count: 3'>
+        <p>Zapraszam do mojego przeglądu wietnamskiego jedzenia. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej.</p>
+        <p>Parę generalnych uwag. Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
         <p>
-Zapraszam do mojego przeglądu wietnamskiego jedzenia. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej.
-</p>
-        <p>
-Parę generalnych uwag. Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. 
+        <ul>
+            <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
+        </ul>
         </p>
     </div>
 </div>
