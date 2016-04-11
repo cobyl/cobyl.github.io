@@ -8,7 +8,11 @@ category: Wietnam3
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/rnyq24gbzy7wgx3/2016-01-17_1453031185.jpg?raw=1'/>
         <p>
-        <h1></h1>
+        <h1>Banh Beo Hue</h1>
+Ugotowane na parze ciasto z mąki ryżowej i tapioki, podane w formie czegoś w pół drogi między pierożkami, placuszkami a naleśnikami. Podaje się to z suszonymi krewetkami, skwarkami, grzankami, szalotką obficie polane sosem. Sos to <em>Nuoc Cham</em>, wspólny mianownik dużej części wietnamskiej kuchni, a składający się z połączonego octu ryżowego, sosu rybnego, limonki i czili. Ewentualnie z odrobiną pikli. 
+<br /><br />
+Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue</em> to nazwa wariantu pochodzącego od tak nazywającego się tak miasta, dawnej siedziby dworu królewskiego. Kuchnia Hue uchodzi za najbardziej wykwintą i elegancką w Wietnamie. 
+
         </p>
     </div>
 </div>
