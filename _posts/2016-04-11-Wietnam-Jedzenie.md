@@ -18,6 +18,7 @@ category: Wietnam3
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
+            <li><a href='#banh-bo-thot-not'>Banh Bo Thot Not"></a></li>
             <li><a href='#banh-can'>Banh Can</a></li>
             <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
@@ -44,6 +45,7 @@ category: Wietnam3
             <li><a href='#mi-hoanh-tanh'>Mi Hoanh Tanh</a></li>
             <li><a href='#mi-quang'>Mi Quang</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
+            <li><a href='#nem-cuon'>Nem Cuon</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ol>
         </p>
@@ -70,7 +72,16 @@ category: Wietnam3
 Ugotowane na parze ciasto z mąki ryżowej i tapioki, podane w formie czegoś w pół drogi między pierożkami, placuszkami a naleśnikami. Podaje się to z suszonymi krewetkami, skwarkami, grzankami, szalotką obficie polane sosem. Sos to <em>Nuoc Cham</em>, wspólny mianownik dużej części wietnamskiej kuchni, a składający się z połączonego octu ryżowego, sosu rybnego, limonki i czili. Ewentualnie z odrobiną pikli. 
 <br /><br />
 Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue</em> to nazwa wariantu pochodzącego od tak nazywającego się tak miasta, dawnej siedziby dworu królewskiego. Kuchnia Hue uchodzi za najbardziej wykwintą i elegancką w Wietnamie. 
+        </p>
+    </div>
+</div>
 
+<div class="demo-container mdl-grid slides" id="banh-bo-thot-not">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/hu5iro6cj3f4avd/2016-04-01_1459507901.jpg?raw=1'/>
+        <p>
+        <h1>Banh Bo Thot Not</h1>
+        Rodzaj naleśnika na bazie ciasta z ryżowego z mlekiem kokosowym i drożdzami. Wypiekanego w takich dziwnych naczynkach. 
         </p>
     </div>
 </div>
@@ -348,6 +359,16 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="nem-cuon">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/xziujjjeeai8qwq/2016-01-24_1453623276.jpg?raw=1'/>
+        <p>
+        <h1>Nem Cuon</h1>
+        Czyli świeże sajgonki. A w ich środku sałałata, makaron ryżowy, krewetki, ogórek. Do tego sos z orzeszkami, cukrem, czosnkiem, limonką no i rzecz jasna sosem rybnym też.
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="xiu-mai">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -402,14 +423,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/xziujjjeeai8qwq/2016-01-24_1453623276.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -654,14 +667,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/hu5iro6cj3f4avd/2016-04-01_1459507901.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 
