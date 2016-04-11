@@ -14,9 +14,10 @@ category: Wietnam3
         </p>
         <p>PJedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
         <p>
-        <ul>
+        <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
+            <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
@@ -25,7 +26,7 @@ category: Wietnam3
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
             <li><a href='#dua-nuoc'>Dua nuoc</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
-        </ul>
+        </ol>
         </p>
     </div>
 </div>
