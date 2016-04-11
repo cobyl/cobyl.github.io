@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: slides
 title: Wietnam. Jedzenie.
 category: Wietnam3
 ---
+
+<div id='slides'>
 
 <div>
     <h1></h1>
@@ -363,4 +365,6 @@ category: Wietnam3
     <h1></h1>
     <img src='https://www.dropbox.com/s/9rajfscm86p40lp/2016-04-10_1460282639.jpg?raw=1'/>
     <p></p>
+</div>
+
 </div>
