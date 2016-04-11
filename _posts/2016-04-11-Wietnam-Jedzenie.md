@@ -17,7 +17,10 @@ category: Wietnam3
         <ul>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
+            <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
+            <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
+            <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
         </ul>
         </p>
     </div>
@@ -47,6 +50,26 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="bun-dau-ta-la">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
+        <p>
+        <h1>Bun Dau Ta La</h1>
+Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="bun-cha">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
+        <p>
+        <h1>Bun Cha</h1>
+        A to akurat typowe danie z Hanoi. Z północy. Grillowane na węglu drzewnym burgery wieprzowe podawane w sosie <em>Nuoc Cham</em> (a więc sos rybny, limonka, ocet), wraz z piklami. Do tego oddzielnie makaron ryżowy i (jak zawsze tu) bardzo dużo ziół. 
+        </p>
+    </div>
+</div>
+
 <div class="demo-container mdl-grid slides" id="bun-rieu-cua">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/l6rx1i9y2a72bj2/2016-01-18_1453095800.jpg?raw=1'/>
@@ -57,25 +80,17 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
+<div class="demo-container mdl-grid slides" id="dau-hu-nhoi-thit">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/3zb6xpieqng7zry/2016-01-22_1453438209.jpg?raw=1'/>
         <p>
-        <h1>Bun Dau Ta La</h1>
-Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
+        <h1>Dau Hu Nhoi Thit</h1>
+Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej ulicznej jadłodajni, nazywają się one (chyba) <em>Quan</em>. W takim miejscu  dostajesz prawie zawsze do dania w cenie dodatkowo zupę oraz mrożoną zieloną herbatę.         
         </p>
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
-        <p>
-        <h1>Bun Cha</h1>
-        A to akurat typowe danie z Hanoi. Z północy. Grillowane na węglu drzewnym burgery wieprzowe podawane w sosie <em>Nuoc Cham</em> (a więc sos rybny, limonka, ocet), wraz z piklami. Do tego oddzielnie makaron ryżowy i (jak zawsze tu) bardzo dużo ziół. 
-        </p>
-    </div>
-</div>
+
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -89,14 +104,6 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
 
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/3zb6xpieqng7zry/2016-01-22_1453438209.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
