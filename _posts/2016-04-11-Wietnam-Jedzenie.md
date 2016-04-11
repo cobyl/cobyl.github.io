@@ -19,13 +19,16 @@ category: Wietnam3
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
             <li><a href='#banh-can'>Banh Can</a></li>
+            <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
             <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
+            <li><a href='#banh-xeo'>Banh Xeo</a></li>
             <li><a href='#bo-la-lot'>Bo La Lot</a></li>
             <li><a href='#bot-chien'>Bot Chien</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
+            <li><a href='#bun-bo'>Bun Bo</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
@@ -83,6 +86,17 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
 </div>
 
 
+<div class="demo-container mdl-grid slides" id="banh-canh-ca-loc">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/kmvy66nr6mpozn2/2016-01-31_1454238452.jpg?raw=1'/>
+        <p>
+        <h1>Banh Canh Ca Loc</h1>
+        Kwaśna zupa z rybą która się nazywa po polsku żmijogłowiec. Podaje się to z grubymi ryżowo-tapiokowymi kluskami <em>Banh Canh</em> i jajkami przepiórczymi. Moja ulubiona wietnamska zupa. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="banh-canh-cua">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/xuhqa94zt2r8tng/2016-04-02_1459560587.jpg?raw=1'/>
@@ -127,6 +141,17 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="banh-xeo">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/ro2jzpwnts4fl0s/2016-04-02_1459617670.jpg?raw=1'/>
+        <p>
+        <h1>Banh Xeo</h1>
+        Duże, usmażóne na chrupko naleśniki, z farszem z  kiełków i krewetek. Zazwyczaj sprzedawane w miejscach które podają także <a href='#banh-khot'>Banh Khot</a>, bo chyba ciasto z których się je robi jest identyczne.  Je się zawijajac naleśnik w zioła i papier ryżowy. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="bo-la-lot">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/pg3w9togxbqrmep/2016-02-13_1455339204.jpg?raw=1'/>
@@ -144,6 +169,16 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <p>
         <h1>Bot Chien</h1>
         Kolejne chińskie danie. Coś w rodzaju smażonych kopytek, tyle, że z ciasta ryżowego. Smaży się je na smalcu, dodatkowo jeszcze z jajkiem. Podaje z drobno pokrojoną zieloną papają. Dla mnie dużo za tłuste.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="bun-bo">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/nbwncdzr64ip1q6/2016-03-30_1459335053.jpg?raw=1'/>
+        <p>
+        <h1>Bun Bo</h1>
+        Bardzo popularna (nie wiem czy nie ich ulubiona) zupa z wołowiną. Duże kawałki wołowiny, wraz z kością, makaron ryżowy, a dodatkowo, osobno zioła, sałaty, obgotowane kiełki. Kawałki wołowiny wyjmuje się z zupy i moczy się w oddzielnie podanym pikantnym sosie. 
         </p>
     </div>
 </div>
@@ -423,15 +458,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/kmvy66nr6mpozn2/2016-01-31_1454238452.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/80xvadeklokw871/2016-02-02_1454376072.jpg?raw=1'/>
         <p>
         <h1></h1>
@@ -609,14 +635,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/nbwncdzr64ip1q6/2016-03-30_1459335053.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -646,14 +664,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 </div>
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ro2jzpwnts4fl0s/2016-04-02_1459617670.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 <div class="demo-container mdl-grid slides" id="slide-">
