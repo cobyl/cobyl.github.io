@@ -25,6 +25,11 @@
   padding-left: 40px;
 }
 
+div#slides img {
+  float: right;
+}
+}
+
 .demo-footer .mdl-mini-footer--link-list a {
   font-size: 13px;
 }
