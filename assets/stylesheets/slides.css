@@ -33,7 +33,7 @@
 .demo-content img {
   width: auto; 
   max-width:100%;
-  margin-left: 0;
+  margin-left: 56px;
   float: right;
   max-height: calc(100vh - 98px);
 }
