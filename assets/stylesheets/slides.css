@@ -3,7 +3,7 @@
 .demo-container {
   width: calc(100% - 16px);
   margin: 0 auto;
-  height: calc(100vh - 74px);
+  height: calc(100vh - 10px);
   
 }
 
@@ -25,10 +25,6 @@
   padding-left: 40px;
 }
 
-div#slides img {
-  float: right;
-}
-}
 
 .demo-footer .mdl-mini-footer--link-list a {
   font-size: 13px;
@@ -38,4 +34,6 @@ div#slides img {
   width: auto; 
   max-width:100%;
   margin-left: 0;
+  float: right;
+  max-height: 100%;
 }
