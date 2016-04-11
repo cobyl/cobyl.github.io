@@ -4,8 +4,6 @@ title: Wietnam. Jedzenie.
 category: Wietnam3
 ---
 
-
-
 <div class="demo-container mdl-grid slides" id="start">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='column-count: 3; -webkit-column-count: 3'>
@@ -37,7 +35,8 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/uki4q9viozx9dpx/2016-01-17_1453051120.jpg?raw=1'/>
         <p>
-        <h1></h1>
+        <h1>Banh Mi</h1>
+Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inna, bo wypiekana z mieszanki mąki pszennej i ryżowej z pasztetem, majonezem, piklami, chili, kolendrą, często sardynką oraz zależnie od wariantu: jajkiem, miksem wędlin (ten chyba najpopularniejszy), klopsikami w sosie pomidorowym, grillowanymi mini burgerami.         
         </p>
     </div>
 </div>
