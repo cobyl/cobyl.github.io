@@ -7,8 +7,12 @@ category: Wietnam3
 <div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='height: auto; column-count: 3; -webkit-column-count: 3'>
-        <p>Zapraszam do mojego przeglądu wietnamskiego jedzenia. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej.</p>
-        <p>Parę generalnych uwag. Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
+        <p>Zapraszam do mojego przeglądu wietnamskiego jedzenia. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. 
+        </p>
+        <p>
+        Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.
+        </p>
+        <p>PJedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
         <p>
         <ul>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
@@ -48,16 +52,27 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/l6rx1i9y2a72bj2/2016-01-18_1453095800.jpg?raw=1'/>
         <p>
         <h1>Bun Rieu Cua</h1>
-        Zupa z drobnym makaronem ryżowym (na drobny makaron jest polskie słowo, wermiszel, nie znałem go wcześniej), pomidorami, pastą krewetkową i malutkimi	słodkowodnymi krabami (Takie wielkoci małży, zyją na polach ryżowych). Doprawiana, dokwaszana, świńską krwią. Do tego trochę wędlin, szpinaku wodnego, tofu. Pożywne i dobre.
+        Zupa z drobnym makaronem ryżowym (na drobny makaron jest polskie słowo, wermiszel, nie znałem go wcześniej), pomidorami, pastą krewetkową i malutkimi	słodkowodnymi krabami (Takie wielkoci małży, zyją na polach ryżowych). Doprawiana, dokwaszana, świńską krwią. Do tego trochę wędlin, szpinaku wodnego, kiełków, tofu. Pożywne i dobre.
         </p>
     </div>
 </div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/jblj0fuba9mbmon/2016-01-18_1453138582.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
         <p>
-        <h1></h1>
+        <h1>Bun Dau Ta La</h1>
+Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="slide-">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
+        <p>
+        <h1>Bun Cha</h1>
+        A to akurat typowe danie z Hanoi. Z północy. Grillowane na węglu drzewnym burgery wieprzowe podawane w sosie <em>Nuoc Cham</em> (a więc sos rybny, limonka, ocet), wraz z piklami. Do tego oddzielnie makaron ryżowy i (jak zawsze tu) bardzo dużo ziół. 
         </p>
     </div>
 </div>
@@ -71,23 +86,8 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
+
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -673,3 +673,16 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         </p>
     </div>
 </div>
+
+
+
+<div class="demo-container mdl-grid slides" id="slide-">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/jblj0fuba9mbmon/2016-01-18_1453138582.jpg?raw=1'/>
+        <p>
+        <h1></h1>
+        przekaski do piwa, ew do wyrzucenia
+        </p>
+    </div>
+</div>
+
