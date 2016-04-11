@@ -23,6 +23,7 @@ category: Wietnam3
             <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
             <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
+            <li><a href='#banh-duc'>Banh Duc</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
             <li><a href='#banh-xeo'>Banh Xeo</a></li>
@@ -38,6 +39,7 @@ category: Wietnam3
             <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
             <li><a href='#com-tam'>Com Tam</a></li>
+            <li><a href='#com-tam-chay'>Com Tam Chay</a></li>
             <li><a href='#cua-farci'>Cua Farci</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
             <li><a href='#dua-nuoc'>Dua Nuoc</a></li>
@@ -46,6 +48,7 @@ category: Wietnam3
             <li><a href='#mi-quang'>Mi Quang</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#nem-cuon'>Nem Cuon</a></li>
+            <li><a href='#nui-chay'>Nui Chay</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ol>
         </p>
@@ -130,6 +133,16 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="banh-duc">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/ibsca4vdgftln7y/2016-02-22_1456156682.jpg?raw=1'/>
+        <p>
+        <h1>Banh Duc</h1>
+        Coś w rodzaju wytrawnego budyniu z mąki ryżowej. Podoawanego z sosem rybnym i jakimś dośc nieoczywistym dla mnie przybraniem. 
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="banh-khot">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -154,6 +167,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
 
 <div class="demo-container mdl-grid slides" id="banh-xeo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/kr9wgckr5jvs0yd/2016-02-21_1456045643.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/ro2jzpwnts4fl0s/2016-04-02_1459617670.jpg?raw=1'/>
         <p>
         <h1>Banh Xeo</h1>
@@ -286,6 +300,15 @@ Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="com-tam-chay">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/1w65kroyft85ec2/2016-02-24_1456288278.jpg?raw=1'/>
+        <p>
+        <h1>Com Tam Chay</h1>
+        Wegetariańska wersja <a href='#com-tam'>Com Tam</a>. Słowo <em>chay</em> oznacza dania wegetariańskie. Tylko jedna uwaga, wygląda na to, że chyba sos rybny nie uchodzi za mięso. 
+        </p>
+    </div>
+</div>
 
 <div class="demo-container mdl-grid slides" id="cua-farci">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -369,6 +392,15 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="nui-chay">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/401hal2x30l3c25/2016-02-22_1456120034.jpg?raw=1'/>
+        <p>
+        <h1>Nui Chay</h1>
+        Wegetariańska (<em>chay</em>) zupa z zwyczajnym, pszennym, makaronem (<em>nui</em>). Wariant wegetariański jest pełen grzybów. Bardziej typowy jest wariant drobiowy (<em>ga</em>), który jest chyba daniem najbardziej przypominającym typowy europejski rosół. No gdyby nie sos rybny. 
+        </p>
+    </div>
+</div>
 
 <div class="demo-container mdl-grid slides" id="xiu-mai">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -544,45 +576,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         </p>
     </div>
 </div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/kr9wgckr5jvs0yd/2016-02-21_1456045643.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/401hal2x30l3c25/2016-02-22_1456120034.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ibsca4vdgftln7y/2016-02-22_1456156682.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/1w65kroyft85ec2/2016-02-24_1456288278.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
