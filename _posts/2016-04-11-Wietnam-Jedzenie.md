@@ -35,7 +35,7 @@ category: Wietnam3
         <img src='https://www.dropbox.com/s/dk2fpwhwj1eqeln/2016-02-24_1456321031.jpg?raw=1'/>
         <p>
         <h1>Banh Bao</h1>
-        Wietnamska wersja chińskiego klasyka. Pszenne ciasto gotowane na parze z farszem. Tutaj, i  to chyba przyjęta w wietnamie konwencja ten okrągły z gulaszem i przepiórczymi jajkami, a ten podłóżny z czymś w rodzaju słodkiego budyniu.
+        Wietnamska wersja chińskiego klasyka, <em>baozi</em>. Pszenne ciasto gotowane na parze z farszem. Tutaj, i  to chyba przyjęta w wietnamie konwencja ten okrągły z gulaszem i przepiórczymi jajkami, a ten podłóżny z czymś w rodzaju słodkiego budyniu.
         </p>
     </div>
 </div>
