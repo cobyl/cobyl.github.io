@@ -52,6 +52,7 @@ category: Wietnam3
 <div class="demo-container mdl-grid slides" id="banh-beo-hue">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/rnyq24gbzy7wgx3/2016-01-17_1453031185.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/zttis34ocv3bn28/2016-02-05_1454666448.jpg?raw=1'/>
         <p>
         <h1>Banh Beo Hue</h1>
 Ugotowane na parze ciasto z mąki ryżowej i tapioki, podane w formie czegoś w pół drogi między pierożkami, placuszkami a naleśnikami. Podaje się to z suszonymi krewetkami, skwarkami, grzankami, szalotką obficie polane sosem. Sos to <em>Nuoc Cham</em>, wspólny mianownik dużej części wietnamskiej kuchni, a składający się z połączonego octu ryżowego, sosu rybnego, limonki i czili. Ewentualnie z odrobiną pikli. 
@@ -374,15 +375,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ley5qiux3p8e7fr/2016-02-03_1454517116.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/ip2b7d3rw1qt4ci/2016-02-04_1454564476.jpg?raw=1'/>
         <p>
         <h1></h1>
@@ -390,14 +382,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/638b345mb51wz0p/2016-02-04_1454583425.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -408,14 +392,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/zttis34ocv3bn28/2016-02-05_1454666448.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -525,14 +501,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/c9lzcy2j1wlomfb/2016-02-23_1456218355.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -592,15 +560,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/mtz8gd22qwocncn/2016-02-27_1456582114.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/nkyog8p5sc0s309/2016-02-28_1456647783.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
