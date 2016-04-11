@@ -3,6 +3,8 @@
 .demo-container {
   width: calc(100% - 16px);
   margin: 0 auto;
+  hright: calc(100vh - 74px);
+  
 }
 
 .demo-content {
@@ -28,6 +30,7 @@
 }
 
 .demo-content img {
-  width: calc(100% + 112px); 
-  margin-left: -56px;
+  width: auto; 
+  max-width:100%;
+  margin-left: 0;
 }
