@@ -27,6 +27,7 @@ category: Wietnam3
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
             <li><a href='#canh-bun'>Canh bun</a></li>
+            <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
             <li><a href='#cua-farci'>Cua Farci</a></li>
             <li><a href='#dua-nuoc'>Dua nuoc</a></li>
@@ -146,6 +147,17 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="canh-kho-qua">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/5ubd8os2w68g69t/2016-01-26_1453780404.jpg?raw=1'/>
+        <p>
+        <h1>Canh Kho Qua</h1>
+        Faszerowany mięsem wieprzowym gorzki melon. Podawany w takim bardzo lekkim rosołku. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="ca-phe-sua-da">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/jc1z7edogjsxehd/2016-01-29_1454041229.jpg?raw=1'/>
@@ -264,15 +276,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/8ztbf45nagnfkmo/2016-01-24_1453661507.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/5ubd8os2w68g69t/2016-01-26_1453780404.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
