@@ -15,6 +15,7 @@ category: Wietnam3
         <p>PJedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
         <p>
         <ul>
+            <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
@@ -28,6 +29,16 @@ category: Wietnam3
     </div>
 </div>
 
+
+<div class="demo-container mdl-grid slides" id="banh-bao">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/dk2fpwhwj1eqeln/2016-02-24_1456321031.jpg?raw=1'/>
+        <p>
+        <h1>Banh Bao</h1>
+        Wietnamska wersja chińskiego klasyka. Pszenne ciasto gotowane na parze z farszem. Tutaj, i  to chyba przyjęta w wietnamie konwencja ten okrągły z gulaszem i przepiórczymi jajkami, a ten podłóżny z czymś w rodzaju słodkiego budyniu.
+        </p>
+    </div>
+</div>
 
 <div class="demo-container mdl-grid slides" id="banh-beo-hue">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -470,14 +481,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/dk2fpwhwj1eqeln/2016-02-24_1456321031.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
