@@ -9,7 +9,7 @@
 
 .demo-content {
   border-radius: 2px;
-  padding: 0 56px;
+  padding: 0 0 0 56px;
   margin-bottom: 80px;
 }
 
@@ -35,5 +35,5 @@
   max-width:100%;
   margin-left: 0;
   float: right;
-  max-height: 100%;
+  max-height: calc(100vh - 98px);
 }
