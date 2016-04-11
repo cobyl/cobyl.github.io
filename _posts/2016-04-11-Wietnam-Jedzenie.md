@@ -19,18 +19,23 @@ category: Wietnam3
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
+            <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
             <li><a href='#banh-mi'>Banh Mi</a></li>
+            <li><a href='#bot-chien'>Bot Chien</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
             <li><a href='#dau-hu-nhoi-thit'>Dau Hu Nhoi Thit</a></li>
-            <li><a href='#canh-bun'>Canh bun</a></li>
+            <li><a href='#ca-kho'>Ca Kho</a></li>
+            <li><a href='#canh-bun'>Canh Bun</a></li>
             <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
             <li><a href='#ca-phe-sua-da'>Ca Phe Sua Da</a></li>
             <li><a href='#cua-farci'>Cua Farci</a></li>
-            <li><a href='#dua-nuoc'>Dua nuoc</a></li>
+            <li><a href='#dua-nuoc'>Dua Nuoc</a></li>
+            <li><a href='#mi-hoanh-tanh'>Mi Hoanh Tanh</a></li>
+            <li><a href='#mi-quang'>Mi Quang</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
         </ol>
@@ -75,6 +80,17 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
 </div>
 
 
+<div class="demo-container mdl-grid slides" id="banh-cuon-nong-nhan-hot-ga">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/wqm6d4i0hhvfnz8/2016-02-12_1455249003.jpg?raw=1'/>
+        <p>
+        <h1>Banh Cuon Nong Nhan Hot Ga</h1>
+        Naleśnik z ciasta ryżowego z płynnym żółtkiem w środku. Bardzo delikatne w smaku, ale i bardzo dobre danie śniadaniowe. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="banh-khot">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/e44nawi71v9b3z0/2016-01-24_1453621358.jpg?raw=1'/>
@@ -92,6 +108,16 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <p>
         <h1>Banh Mi</h1>
 Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inna, bo wypiekana z mieszanki mąki pszennej i ryżowej z pasztetem, majonezem, piklami, chili, kolendrą, często sardynką oraz zależnie od wariantu: jajkiem, miksem wędlin (ten chyba najpopularniejszy), klopsikami w sosie pomidorowym, grillowanymi mini burgerami.         
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="bot-chien">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/gj21whua64to7mw/2016-02-11_1455169408.jpg?raw=1'/>
+        <p>
+        <h1>Bot Chien</h1>
+        Kolejne chińskie danie. Coś w rodzaju smażonych kopytek, tyle, że z ciasta ryżowego. Smaży się je na smalcu, dodatkowo jeszcze z jajkiem. Podaje z drobno pokrojoną zieloną papają. Dla mnie dużo za tłuste.
         </p>
     </div>
 </div>
@@ -137,6 +163,15 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="ca-kho">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/ohmlbgaoti0qu0o/2016-02-05_1454646206.jpg?raw=1'/>
+        <p>
+        <h1>Ca Kho</h1>
+        Duszony, karmelizowany sum. Całkiem dobra rzecz. Podana tutaj z mrożoną zieloną herbatą, kwaśną zupką oraz ryżem wraz z odrobiną gotowanej zieleniny. Taki typowy zestaw lunchowy. 
+        </p>
+    </div>
+</div>
 
 <div class="demo-container mdl-grid slides" id="canh-bun">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -169,6 +204,8 @@ Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bar
     </div>
 </div>
 
+
+
 <div class="demo-container mdl-grid slides" id="cua-farci">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/93h1f4c5w2ezc2o/2016-04-06_1459923556.jpg?raw=1'/>
@@ -197,6 +234,26 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <p>
         <h1>Dua Nuoc</h1>
         Sok? Woda? z owoców nipy krzewnikowej, nazywanej tutaj kokosem wodnym. Bardzo podobne zresztą w smaku do wody kokosowej, tylko dużo słodsze. No i dużo mniej wydajne, na malą szklankę napoju trzeba rozłupać kilka owoców.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="mi-hoanh-tanh">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/zfiw4fwb27uu0n9/2016-02-10_1455077379.jpg?raw=1'/>
+        <p>
+        <h1>Mi Hoanh Tanh</h1>
+        Kolejne danie z kuchni chińśkiej. (Bardzo dobra) Zupa z pierożkami won ton. 
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="mi-quang">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/qm2i54ise01x6gi/2016-04-03_1459656754.jpg?raw=1'/>
+        <p>
+        <h1>Mi Quang</h1>
+        Makaron, któego żółty kolor, tradycyjnie uzyskuje się, robiąc go na alkalicznej wodzie. Ewentualnie symuluje się ten efekt kurkumą. Podaje się go w rosole, z kilkoma rodzajami mięsa, dodatkiem kruszonych orzechów oraz ryżowo-sezamowych krakersów <em>banh trang me</em>.
         </p>
     </div>
 </div>
@@ -383,42 +440,8 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 </div>
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ohmlbgaoti0qu0o/2016-02-05_1454646206.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/zfiw4fwb27uu0n9/2016-02-10_1455077379.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/gj21whua64to7mw/2016-02-11_1455169408.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/wqm6d4i0hhvfnz8/2016-02-12_1455249003.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -639,14 +662,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/qm2i54ise01x6gi/2016-04-03_1459656754.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
