@@ -3,7 +3,8 @@
 .demo-container {
   width: calc(100% - 16px);
   margin: 0 auto;
-  height: calc(100vh - 10px);
+  height: auto;
+  min-height: calc(100vh);
   
 }
 
