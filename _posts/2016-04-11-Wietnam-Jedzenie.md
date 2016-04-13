@@ -52,13 +52,13 @@ category: Wietnam3
             <li><a href='#mi-hoanh-tanh'>Mi Hoanh Tanh</a></li>
             <li><a href='#mi-quang'>Mi Quang</a></li>
             <li><a href='#mi-xao-don'>Mi Xao Don</a></li>
+            <li><a href='#lau'>Lau</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#nem-cuon'>Nem Cuon</a></li>
             <li><a href='#nui-chay'>Nui Chay</a></li>
             <li><a href='#thit-kho-trung'>Thit Kho Trung</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
             
-
             <li>+ <a href='#seafood'> Owoce morza</a></li>
             <li>+ <a href='#serving'> Miejscówki</a></li>
         </ol>
@@ -135,13 +135,13 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
 <div class="demo-container mdl-grid slides" id="banh-cuon-nuong">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/a0j4on97mvg4p2t/2016-04-01_1459477817.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/8ztbf45nagnfkmo/2016-01-24_1453661507.jpg?raw=1'/>
         <p>
-        <h1>Banh Couon Nuong</h1>
+        <h1>Banh Cuon Nuong</h1>
         Naleśniki z ciasta ryżowego, faszerowane mielonym mięsem. W wariancie ulicznym podaje się je zazwyczaj dodatkowo z kilkoma kawałkami wędliny, kiełkami i odrobiną prażonej cebuli. A same naleśniki są pocięte nożyczkami, co by się je łatwiej jadło pałeczkami.
         </p>
     </div>
 </div>
-
 
 <div class="demo-container mdl-grid slides" id="banh-cuon-nong-nhan-hot-ga">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -393,6 +393,18 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+
+<div class="demo-container mdl-grid slides" id="lau">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/pnze4aet3rval10/2016-02-21_1456026664.jpg?raw=1'/>
+        <p>
+        <h1>Lau</h1>
+        Czyli po prostu wietnamski <em>hot pot</em>. Tutaj akurat z głównie z krabem a także, jako dodatkowa atrakcje <em>hot vit lon</em>, czyli kurzy (albo kaczy, ale chyba kurzy) zarodek. 
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="mi-hoanh-tanh">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/zfiw4fwb27uu0n9/2016-02-10_1455077379.jpg?raw=1'/>
@@ -482,12 +494,26 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <img src='https://www.dropbox.com/s/7yli0yz6rkn3cf2/2016-02-27_1456545907.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/mn32hiiww4wfuix/2016-02-13_1455337188.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/0hh1x000r1iu8em/2016-01-23_1453564482.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/9rajfscm86p40lp/2016-04-10_1460282639.jpg?raw=1'/>
         <p>
         <h1>Owoce morza</h1>
         Taki zbiorczo, po prostu trochę zdjęć z miejsc z owocami morza. Tak to mniej wiecej wygląda. 
         </p>
     </div>
 </div>
+
+
+<div class="demo-container mdl-grid slides" id="serving">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/r6jruq0mxhr99j6/2016-03-31_1459449856.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/9l1021mlp9lsmvx/2016-02-27_1456579627.jpg?raw=1'/>
+        <p>
+        <h1></h1>
+        </p>
+    </div>
+</div>
+
+
 
 
 <hr />
@@ -513,14 +539,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/8ztbf45nagnfkmo/2016-01-24_1453661507.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -574,57 +592,11 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/pnze4aet3rval10/2016-02-21_1456026664.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/9l1021mlp9lsmvx/2016-02-27_1456579627.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/r6jruq0mxhr99j6/2016-03-31_1459449856.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/9rajfscm86p40lp/2016-04-10_1460282639.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/jblj0fuba9mbmon/2016-01-18_1453138582.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        przekaski do piwa, ew do wyrzucenia
-        </p>
-    </div>
-</div>
 
