@@ -4,33 +4,37 @@ title: Wietnam. Jedzenie.
 category: Wietnam3
 ---
 
-<div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
+<div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='height: auto; column-count: 3; -webkit-column-count: 3'>
-        <p>Zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia komórką, i todość marną, instagramowe. Więc jakość nie zachwyca. Ale możę wystarczy. Starałem się fotografować nie tylko jedzenie ale takżę miejsca w których się je je. Co by było ciekawiej. Nazwy potrab bez znaków diakrytycznych. To już byłaby przesada. </p>
+        <p>Zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia są komórką i to dość marną, instagramowe. Więc jakość nie zachwyca. Ale może wystarczy. Starałem się fotografować nie tylko jedzenie ale także miejsca w których się je je. Co by było ciekawiej. Nazwy potraw bez znaków diakrytycznych. To już byłaby przesada. </p>
         <p>Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.        </p>
-        <p>Jedzenie wietnamskie w polsce znamy głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy bywa zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy jeszcze trochę się wierzy w komunizm. Na południu, w Sajgonie to chyba tylko w łapówki. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
-        <p>Ceny. Jest tanio. Ceny większości tych dań wahają się między 15 000 VND a 30 000 VND, czyli między 0.7$ a 1.4$. To są ceny streetfoodu oraz takich tanich ulicznych jadłodajni. W knajpach jest drożej, ale nie wiele drożej. Powiedzmy dwa razy drożej. Wyjątkiem są ceny owoców morza. Przy czym nie zup, faszerowanych owoców, drobnych potrawek - te mają ceny ja podałem. Więcej kosztują ostrygi, kraby etc. Powiedzmy, że taki porządny obiad z piwem dla dwóch osób, żeby się ledwo od owoców morza ruszać to koło 10$ - 15$. A właśnie - piwo. Piwo jest dobre tu i tanie. W sklepie okolo 0.5$, w knajpie koło 1$ (ceny podaje w dolarach bo wietnamski dong jest z dolarem prawie sztywno związany).</p>
+        <p>Jedzenie wietnamskie w polsce znamy chyba głównie w wariancie północno-wietnamskim. Bo to z północy pochodzą "nasi" wietnamczycy. Na północy byłem tylko kilka dni więc nie należy za bardzo ufać temu co o niej wiem, ale tak generalnie to jest tu trochę tak jak w europie. Na pólnocy jest zimno, zimą  to tak w okolicach zera nawet. Na północy ludzie są  zamknięci, eleganccy, nudni, a jedzenie za tłuste. Dodatkowo jeszcze tutaj jest taka okoliczność, że na północy trochę bardziej serio się traktuje komunizm. W Sajgonie chyba jest mniej smażonego, a wiecej grilla. Jest więcej ziół, warzyw, więcej rzeczy z ciasta ryżowego a mniej smażonego ryżu. Sosy są lżejesze i mniej zawiesiste.  Inaczej mówiąc jedzenie na południu jest lepsze. </p>
+        <p>Ceny. Jest tanio. Ceny większości tych dań wahają się między 15 000 VND a 30 000 VND, czyli między 0.7$ a 1.4$. To są ceny streetfoodu oraz takich tanich ulicznych jadłodajni. W knajpach jest drożej, ale nie wiele drożej. Powiedzmy dwa razy.</p>
+		Wyjątkiem są ceny owoców morza. Ostrygi, kraby, duże krewetki potrafią kosztować. Powiedzmy, że taki porządny obiad z piwem dla dwóch osób, żeby się ledwo od owoców morza ruszać to już jest koło 10$ - 15$, w tanim miejscu.</p>
+		<p>		A właśnie - piwo. Piwo jest tu dobre i tanie. W sklepie około 0.5$, w knajpie 1$ (ceny podaje w dolarach bo wietnamski dong jest z dolarem prawie sztywno związany).</p>
+		<p>Pomysł na to zestawienie jest taki, że jak się ktoś kiedyś znajdzie w wietnamie, to 
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="start" style='height:auto;'>
+<div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
          style='height: auto; column-count: 3; -webkit-column-count: 3'>
+		 <strong>Alfabetyczna lista potraw</strong>. ❤ to pozycje obowiązkowe.
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
             <li><a href='#banh-bo-thot-not'>Banh Bo Thot Not"></a></li>
             <li><a href='#banh-can'>Banh Can</a></li>
-            <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc</a></li>
+            <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc ❤</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
             <li><a href='#banh-cuon-nuong'>Banh Couon Nuong</a></li>
             <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
             <li><a href='#banh-duc'>Banh Duc</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
-            <li><a href='#banh-mi'>Banh Mi</a></li>
+            <li><a href='#banh-mi'>Banh Mi ❤</a></li>
             <li><a href='#banh-xeo'>Banh Xeo</a></li>
-            <li><a href='#bo-la-lot'>Bo La Lot</a></li>
+            <li><a href='#bo-la-lot'>Bo La Lot ❤</a></li>
             <li><a href='#bot-chien'>Bot Chien</a></li>
             <li><a href='#bun-dau-ta-la'>Bun Dau Ta La</a></li>
             <li><a href='#bun-bo'>Bun Bo</a></li>
@@ -38,7 +42,7 @@ category: Wietnam3
             <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
             <li><a href='#bun-mam'>Bun Mam</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
-            <li><a href='#bun-thit-nuong'>Bun Thit Nuong</a></li>
+            <li><a href='#bun-thit-nuong'>Bun Thit Nuong ❤</a></li>
             <li><a href='#ca-kho'>Ca Kho</a></li>
             <li><a href='#canh-bun'>Canh Bun</a></li>
             <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
@@ -57,8 +61,7 @@ category: Wietnam3
             <li><a href='#nem-cuon'>Nem Cuon</a></li>
             <li><a href='#nui-chay'>Nui Chay</a></li>
             <li><a href='#thit-kho-trung'>Thit Kho Trung</a></li>
-            <li><a href='#xiu-mai'>Xiu Mai</a></li>
-            
+            <li><a href='#xiu-mai'>Xiu Mai</a></li>           
             <li>+ <a href='#seafood'> Owoce morza</a></li>
             <li>+ <a href='#serving'> Miejscówki</a></li>
         </ol>
@@ -71,7 +74,7 @@ category: Wietnam3
         <img src='https://www.dropbox.com/s/dk2fpwhwj1eqeln/2016-02-24_1456321031.jpg?raw=1'/>
         <p>
         <h1>Banh Bao</h1>
-        Wietnamska wersja chińskiego klasyka, <em>baozi</em>. Pszenne ciasto gotowane na parze z farszem. Tutaj, i  to chyba przyjęta w wietnamie konwencja ten okrągły z gulaszem i przepiórczymi jajkami, a ten podłóżny z czymś w rodzaju słodkiego budyniu.
+        Wietnamska wersja chińskiego klasyka, <em>baozi</em>. Pszenne ciasto gotowane na parze z farszem. Tutaj, to chyba przyjęta w wietnamie konwencja ten okrągły z gulaszem i przepiórczymi jajkami, a ten podłużny z czymś w rodzaju słodkiego budyniu.
         </p>
     </div>
 </div>
@@ -82,9 +85,9 @@ category: Wietnam3
         <img src='https://www.dropbox.com/s/zttis34ocv3bn28/2016-02-05_1454666448.jpg?raw=1'/>
         <p>
         <h1>Banh Beo Hue</h1>
-Ugotowane na parze ciasto z mąki ryżowej i tapioki, podane w formie czegoś w pół drogi między pierożkami, placuszkami a naleśnikami. Podaje się to z suszonymi krewetkami, skwarkami, grzankami, szalotką obficie polane sosem. Sos to <em>Nuoc Cham</em>, wspólny mianownik dużej części wietnamskiej kuchni, a składający się z połączonego octu ryżowego, sosu rybnego, limonki i czili. Ewentualnie z odrobiną pikli. 
+Ugotowane na parze ciasto z mąki ryżowej i tapioki, podane w formie czegoś w pół drogi między pierożkami, placuszkami a naleśnikami. Podaje się to z suszonymi krewetkami, skwarkami, grzankami, szalotką, obficie polane sosem. Sos to <em>Nuoc Cham</em>, wspólny mianownik dużej części wietnamskiej kuchni, a składający się z połączonego octu ryżowego, sosu rybnego, limonki i czili. Ewentualnie z odrobiną pikli. 
 <br /><br />
-Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue</em> to nazwa wariantu pochodzącego od tak nazywającego się tak miasta, dawnej siedziby dworu królewskiego. Kuchnia Hue uchodzi za najbardziej wykwintą i elegancką w Wietnamie. 
+Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue</em> to nazwa wariantu pochodzącego od tak nazywającego się miasta, dawnej siedziby dworu królewskiego. Kuchnia Hue uchodzi za najbardziej wykwintą i elegancką w Wietnamie. 
         </p>
     </div>
 </div>
@@ -94,7 +97,7 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <img src='https://www.dropbox.com/s/hu5iro6cj3f4avd/2016-04-01_1459507901.jpg?raw=1'/>
         <p>
         <h1>Banh Bo Thot Not</h1>
-        Rodzaj naleśnika na bazie ciasta z ryżowego z mlekiem kokosowym i drożdzami. Wypiekanego w takich dziwnych naczynkach. 
+        Rodzaj naleśnika na bazie ciasta ryżowego z mlekiem kokosowym i drożdzami. Wypiekanego w takich o to dziwnych naczynkach. 
         </p>
     </div>
 </div>
@@ -148,7 +151,7 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <img src='https://www.dropbox.com/s/wqm6d4i0hhvfnz8/2016-02-12_1455249003.jpg?raw=1'/>
         <p>
         <h1>Banh Cuon Nong Nhan Hot Ga</h1>
-        Naleśnik z ciasta ryżowego z płynnym żółtkiem w środku. Bardzo delikatne w smaku, ale i bardzo dobre danie śniadaniowe. 
+        Naleśnik z ciasta ryżowego z płynnym żółtkiem w środku. Bardzo delikatne w smaku, bardzo dobre danie śniadaniowe. 
         </p>
     </div>
 </div>
@@ -158,7 +161,7 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <img src='https://www.dropbox.com/s/ibsca4vdgftln7y/2016-02-22_1456156682.jpg?raw=1'/>
         <p>
         <h1>Banh Duc</h1>
-        Coś w rodzaju wytrawnego budyniu z mąki ryżowej. Podoawanego z sosem rybnym i jakimś dośc nieoczywistym dla mnie przybraniem. 
+        Coś w rodzaju wytrawnego budyniu z mąki ryżowej. Podawanego z sosem rybnym i jakimś dośc nieoczywistym dla mnie przybraniem. 
         </p>
     </div>
 </div>
@@ -181,7 +184,7 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <img src='https://www.dropbox.com/s/p1m3j3k5mx58dip/2016-02-02_1454410439.jpg?raw=1'/>
         <p>
         <h1>Banh Mi</h1>
-Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inna, bo wypiekana z mieszanki mąki pszennej i ryżowej z pasztetem, majonezem, piklami, chili, kolendrą, często sardynką oraz zależnie od wariantu: jajkiem, miksem wędlin (ten chyba najpopularniejszy), klopsikami w sosie pomidorowym, grillowanymi mini burgerami.         
+Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inna, bo wypiekana z mieszanki mąki pszennej i ryżowej, z pasztetem, majonezem, piklami, chili, kolendrą, często sardynką oraz zależnie od wariantu: jajkiem, miksem wędlin (ten chyba najpopularniejszy), klopsikami w sosie pomidorowym, grillowanymi miniburgerami itd.         
         </p>
     </div>
 </div>
@@ -192,7 +195,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/ro2jzpwnts4fl0s/2016-04-02_1459617670.jpg?raw=1'/>
         <p>
         <h1>Banh Xeo</h1>
-        Duże, usmażóne na chrupko naleśniki, z farszem z  kiełków i krewetek. Zazwyczaj sprzedawane w miejscach które podają także <a href='#banh-khot'>Banh Khot</a>, bo chyba ciasto z których się je robi jest identyczne.  Je się zawijajac naleśnik w zioła i papier ryżowy. 
+        Duże, usmażone na chrupko naleśniki, z farszem z  kiełków i krewetek. Zazwyczaj sprzedawane w miejscach które podają także <a href='#banh-khot'>Banh Khot</a>, bo chyba ciasto z których się je robi jest identyczne.  Je się zawijajac naleśnik w zioła i papier ryżowy. 
         </p>
     </div>
 </div>
@@ -203,7 +206,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/pg3w9togxbqrmep/2016-02-13_1455339204.jpg?raw=1'/>
         <p>
         <h1>Bo La Lot</h1>
-        Grillowana, owinięta w liście betelu, wołowina. Podaje się ją z makaronem ryżowym, zestawem sałat i ziół, piklami i papierem ryżowym. Je się to zawijajc wszystko to w papier ryżowy, tworząc własne spring rollsy. Jedno z moich ulubionych wietnamskich dań.  
+        Grillowana, owinięta w liście betelu, mielona wołowina. Podaje się ją z makaronem ryżowym, zestawem sałat i ziół, piklami i papierem ryżowym. Je się to zawijajc wszystko to w papier ryżowy, tworząc własne spring rollsy. Jedno z moich ulubionych wietnamskich dań.  
         </p>
     </div>
 </div>
@@ -229,7 +232,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/fghw538o35vipnx/2016-01-23_1453547177.jpg?raw=1'/>
         <p>
         <h1>Bun Bo</h1>
-        Bardzo popularna (nie wiem czy nie ich ulubiona) zupa z wołowiną. Duże kawałki wołowiny, wraz z kością, makaron ryżowy, a dodatkowo, osobno zioła, sałaty, obgotowane kiełki. Kawałki wołowiny wyjmuje się z zupy i moczy się w oddzielnie podanym pikantnym sosie. 
+        Bardzo popularna (nie wiem czy nie ich ulubiona w ogóle) zupa. Duże kawałki wołowiny, wraz z kością, makaron ryżowy, a dodatkowo, osobno zioła, sałaty, obgotowane kiełki. Kawałki wołowiny wyjmuje się z zupy i moczy się w oddzielnie podanym pikantnym sosie. 
         </p>
     </div>
 </div>
@@ -239,7 +242,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/yk7vbh53fpmyvhg/2016-01-21_1453395011.jpg?raw=1'/>
         <p>
         <h1>Bun Cha</h1>
-        A to akurat typowe danie z Hanoi. Z północy. Grillowane na węglu drzewnym burgery wieprzowe podawane w sosie <em>Nuoc Cham</em> (a więc sos rybny, limonka, ocet), wraz z piklami. Do tego oddzielnie makaron ryżowy i (jak zawsze tu) bardzo dużo ziół. 
+        A to akurat danie z Hanoi. Czyli z północy. Grillowane na węglu drzewnym burgery wieprzowe podawane w sosie <em>Nuoc Cham</em> (a więc sos rybny, limonka, ocet), wraz z piklami. Do tego oddzielnie makaron ryżowy i (jak zawsze tu) bardzo dużo ziół. 
         </p>
     </div>
 </div>
@@ -249,7 +252,7 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
         <img src='https://www.dropbox.com/s/wybz1o6hu35ves6/2016-01-20_1453276332.jpg?raw=1'/>
         <p>
         <h1>Bun Dau Ta La</h1>
-Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to bardzo. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
+Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bardzo bardzo sfermentowana. Śmierdzi to okeopnie. Miesza się ją z czili, cukrem i limonką a następnie macza w niej smażone tofu, makaron ryżowy, kawałki bambusa etc. Mi to smakuje, ale to jest przyjemność dla bardziej zaawansowanych użytkowników chyba.
         </p>
     </div>
 </div>
@@ -259,7 +262,7 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
         <img src='https://www.dropbox.com/s/ah76aptn9b62agw/2016-04-07_1460000728.jpg?raw=1'/>
         <p>
         <h1>Bun Mang Ga</h1>
-        Rosół z kury z pędami bambusa. Podawany, jak zawsze tu podawawane są zupy. A więc oddzielnie z limonką i czili do doprawienia.  Oraz zestawem ziół. Dodatkowo jeszcze dostaeęm obgotowane kiełki. W miarę jedzenia dokłada się kolejne ich porcje do zupy. 
+        Rosół z kury z pędami bambusa. Podawany, jak zawsze tu podawawane są zupy. A więc oddzielnie z limonką i czili do doprawienia.  Oraz zestawem ziół. Dodatkowo jeszcze dostałem obgotowane kiełki. W miarę jedzenia dokłada się kolejne ich porcje do zupy. 
         </p>
     </div>
 </div>
@@ -300,7 +303,7 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
         <img src='https://www.dropbox.com/s/ohmlbgaoti0qu0o/2016-02-05_1454646206.jpg?raw=1'/>
         <p>
         <h1>Ca Kho</h1>
-        Duszony, karmelizowany sum. Całkiem dobra rzecz. Podana tutaj z mrożoną zieloną herbatą, kwaśną zupką oraz ryżem wraz z odrobiną gotowanej zieleniny. Taki typowy zestaw lunchowy. 
+        Duszony, karmelizowany, sum. Całkiem dobra rzecz. Podana tutaj z mrożoną zieloną herbatą, kwaśną zupką oraz ryżem wraz z odrobiną gotowanej zieleniny. Taki typowy zestaw lunchowy. 
         </p>
     </div>
 </div>
@@ -351,7 +354,7 @@ Kawa po wietnamsku. Bardzo mocna kawa z dripa, do tego skondensowane mleko i bar
         <img src='https://www.dropbox.com/s/1w65kroyft85ec2/2016-02-24_1456288278.jpg?raw=1'/>
         <p>
         <h1>Com Tam Chay</h1>
-        Wegetariańska wersja <a href='#com-tam'>Com Tam</a>. Słowo <em>chay</em> oznacza dania wegetariańskie. Tylko jedna uwaga, wygląda na to, że chyba sos rybny nie uchodzi za mięso. 
+        Wegetariańska wersja <a href='#com-tam'>Com Tam</a>. Słowo <em>chay</em> oznacza dania wegetariańskie. Tylko jedna uwaga, wygląda na to, że chyba sos rybny  uchodzi za wegetariański. 
         </p>
     </div>
 </div>
@@ -404,7 +407,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <img src='https://www.dropbox.com/s/pnze4aet3rval10/2016-02-21_1456026664.jpg?raw=1'/>
         <p>
         <h1>Lau</h1>
-        Czyli po prostu wietnamski <em>hot pot</em>. Tutaj akurat z głównie z krabem a także, jako dodatkowa atrakcje <em>hot vit lon</em>, czyli kurzy (albo kaczy, ale chyba kurzy) zarodek. 
+        Czyli po prostu wietnamski <em>hot pot</em>. Tutaj akurat głównie z krabem a także, jako dodatkowa atrakcje <em>hot vit lon</em>, czyli kurzy (albo kaczy, ale chyba kurzy) zarodek. 
         </p>
     </div>
 </div>
@@ -465,7 +468,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <img src='https://www.dropbox.com/s/401hal2x30l3c25/2016-02-22_1456120034.jpg?raw=1'/>
         <p>
         <h1>Nui Chay</h1>
-        Wegetariańska (<em>chay</em>) zupa z zwyczajnym, pszennym, makaronem (<em>nui</em>). Wariant wegetariański jest pełen grzybów. Bardziej typowy jest wariant drobiowy (<em>ga</em>), który jest chyba daniem najbardziej przypominającym typowy europejski rosół. No gdyby nie sos rybny. 
+        Wegetariańska (<em>chay</em>) zupa z zwyczajnym, pszennym, makaronem (<em>nui</em>). Wariant wegetariański jest pełen grzybów. Bardziej typowy jest wariant drobiowy (<em>ga</em>), który jest chyba daniem najbardziej przypominającym typowy europejski rosół. No gdyby nie obecny w nim sos rybny. 
         </p>
     </div>
 </div>
@@ -526,7 +529,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         <img src='https://www.dropbox.com/s/r6jruq0mxhr99j6/2016-03-31_1459449856.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/9l1021mlp9lsmvx/2016-02-27_1456579627.jpg?raw=1'/>
         <p>
-        <h1></h1>
         </p>
     </div>
 </div>
