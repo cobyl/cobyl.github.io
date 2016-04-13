@@ -19,10 +19,10 @@ category: Wietnam3
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; padding:10px;'>
+<div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; '>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
-         style='height: auto; column-count: 3; -webkit-column-count: 3'>
-		 <strong>Alfabetyczna lista potraw</strong>. ❤ to pozycje obowiązkowe.
+         style='height: auto; column-count: 3; -webkit-column-count: 3; padding:10px;'>
+		 <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
