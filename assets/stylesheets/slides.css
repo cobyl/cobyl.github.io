@@ -37,4 +37,5 @@
   margin-left: 56px;
   float: right;
   max-height: calc(100vh - 98px);
+  padding: 10px;
 }
