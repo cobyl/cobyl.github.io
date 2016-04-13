@@ -41,4 +41,8 @@
 }
 
 
-.desccells { height: auto; column-count: 3; -webkit-column-count: 3; padding:10px;}
+.desccells { height: auto; padding:10px;}
+
+@media all and (max-width: 900px) {
+  .desccells { column-count: 3; -webkit-column-count: 3; 
+}
