@@ -219,9 +219,14 @@ Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inn
     </div>
 </div>
 
+
+
+
 <div class="demo-container mdl-grid slides" id="bun-bo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/d49ar0bjsx0vgtn/2016-01-30_1454124059.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/nbwncdzr64ip1q6/2016-03-30_1459335053.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/fghw538o35vipnx/2016-01-23_1453547177.jpg?raw=1'/>
         <p>
         <h1>Bun Bo</h1>
         Bardzo popularna (nie wiem czy nie ich ulubiona) zupa z wołowiną. Duże kawałki wołowiny, wraz z kością, makaron ryżowy, a dodatkowo, osobno zioła, sałaty, obgotowane kiełki. Kawałki wołowiny wyjmuje się z zupy i moczy się w oddzielnie podanym pikantnym sosie. 
@@ -465,9 +470,22 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+
+<div class="demo-container mdl-grid slides" id="pho">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/b91g2q6jmr6oqk1/2016-01-22_1453463092.jpg?raw=1'/>
+        <p>
+        <h1>Pho</h1>
+        Jaki jest koń każdy widzi. Rosół, jedzony chyba głównie na śniadanie. Wołowy (<em>bo</em>) lub drobiowy (<em>ga</em>), oczywiście z makaronem i ziołami.  Delikatniejszy i mniej pikantny od swojego bliskiego (i lepszego) krewniaka <a href='#bun-bo'>Bun Bo</a>
+        </p>
+    </div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="thit-kho-trung">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/r4oo4p8zketyt26/2016-02-03_1454466255.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/nk8041p0okag7ln/2016-01-19_1453188272.jpg?raw=1'/>
         <p>
         <h1>Thit Kho Trung</h1>
         Potrawka z jajek (czasami przepiórczych) i duszonego, karmelizowanego, boczku wieprzowego. Klasyczny przepis zakłada duszenie mięsa w wodzie kokosowej, ale sądze, że wątpie by tak się działo w ulicznej wersji tego dania. 
@@ -489,7 +507,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="seafood">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/nk8041p0okag7ln/2016-01-19_1453188272.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/80xvadeklokw871/2016-02-02_1454376072.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/icf7x16vlpfn995/2016-04-10_1460256039.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/7yli0yz6rkn3cf2/2016-02-27_1456545907.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/mn32hiiww4wfuix/2016-02-13_1455337188.jpg?raw=1'/>
@@ -512,91 +530,3 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
         </p>
     </div>
 </div>
-
-
-
-
-<hr />
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/b91g2q6jmr6oqk1/2016-01-22_1453463092.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/fghw538o35vipnx/2016-01-23_1453547177.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/v1zzjqu3in8ki6o/2016-01-29_1454042603.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/d49ar0bjsx0vgtn/2016-01-30_1454124059.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/80xvadeklokw871/2016-02-02_1454376072.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/wmwmpotib1n21qi/2016-02-02_1454409088.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/0iq0by9bpy2edgz/2016-02-20_1455954630.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-
