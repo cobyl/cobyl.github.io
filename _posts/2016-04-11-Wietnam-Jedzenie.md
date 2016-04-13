@@ -5,8 +5,7 @@ category: Wietnam3
 ---
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
-         style='height: auto; column-count: 3; -webkit-column-count: 3; padding:10px;'>
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
 		 <p>Jedzenie w Wietnamie jest świetne. Jest tanie, jest raczej zdrowe, a także za co może najbardziej je cenie bardzo różnorodne. Tutaj 
 		 siedząc, tak jak ja, już dwa miesiące  w nadal bez większego problemu udaje mi się każdego dnia zjeść na ulicy coś innego.</p>
          
@@ -20,8 +19,7 @@ category: Wietnam3
 </div>
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; '>
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col"
-         style='height: auto; column-count: 3; -webkit-column-count: 3; padding:10px;'>
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
 		 <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
