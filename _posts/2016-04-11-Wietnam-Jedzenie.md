@@ -24,7 +24,7 @@ category: Wietnam3
         <ol>
             <li><a href='#banh-bao'>Banh Bao</a></li>
             <li><a href='#banh-beo-hue'>Banh Beo Hue</a></li>
-            <li><a href='#banh-bo-thot-not'>Banh Bo Thot Not"></a></li>
+            <li><a href='#banh-bo-thot-not'>Banh Bo Thot Not</a></li>
             <li><a href='#banh-can'>Banh Can</a></li>
             <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc ❤</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
