@@ -39,3 +39,6 @@
   max-height: calc(100vh - 98px);
   padding: 10px;
 }
+
+
+.desccells { height: auto; column-count: 3; -webkit-column-count: 3; padding:10px;}
