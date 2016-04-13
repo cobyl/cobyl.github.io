@@ -13,7 +13,6 @@ category: Wietnam3
         <p>Ceny. Jest tanio. Ceny większości tych dań wahają się między 15 000 VND a 30 000 VND, czyli między 0.7$ a 1.4$. To są ceny streetfoodu oraz takich tanich ulicznych jadłodajni. W knajpach jest drożej, ale nie wiele drożej. Powiedzmy dwa razy.</p>
 		Wyjątkiem są ceny owoców morza. Ostrygi, kraby, duże krewetki potrafią kosztować. Powiedzmy, że taki porządny obiad z piwem dla dwóch osób, żeby się ledwo od owoców morza ruszać to już jest koło 10$ - 15$, w tanim miejscu.</p>
 		<p>		A właśnie - piwo. Piwo jest tu dobre i tanie. W sklepie około 0.5$, w knajpie 1$ (ceny podaje w dolarach bo wietnamski dong jest z dolarem prawie sztywno związany).</p>
-		<p>Pomysł na to zestawienie jest taki, że jak się ktoś kiedyś znajdzie w wietnamie, to 
     </div>
 </div>
 
