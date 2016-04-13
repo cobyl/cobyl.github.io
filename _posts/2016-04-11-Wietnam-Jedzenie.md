@@ -36,7 +36,9 @@ category: Wietnam3
             <li><a href='#bun-bo'>Bun Bo</a></li>
             <li><a href='#bun-cha'>Bun Cha</a></li>
             <li><a href='#bun-mang-ga'>Bun Mang Ga</a></li>
+            <li><a href='#bun-mam'>Bun Mam</a></li>
             <li><a href='#bun-rieu-cua'>Bun Rieu Cua</a></li>
+            <li><a href='#bun-thit-nuong'>Bun Thit Nuong</a></li>
             <li><a href='#ca-kho'>Ca Kho</a></li>
             <li><a href='#canh-bun'>Canh Bun</a></li>
             <li><a href='#canh-kho-qua'>Canh Kho Qua</a></li>
@@ -53,9 +55,12 @@ category: Wietnam3
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#nem-cuon'>Nem Cuon</a></li>
             <li><a href='#nui-chay'>Nui Chay</a></li>
+            <li><a href='#thit-kho-trung'>Thit Kho Trung</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
+            
 
-            <li><a href='#seafood'>+ Owoce morza</a></li>
+            <li>+ <a href='#seafood'> Owoce morza</a></li>
+            <li>+ <a href='#serving'> Miejscówki</a></li>
         </ol>
         </p>
     </div>
@@ -173,6 +178,7 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
 <div class="demo-container mdl-grid slides" id="banh-mi">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/uki4q9viozx9dpx/2016-01-17_1453051120.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/p1m3j3k5mx58dip/2016-02-02_1454410439.jpg?raw=1'/>
         <p>
         <h1>Banh Mi</h1>
 Czyli kanapka. Fajna pozostałośc po francuzach. Bagietka, chociaż trochę inna, bo wypiekana z mieszanki mąki pszennej i ryżowej z pasztetem, majonezem, piklami, chili, kolendrą, często sardynką oraz zależnie od wariantu: jajkiem, miksem wędlin (ten chyba najpopularniejszy), klopsikami w sosie pomidorowym, grillowanymi mini burgerami.         
@@ -253,6 +259,16 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="bun-mam">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/82czwcd6snf1tat/2016-02-25_1456368771.jpg?raw=1'/>
+        <p>
+        <h1>Bun Mam</h1>
+        Zupa z drobnym makaronem ryżowym, krewetkami, kawałkami ryby, odrobiną wieprzowiny (ona tu wszędzie). Ale tym co stanowi o istocie tej zupy jest <em>mam</em> czyli sfermentowana pasta rybna lub krewetkowa. Sama w sobie pasta ta śmierdzi strasznie, ale podana w zupie jest dość niegroźna i mało razi. 
+        </p>
+    </div>
+</div>
+
 
 <div class="demo-container mdl-grid slides" id="bun-rieu-cua">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -260,6 +276,16 @@ Sfermentowana pasta z krewetek. I jak mówię sfermentowana to znaczy bardzo bar
         <p>
         <h1>Bun Rieu Cua</h1>
         Zupa z drobnym makaronem ryżowym (na drobny makaron jest polskie słowo, wermiszel, nie znałem go wcześniej), pomidorami, pastą krewetkową i malutkimi	słodkowodnymi krabami (Takie wielkoci małży, zyją na polach ryżowych). Doprawiana, dokwaszana, świńską krwią. Do tego trochę wędlin, szpinaku wodnego, kiełków, tofu. Pożywne i dobre.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="bun-thit-nuong">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/t52fl6om67ujo61/2016-01-31_1454214344.jpg?raw=1'/>
+        <p>
+        <h1>Bun Thit Nuong</h1>
+        Jedno z moich ulubionych dań. Coś w rodzaju sałatki z podanego w temperaturze pokojowej makaronu ryżowego, pikli, ziół, oraz kilku rodzajów grillowanych mięs, sajgonek. Do tego sos z orzeszków ziemnych i sosu rybnego. 
         </p>
     </div>
 </div>
@@ -427,6 +453,18 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="thit-kho-trung">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/r4oo4p8zketyt26/2016-02-03_1454466255.jpg?raw=1'/>
+        <p>
+        <h1>Thit Kho Trung</h1>
+        Potrawka z jajek (czasami przepiórczych) i duszonego, karmelizowanego, boczku wieprzowego. Klasyczny przepis zakłada duszenie mięsa w wodzie kokosowej, ale sądze, że wątpie by tak się działo w ulicznej wersji tego dania. 
+        </p>
+    </div>
+</div>
+
+
+
 <div class="demo-container mdl-grid slides" id="xiu-mai">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/cwg1b0akflhg84b/2016-02-16_1455595330.jpg?raw=1'/>
@@ -439,6 +477,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="seafood">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/nk8041p0okag7ln/2016-01-19_1453188272.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/icf7x16vlpfn995/2016-04-10_1460256039.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/7yli0yz6rkn3cf2/2016-02-27_1456545907.jpg?raw=1'/>
         <img src='https://www.dropbox.com/s/mn32hiiww4wfuix/2016-02-13_1455337188.jpg?raw=1'/>
@@ -452,19 +491,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 
 <hr />
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/nk8041p0okag7ln/2016-01-19_1453188272.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
 
 
 <div class="demo-container mdl-grid slides" id="slide-">
@@ -516,24 +542,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/x9fbajsq6brc8vn/2016-01-31_1454207891.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/t52fl6om67ujo61/2016-01-31_1454214344.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/80xvadeklokw871/2016-02-02_1454376072.jpg?raw=1'/>
         <p>
         <h1></h1>
@@ -550,32 +558,7 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/p1m3j3k5mx58dip/2016-02-02_1454410439.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/r4oo4p8zketyt26/2016-02-03_1454466255.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ip2b7d3rw1qt4ci/2016-02-04_1454564476.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 
@@ -600,47 +583,10 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/82czwcd6snf1tat/2016-02-25_1456368771.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/uu3lybwnl092r76/2016-02-25_1456410240.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/9l1021mlp9lsmvx/2016-02-27_1456579627.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/fvcijysaq2i7tdd/2016-03-02_1456898437.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/d0rzwrjvqxapw4h/2016-03-02_1456927728.jpg?raw=1'/>
         <p>
         <h1></h1>
         </p>
