@@ -6,8 +6,8 @@ category: Wietnam3
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
-		 <p>Jedzenie w Wietnamie jest świetne. Jest tanie, jest raczej zdrowe, a także za co może najbardziej je cenie bardzo różnorodne. Tutaj 
-		 siedząc, tak jak ja, już dwa miesiące  w nadal bez większego problemu udaje mi się każdego dnia zjeść na ulicy coś innego.</p>
+		 <p>Jedzenie w Wietnamie jest świetne. Jest tanie, jest raczej zdrowe, a także za co może najbardziej je cenię bardzo różnorodne. Tutaj 
+		 siedząc, tak jak ja, już dwa miesiące  nadal bez większego problemu udaje mi się każdego dnia zjeść na ulicy coś innego.</p>
          
         <p>A więc zapraszam do mojego przeglądu jedzenia w Sajgonie. Zdjęcia są komórką i to dość marną, instagramowe. Więc jakość nie zachwyca. Ale może wystarczy. Starałem się fotografować nie tylko jedzenie ale także miejsca w których się je je. Co by było ciekawiej. Nazwy potraw bez znaków diakrytycznych. To już byłaby przesada. </p>
         <p>Jako, że oczywiście słowa nie umiem po wietnamsku moja wiedza o tym co to i  z czego te potrawy jest trochę ze smakowania, trochę z podglądania, sporo z czytania internetu no i  z rozmów z ludźmi. Ale bardzo możliwe, że dość solidnie niektóre rzeczy przekręcam. Nie poczuwam się do bycia ekspertem od tego jedzenia. Ani nic.        </p>
