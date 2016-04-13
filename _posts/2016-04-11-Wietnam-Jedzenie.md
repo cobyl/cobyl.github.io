@@ -24,6 +24,7 @@ category: Wietnam3
             <li><a href='#banh-can'>Banh Can</a></li>
             <li><a href='#banh-canh-ca-loc'>Banh Canh Ca Loc</a></li>
             <li><a href='#banh-canh-cua'>Banh Canh Cua</a></li>
+            <li><a href='#banh-cuon-nuong'>Banh Couon Nuong</a></li>
             <li><a href='#banh-cuon-nong-nhan-hot-ga'>Banh Cuon Nong Nhan Hot Ga</a></li>
             <li><a href='#banh-duc'>Banh Duc</a></li>
             <li><a href='#banh-khot'>Banh Khot</a></li>
@@ -48,10 +49,13 @@ category: Wietnam3
             <li><a href='#hu-tieu-mi-kho'>Hu Tieu Mi Kho</a></li>
             <li><a href='#mi-hoanh-tanh'>Mi Hoanh Tanh</a></li>
             <li><a href='#mi-quang'>Mi Quang</a></li>
+            <li><a href='#mi-xao-don'>Mi Xao Don</a></li>
             <li><a href='#muc-nhoi-thit'>Muc Nhoi Thit</a></li>
             <li><a href='#nem-cuon'>Nem Cuon</a></li>
             <li><a href='#nui-chay'>Nui Chay</a></li>
             <li><a href='#xiu-mai'>Xiu Mai</a></li>
+
+            <li><a href='#seafood'>+ Owoce morza</a></li>
         </ol>
         </p>
     </div>
@@ -119,6 +123,16 @@ Tak w ogóle, zeby być precyzyjnym nazwa potrawy to <em>Banh Beo</em>. <em>Hue<
         <p>
         <h1>Banh Canh Cua</h1>
         Zupa z takimi grubymi kluskami z mąki ryżowej i tapioki (<em>banh canh</em>) oraz krabem (<em>cua</em>). Ja nie jestem wielkim fanem krabów, więcej chrzanienia niż radości. I chyba wyjątek robię właśnie dla zup, ta jest naprawdę świetna.
+        </p>
+    </div>
+</div>
+
+<div class="demo-container mdl-grid slides" id="banh-cuon-nuong">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/a0j4on97mvg4p2t/2016-04-01_1459477817.jpg?raw=1'/>
+        <p>
+        <h1>Banh Couon Nuong</h1>
+        Naleśniki z ciasta ryżowego, faszerowane mielonym mięsem. W wariancie ulicznym podaje się je zazwyczaj dodatkowo z kilkoma kawałkami wędliny, kiełkami i odrobiną prażonej cebuli. A same naleśniki są pocięte nożyczkami, co by się je łatwiej jadło pałeczkami.
         </p>
     </div>
 </div>
@@ -373,6 +387,16 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="mi-xao-don">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/08scq8xy7n9kmvp/2016-02-29_1456742014.jpg?raw=1'/>
+        <p>
+        <h1>Mi Xao Don</h1>
+        Wietnamska wersja chińskiego <em>chow mein</em> czyli makaron stir-fry. Tutaj akurat z kurczakiem i owocami morza, ale jest oczywiście mnóstwo innych wariantów.  
+        </p>
+    </div>
+</div>
+
 <div class="demo-container mdl-grid slides" id="muc-nhoi-thit">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/75urftjbbkd5zla/2016-04-08_1460127112.jpg?raw=1'/>
@@ -413,6 +437,20 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="seafood">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/icf7x16vlpfn995/2016-04-10_1460256039.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/7yli0yz6rkn3cf2/2016-02-27_1456545907.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/mn32hiiww4wfuix/2016-02-13_1455337188.jpg?raw=1'/>
+        <img src='https://www.dropbox.com/s/0hh1x000r1iu8em/2016-01-23_1453564482.jpg?raw=1'/>
+        <p>
+        <h1>Owoce morza</h1>
+        Taki zbiorczo, po prostu trochę zdjęć z miejsc z owocami morza. Tak to mniej wiecej wygląda. 
+        </p>
+    </div>
+</div>
+
+
 <hr />
 
 
@@ -447,14 +485,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/0hh1x000r1iu8em/2016-01-23_1453564482.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 <div class="demo-container mdl-grid slides" id="slide-">
@@ -551,14 +581,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
 
 
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/mn32hiiww4wfuix/2016-02-13_1455337188.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -596,14 +618,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/7yli0yz6rkn3cf2/2016-02-27_1456545907.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -614,15 +628,6 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/08scq8xy7n9kmvp/2016-02-29_1456742014.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -652,39 +657,9 @@ Tofu faszerowane mielonym mięsem. Tutaj akurat jedzone w takiej typowej uliczne
     </div>
 </div>
 
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/a0j4on97mvg4p2t/2016-04-01_1459477817.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 
 
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/taqos8ecbbc53bi/2016-04-04_1459742356.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
-
-
-
-
-<div class="demo-container mdl-grid slides" id="slide-">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/icf7x16vlpfn995/2016-04-10_1460256039.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        </p>
-    </div>
-</div>
 
 <div class="demo-container mdl-grid slides" id="slide-">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
