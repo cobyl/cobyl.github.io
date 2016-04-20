@@ -1,18 +1,30 @@
 ---
-layout: default
+layout: startpage
 ---
 
-<h2>Wpisy, od najnowszego</h2>
+<div class="demo-container mdl-grid">
+  <!-- <div class="mdl-cell mdl-cell--1-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div> -->
+  <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--6-col">
+	<h2>Wpisy, od najnowszego</h2>
+	
+	<ul class="posts">  
+		{% for post in site.posts %}  
+		   <li>  
+			   <span>
+				{% assign m = post.date | date: "%-m" %}
+				{{ post.date | date: "%-d" }}.{% case m %}{% when '1' %}I{% when '2' %}II{% when '3' %}III{% when '4' %}IV{% when '5' %}V{% when '6' %}VI{% when '7' %}VII{% when '8' %}VIII{% when '9' %}IX{% when '10' %}X{% when '11' %}XI{% when '12' %}XII{% endcase %}.{{ post.date | date: "%Y" }}
+			   </span> &raquo;  
+			   <a href="{{ BASE_PATH }}{{ post.url }}">  
+			   {{ post.title }}</a>  
+		   </li>  
+		{% endfor %}  
+	</ul>
+  </div>
+  <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--6-col">
+	<h2>Tomek Kobyliński</h2>
+	<a href='mailto:tomek.kobylinski@gmail.com'>tomek.kobylinski@gmail.com</a>
+	<a href='https://www.facebook.com/tomek.kobylinski'>https://www.facebook.com/tomek.kobylinski</a>
+  </div>
+</div>
 
-<ul class="posts">  
-	{% for post in site.posts %}  
-	   <li>  
-		   <span>
-			{% assign m = post.date | date: "%-m" %}
-			{{ post.date | date: "%-d" }}.{% case m %}{% when '1' %}I{% when '2' %}II{% when '3' %}III{% when '4' %}IV{% when '5' %}V{% when '6' %}VI{% when '7' %}VII{% when '8' %}VIII{% when '9' %}IX{% when '10' %}X{% when '11' %}XI{% when '12' %}XII{% endcase %}.{{ post.date | date: "%Y" }}
-		   </span> &raquo;  
-		   <a href="{{ BASE_PATH }}{{ post.url }}">  
-		   {{ post.title }}</a>  
-	   </li>  
-	{% endfor %}  
-</ul>
+
