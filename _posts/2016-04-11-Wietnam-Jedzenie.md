@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Wietnam. Jedzenie.
-category: Wietnam3
+category: Jedzenie
 ---
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
