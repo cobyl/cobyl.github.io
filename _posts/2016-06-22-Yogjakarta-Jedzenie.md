@@ -38,9 +38,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/23avoay6vn9q2rm/ayam-koteka.jpg?raw=1'/>
         <p>
-        <h1>ayam-koteka</h1>
-        Opis
-        </p>
+        <h1>Ayam Koteka / Nasi Kucing</h1>
+Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w bambusie. Potem ogromnie dużo wody kokosowej z lodem. A na dole Nasi Kucing, tzw koci ryż. Czyli ryż z mikrospopijnymi porcjami małych dań. Tu smażone tempeh, rybki etc.        </p>
     </div>
 </div>
 
@@ -48,8 +47,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/oj2xhksjsi644fv/bakmi.jpg?raw=1'/>
         <p>
-        <h1>bakmi</h1>
-        Opis
+        <h1>Bakmi Godhog i Goreng.</h1>
+         Jawajskie grube pszenne kluski wymieszane z drobnymi ryzowymi, podawane z pieczonym kurczakiem i jajkiem. Wariant goreng to smażone, a godhog podawane w lekkim rosole. Gatunek kury do tego właściwy to ayam kampung - ayam to kura, kampung to wioska. Taki półdziki ponoc. W każdym razie indonezyjczy zwracają uwagę jako gatunek kury do jakiego dania. A poza tym widać duża różnicę z Wietnamem przy streetfoodzie. Wietnam duuuuuuzo czystszy.
         </p>
     </div>
 </div>
@@ -58,8 +57,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/5g04xjzazuz5t44/kipo-and-nagesari.jpg?raw=1'/>
         <p>
-        <h1>kipo-and-nagesari</h1>
-        Opis
+        <h1>Kipo / Nagesari</h1>
+        Po lewej Kipo - kokos, brązowy cukier i mąką ryżo smażone na patelni a potem podawane na lisciu banana. A po prawej Nagesari - mąką ryżowa z bananem, gotowane na parze w liście banana
         </p>
     </div>
 </div>
@@ -68,8 +67,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/f2wl5r4pc9sbew2/kopi-klotok.jpg?raw=1'/>
         <p>
-        <h1>kopi-klotok</h1>
-        Opis
+        <h1>Kopi Klotok</h1>
+        W Indonezji alkohol jest dostępny, ale jednak muzułmański kraj to muzułmański. Jest drogi (koło 9PLN butelka piwa w minimarkecie), poza bali raczej tylko w knajpach, nie w sklepach. Teraz jest Ramadan, więc nawet knajpy które mają zazwyczaj alkohol, na ten czas zdarza się, że go wycofują. Tym ciekawszym zjawiskiem jest Kopi Klopok. To jest po prostu kawa z wódka. Za równowartość 4PLN dostajesz takie coś. Koszmarnie mocne, więcej wódki niż kawy. Pić się nie da nawet moimi polskimi ustami. Zdajsie to jest takie polegalne. Jakoś się te "kawiarnie" policji opłacają. Mam wrażenie że przeliczeniu %/PLN paradoksalnie jedno z tańszych alko regionu.
         </p>
     </div>
 </div>
@@ -78,8 +77,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/2kybkyqjnqmtkqg/leker.jpg?raw=1'/>
         <p>
-        <h1>leker</h1>
-        Opis
+        <h1>Leker</h1>
+        Chrupki naleśnik z mąki ryżowej z cukrem palmowy z dodatkami, np. serem, czekolada, dżemem.
         </p>
     </div>
 </div>
@@ -88,8 +87,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/eekguesrf197vgx/lontong-opor.jpg?raw=1'/>
         <p>
-        <h1>lontong-opor</h1>
-        Opis
+        <h1>Lontong Opor</h1>
+        Lontong to rodzaj gotowanego na parze ryżu, to co jak takie kluski wygląda. Opor to delikatnie pikantna zupa z mleka kokosowego, takie Jawajskie w curry. Je się to jak tu widać z jajkiem, kurczakiem (mięso i watrobka), może być też z wołowiną lub tofu. Wariant jak widac uliczny, tak się to dostaje na wynos.
         </p>
     </div>
 </div>
@@ -98,8 +97,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/8oxxcbarpxbzxy9/lumpia.jpg?raw=1'/>
         <p>
-        <h1>lumpia</h1>
-        Opis
+        <h1>Lumpia</h1>
+        Trochę wariacja na temat sajgonki. Przysmak oryginalnie ponoć z Samaramg, czyli centralna Java. Faszerowane toto kurczakiem, warzywami, jajkiem na twardo. Z cienkiego ciasta, ale nie ryżowego, a zwykłego. Podawane z kiszonym na słodko ogórkiem i także chyba kiszoną pasta z cebuli
         </p>
     </div>
 </div>
@@ -108,8 +107,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/26vojupmsaghv8s/martabak.jpg?raw=1'/>
         <p>
-        <h1>martabak</h1>
-        Opis
+        <h1>Martabak</h1>
+        Martabak Telor. Telor to jajko, a Martabak to coś w rodzaju omletu ale z tych z mąką, nafaszerowanego dość duża ilością warzyw.
         </p>
     </div>
 </div>
@@ -118,8 +117,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/335uirswbas859b/mie-aceh.jpg?raw=1'/>
         <p>
-        <h1>mie-aceh</h1>
-        Opis
+        <h1>Mie Aceh Goreng</h1>
+        Mie to makaron, Goreng to smażone, Aceh to region Indonezji. Najbardziej wysunięty na zachód, mieszkańcy nazywają go "Werandą Mekki". Jest to też region bardzo islamski, po długiej wojnie domowej wywalczyli sobie prawo do wprowadzenia Szariatu. Szariat tam bywa groteskowy, np zakazano kobietom siedzieć okrakiem na skuterze, gdy sa pasażerkami, ale jest także np publiczna chlosta za niemoralne prowadzenie etc. Samo danie to bardzo bardzo pikantne - bo z pikantnosci słynie kuchnia Sumatry więc i Aceh - kluski z orzeszkami, czili etc. Tutaj dodatkowo z kurczakiem rendang, o którym Kiedy indziej.
         </p>
     </div>
 </div>
@@ -128,8 +127,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/khvqxofd6iw6we4/nasi-gandul.jpg?raw=1'/>
         <p>
-        <h1>nasi-gandul</h1>
-        Opis
+        <h1>Nasi Gandul</h1>
+        Danie z centralnej Jawy. Nasi, to ryz, Gandul to coś w rodzaju zwisania. Jesli dobrze zrozumiałem, to od sposobu w jaki nosili to sprzedawcy tego dania - taki kij z przewieszonymi pojemnikami. A jest to kokosowa zupka z podrobami, dalekie echo tajskiego curry z ryżem. Lekko pikantne i bardzo pyszne. Tutaj podane z kozią watrobką, ale do wyboru była też kozia skóra i inne kozie podroby, jest też wariant z podrobami wolowymi.
         </p>
     </div>
 </div>
@@ -138,8 +137,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/4xih0t0kva53eer/risoles-mayo.jpg?raw=1'/>
         <p>
-        <h1>risoles-mayo</h1>
-        Opis
+        <h1>Risoles Mayo</h1>
+        To jest ta część kuchni indonezyjskiej które nie lubię, ale wydaje się że jest ulubiona częścią indonezyjczyków. Czyli usmażyć na tłusto coś i tak tłustego. To akurat sa nazwyklejsze krokiety z naleśników, w środku ser, szynka wołowa, panierowane i polane majonezem. Bardzo popularne, bardzo takie sobie. Nuda
         </p>
     </div>
 </div>
@@ -148,8 +147,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/66rlz5xpjj9r4d9/ronde.jpg?raw=1'/>
         <p>
-        <h1>ronde</h1>
-        Opis
+        <h1>Ronde</h1>
+        Napój z imbiru i brązowego cukru, podawany z orzeszkami, owocami palmy cukrowej (kolangkaling) oraz kulkami z sticky rice, w sensie lepkiego ryżu. 
         </p>
     </div>
 </div>
@@ -158,8 +157,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/mljveeaz7l4nlkp/sego-pecel.jpg?raw=1'/>
         <p>
-        <h1>sego-pecel</h1>
-        Opis
+        <h1>Sego Pecel</h1>
+        W miejscu które nazywa się SGPC, i jest ponoć najlepszym miejsce z tym daniem w Jogja, a twierdzą ze i w Indonezji. Jakas ich super gwiazda filmowa tu, mimo skromnego wystroju, specjalnie przyjeżdża. Danie wegetariańskie. Tempeh, szpinak (wodny chyba), kiełki fasol. Wszystko z lekko pikantnym sosem orzeszkowym. Podane z ryżem i ciepłe, ale uchodzi za sałatkę. Pewno przez brak mięsa. Ten "szaszłyk" to jajka przepiórcze. Świetne
         </p>
     </div>
 </div>
@@ -168,8 +167,8 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/1qzwj073exyoapw/serabi.jpg?raw=1'/>
         <p>
-        <h1>serabi</h1>
-        Opis
+        <h1>Serabi</h1>
+        Serabi. Grube, puszyste naleśniki z mąki ryżowej i mleka kokosowego. Trochę jak amerykańskie pankejki. Ten zielony to z pandamem. Serwowane z sosem też z mleka kokosowego.
         </p>
     </div>
 </div>
@@ -178,29 +177,9 @@ category: Jedzenie
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/g195k6ks5c9js5f/tape-telo.jpg?raw=1'/>
         <p>
-        <h1>tape-telo</h1>
-        Opis
+        <h1>Tape Telo</h1>
+        Tape znaczy sfermentowane, Telo to kasawa. No i to właśnie to jest. Sfermentowana kasawa. Lekko slodkawe, daje mocno alkoholem. Jak pofermentuje dłużej można z tego zrobić Arak
         </p>
     </div>
 </div>
 
-
-<div class="demo-container mdl-grid slides" id="">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s//.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        Opis
-        </p>
-    </div>
-</div>
-
-<div class="demo-container mdl-grid slides" id="">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s//.jpg?raw=1'/>
-        <p>
-        <h1></h1>
-        Opis
-        </p>
-    </div>
-</div>
