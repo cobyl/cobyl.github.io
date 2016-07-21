@@ -10,7 +10,7 @@ tag: [Indonezja]
         <strong>Taki katalog indonezyjskie jedzenia, głównie ulicznego.</strong>
 
         <p>Oczywiście trudno mówić o jednym indonezyjskim jedzeniu, gdy mówimy o kraju pi razy oko długości europy,
-            zamieszkanym przez 250 mln ludzi mówiących 250 językami (a z dialektami zdajsie często wzajemnie mało
+            zamieszkanym przez 250 mln ludzi mówiących 250 językami (a z dialektami  często wzajemnie mało
             zrozumiałymi drugie tyle). W porównaniu z Indonezją Europa jest tak bardzo jednorodna kulturowo i etnicznie
             (bo jest) więc mimo, że i Unii Europejskiej i Indonezji motta są w zasadzie identyczne (po angielsku je się
             tłumaczy odpowiednio “United in diversity” i “Unity in Diversity”) to, chyba ta druga zasługuje na nie
