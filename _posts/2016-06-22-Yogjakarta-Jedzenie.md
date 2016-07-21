@@ -80,6 +80,38 @@ tag: [Indonezja]
     </div>
 </div>
 
+<div class="demo-container mdl-grid slides" id="pasar-ikan">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/28yvnukdfl48miw/pasar-ikan.jpg?raw=1'/>
+        <p>!!!
+        <h1>pasar-ikan</h1></p></div>
+</div>
+<div class="demo-container mdl-grid slides" id="seafood">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/ox8qt9d91ep4sov/seafood.jpg?raw=1'/>
+        <p>!!!
+        <h1>seafood</h1></p></div>
+</div>
+<div class="demo-container mdl-grid slides" id="pedas-abis">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/q3mpkherzn6vtv9/pedas-abis.jpg?raw=1'/>
+        <p>!!!
+        <h1>pedas-abis</h1></p></div>
+</div>
+<div class="demo-container mdl-grid slides" id="ramadan-targ">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='?https://www.dropbox.com/s/7zj5gehgyl7zvjk/ramadan-targ.jpg?raw=1'/>
+        <p>!!!
+        <h1>ramadan-targ</h1></p></div>
+</div>
+<div class="demo-container mdl-grid slides" id="wiejska-knajpa">
+    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
+        <img src='https://www.dropbox.com/s/gvrv0znehx4kllf/wiejska-knajpa.jpg?raw=1'/>
+        <p>!!!
+        <h1>wiejska-knajpa</h1></p></div>
+</div>
+
+
 <div class="demo-container mdl-grid slides" id="ayam-koteka">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/23avoay6vn9q2rm/ayam-koteka.jpg?raw=1'/>
@@ -369,18 +401,6 @@ tag: [Indonezja]
         <p>!!!
         <h1>otak-otak-ikan-bakar</h1></p></div>
 </div>
-<div class="demo-container mdl-grid slides" id="pasar-ikan">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/28yvnukdfl48miw/pasar-ikan.jpg?raw=1'/>
-        <p>!!!
-        <h1>pasar-ikan</h1></p></div>
-</div>
-<div class="demo-container mdl-grid slides" id="pedas-abis">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/q3mpkherzn6vtv9/pedas-abis.jpg?raw=1'/>
-        <p>!!!
-        <h1>pedas-abis</h1></p></div>
-</div>
 <div class="demo-container mdl-grid slides" id="pempek">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/losswyolvwojd12/pempek.jpg?raw=1'/>
@@ -392,12 +412,6 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/h4lp2lj193ulvgr/pukis.jpg?raw=1'/>
         <p>!!!
         <h1>pukis</h1></p></div>
-</div>
-<div class="demo-container mdl-grid slides" id="ramadan-targ">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?https://www.dropbox.com/s/7zj5gehgyl7zvjk/ramadan-targ.jpg?raw=1'/>
-        <p>!!!
-        <h1>ramadan-targ</h1></p></div>
 </div>
 
 <div class="demo-container mdl-grid slides" id="risoles-mayo">
@@ -440,12 +454,6 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/3w6vd7bajdwma0a/sate-campur.jpg?raw=1'/>
         <p>!!!
         <h1>sate-campur</h1></p></div>
-</div>
-<div class="demo-container mdl-grid slides" id="seafood">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/ox8qt9d91ep4sov/seafood.jpg?raw=1'/>
-        <p>!!!
-        <h1>seafood</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sego-abang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -534,11 +542,3 @@ tag: [Indonezja]
         <p>!!!
         <h1>urap</h1></p></div>
 </div>
-<div class="demo-container mdl-grid slides" id="wiejska-knajpa">
-    <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='https://www.dropbox.com/s/gvrv0znehx4kllf/wiejska-knajpa.jpg?raw=1'/>
-        <p>!!!
-        <h1>wiejska-knajpa</h1></p></div>
-</div>
-
-
