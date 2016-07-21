@@ -15,73 +15,65 @@ tag: [Indonezja]
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
 		 <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
         <ol>
-            <li><a href='#ayam-koteka'>Ayam Koteka / Nasi Kucing</a></li>
-
-
-
-<a href="#bakmi-mihun.jpg">bakmi-mihun.jpg</a>
-<li><a href='#bakmi'>Bakmi</a></li>
-<a href="#bakso-pedas.jpg">bakso-pedas.jpg</a>
-<a href="#bakso-urat.jpg">bakso-urat.jpg</a>
-<a href="#bolu-bakar.jpg">bolu-bakar.jpg</a>
-<a href="#brongkos.jpg">brongkos.jpg</a>
-<a href="#bubur-ayam-khas-bandung.jpg">bubur-ayam-khas-bandung.jpg</a>
-<a href="#burjo.jpg">burjo.jpg</a>
-<a href="#enting-gepuk.jpg">enting-gepuk.jpg</a>
-<a href="#gado-gado-kupat.jpg">gado-gado-kupat.jpg</a>
-<a href="#gudeg.jpg">gudeg.jpg</a>
-<a href="#jadah-manten.jpg">jadah-manten.jpg</a>
-<a href="#janang-gempol.jpg">janang-gempol.jpg</a>
-<a href="#ketan-bubuk.jpg">ketan-bubuk.jpg</a>
-
-            <li><a href='#kipo-and-nagesari'>Kipo / Nagesari</a></li>
-
-
-
-<a href="#kopi-joss.jpg">kopi-joss.jpg</a>
-            <li><a href='#kopi-klotok'>Kopi Klotok</a></li>
-
-<a href="#kopi.jpg">kopi.jpg</a>
-            <li><a href='#leker'>Leker</a></li>
-<a href="#lemper.jpg">lemper.jpg</a>
-            <li><a href='#lontong-opor'>Lontong Opor</a></li>
-<a href="#lopis.jpg">lopis.jpg</a>
-            <li><a href='#lumpia'>Lumpia</a></li>
-            <li><a href='#martabak'>Martabak</a></li>
-<a href="#mentho.jpg">mentho.jpg</a>
-            <li><a href='#mie-aceh'>Mie Aceh</a></li>
-<a href="#mie-ayam-pangsit.jpg">mie-ayam-pangsit.jpg</a>
-            <li><a href='#nasi-gandul'>Nasi Gandul</a></li>
-<a href="#nasi-kebuli-sati.jpg">nasi-kebuli-sati.jpg</a>
-<a href="#nasi-kuning-ternate.jpg">nasi-kuning-ternate.jpg</a>
-<a href="#nasi-kuning.jpg">nasi-kuning.jpg</a>
-<a href="#nasi-liwet.jpg">nasi-liwet.jpg</a>
-<a href="#nasi-pindang.jpg">nasi-pindang.jpg</a>
-<a href="#nasi-sambal-telur.jpg">nasi-sambal-telur.jpg</a>
-<a href="#otak-otak-ikan-bakar.jpg">otak-otak-ikan-bakar.jpg</a>
-<a href="#pasar-ikan.jpg">pasar-ikan.jpg</a>
-<a href="#pedas-abis.jpg">pedas-abis.jpg</a>
-<a href="#pempek.jpg">pempek.jpg</a>
-<a href="#pukis.jpg">pukis.jpg</a>
-<a href="#ramadan-targ.jpg">ramadan-targ.jpg</a>
-            <li><a href='#risoles-mayo'>Risoles Mayo</a></li>
-            <li><a href='#ronde'>Ronde</a></li>
-<a href="#roti-bakar-kelling.jpg">roti-bakar-kelling.jpg</a>
-<a href="#roti-pisang.jpg">roti-pisang.jpg</a>
-<a href="#sate-campur.jpg">sate-campur.jpg</a>
-<a href="#seafood.jpg">seafood.jpg</a>
-<a href="#sego-abang.jpg">sego-abang.jpg</a>
-<a href="#sego-megono.jpg">sego-megono.jpg</a>
-            <li><a href='#sego-pecel'>Sego Pecel</a></li>
-            <li><a href='#serabi'>Serabi</a></li>
-<a href="#solo-salad.jpg">solo-salad.jpg</a>
-<a href="#sop-ayam-klaten.jpg">sop-ayam-klaten.jpg</a>
-<a href="#sop-buntut.jpg">sop-buntut.jpg</a>
-<a href="#soto-kudus-campur.jpg">soto-kudus-campur.jpg</a>
-<a href="#soto-tangkar.jpg">soto-tangkar.jpg</a>
-            <li><a href='#tape-telo'>Tape Telo</a></li>
-<a href="#urap.jpg">urap.jpg</a>
-<a href="#wiejska-knajpa.jpg">wiejska-knajpa.jpg</a>        
+            	<li><a href='#ayam-koteka'>Ayam Koteka / Nasi Kucing</a></li>
+		<li><a href="#bakmi-mihun.jpg">bakmi-mihun.jpg</a></li>
+		<li><a href='#bakmi'>Bakmi</a></li>
+		<li><a href="#bakso-pedas.jpg">bakso-pedas.jpg</a></li>
+		<li><a href="#bakso-urat.jpg">bakso-urat.jpg</a></li>
+		<li><a href="#bolu-bakar.jpg">bolu-bakar.jpg</a></li>
+		<li><a href="#brongkos.jpg">brongkos.jpg</a></li>
+		<li><a href="#bubur-ayam-khas-bandung.jpg">bubur-ayam-khas-bandung.jpg</a></li>
+		<li><a href="#burjo.jpg">burjo.jpg</a></li>
+		<li><a href="#enting-gepuk.jpg">enting-gepuk.jpg</a></li>
+		<li><a href="#gado-gado-kupat.jpg">gado-gado-kupat.jpg</a></li>
+		<li><a href="#gudeg.jpg">gudeg.jpg</a></li>
+		<li><a href="#jadah-manten.jpg">jadah-manten.jpg</a></li>
+		<li><a href="#janang-gempol.jpg">janang-gempol.jpg</a></li>
+		<li><a href="#ketan-bubuk.jpg">ketan-bubuk.jpg</a></li>
+		<li><a href='#kipo-and-nagesari'>Kipo / Nagesari</a></li>
+		<li><a href="#kopi-joss.jpg">kopi-joss.jpg</a></li>
+            	<li><a href='#kopi-klotok'>Kopi Klotok</a></li>
+		<li><a href="#kopi.jpg">kopi.jpg</a></li>
+            	<li><a href='#leker'>Leker</a></li>
+		<li><a href="#lemper.jpg">lemper.jpg</a></li>
+            	<li><a href='#lontong-opor'>Lontong Opor</a></li>
+		<li><a href="#lopis.jpg">lopis.jpg</a></li>
+            	<li><a href='#lumpia'>Lumpia</a></li>
+            	<li><a href='#martabak'>Martabak</a></li>
+		<li><a href="#mentho.jpg">mentho.jpg</a></li>
+            	<li><a href='#mie-aceh'>Mie Aceh</a></li>
+		<li><a href="#mie-ayam-pangsit.jpg">mie-ayam-pangsit.jpg</a></li>
+            	<li><a href='#nasi-gandul'>Nasi Gandul</a></li>
+		<li><a href="#nasi-kebuli-sati.jpg">nasi-kebuli-sati.jpg</a></li>
+		<li><a href="#nasi-kuning-ternate.jpg">nasi-kuning-ternate.jpg</a></li>
+		<li><a href="#nasi-kuning.jpg">nasi-kuning.jpg</a></li>
+		<li><a href="#nasi-liwet.jpg">nasi-liwet.jpg</a></li>
+		<li><a href="#nasi-pindang.jpg">nasi-pindang.jpg</a></li>
+		<li><a href="#nasi-sambal-telur.jpg">nasi-sambal-telur.jpg</a></li>
+		<li><a href="#otak-otak-ikan-bakar.jpg">otak-otak-ikan-bakar.jpg</a></li>
+		<li><a href="#pasar-ikan.jpg">pasar-ikan.jpg</a></li>
+		<li><a href="#pedas-abis.jpg">pedas-abis.jpg</a></li>
+		<li><a href="#pempek.jpg">pempek.jpg</a></li>
+		<li><a href="#pukis.jpg">pukis.jpg</a></li>
+		<li><a href="#ramadan-targ.jpg">ramadan-targ.jpg</a></li>
+	        <li><a href='#risoles-mayo'>Risoles Mayo</a></li>
+	        <li><a href='#ronde'>Ronde</a></li>
+		<li><a href="#roti-bakar-kelling.jpg">roti-bakar-kelling.jpg</a></li>
+		<li><a href="#roti-pisang.jpg">roti-pisang.jpg</a></li>
+		<li><a href="#sate-campur.jpg">sate-campur.jpg</a></li>
+		<li><a href="#seafood.jpg">seafood.jpg</a></li>
+		<li><a href="#sego-abang.jpg">sego-abang.jpg</a></li>
+		<li><a href="#sego-megono.jpg">sego-megono.jpg</a></li>
+		<li><a href='#sego-pecel'>Sego Pecel</a></li>
+		<li><a href='#serabi'>Serabi</a></li>
+		<li><a href="#solo-salad.jpg">solo-salad.jpg</a></li>
+		<li><a href="#sop-ayam-klaten.jpg">sop-ayam-klaten.jpg</a></li>
+		<li><a href="#sop-buntut.jpg">sop-buntut.jpg</a></li>
+		<li><a href="#soto-kudus-campur.jpg">soto-kudus-campur.jpg</a></li>
+		<li><a href="#soto-tangkar.jpg">soto-tangkar.jpg</a></li>
+		<li><a href='#tape-telo'>Tape Telo</a></li>
+		<li><a href="#urap.jpg">urap.jpg</a></li>
+		<li><a href="#wiejska-knajpa.jpg">wiejska-knajpa.jpg</a></li>
         </ol>
         </p>
     </div>
