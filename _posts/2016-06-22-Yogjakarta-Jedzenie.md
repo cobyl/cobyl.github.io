@@ -15,65 +15,7 @@ tag: [Indonezja]
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
 		 <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
         <ol>
-            	<li><a href='#ayam-koteka'>Ayam Koteka / Nasi Kucing</a></li>
-		<li><a href="#bakmi-mihun.jpg">bakmi-mihun.jpg</a></li>
-		<li><a href='#bakmi'>Bakmi</a></li>
-		<li><a href="#bakso-pedas.jpg">bakso-pedas.jpg</a></li>
-		<li><a href="#bakso-urat.jpg">bakso-urat.jpg</a></li>
-		<li><a href="#bolu-bakar.jpg">bolu-bakar.jpg</a></li>
-		<li><a href="#brongkos.jpg">brongkos.jpg</a></li>
-		<li><a href="#bubur-ayam-khas-bandung.jpg">bubur-ayam-khas-bandung.jpg</a></li>
-		<li><a href="#burjo.jpg">burjo.jpg</a></li>
-		<li><a href="#enting-gepuk.jpg">enting-gepuk.jpg</a></li>
-		<li><a href="#gado-gado-kupat.jpg">gado-gado-kupat.jpg</a></li>
-		<li><a href="#gudeg.jpg">gudeg.jpg</a></li>
-		<li><a href="#jadah-manten.jpg">jadah-manten.jpg</a></li>
-		<li><a href="#janang-gempol.jpg">janang-gempol.jpg</a></li>
-		<li><a href="#ketan-bubuk.jpg">ketan-bubuk.jpg</a></li>
-		<li><a href='#kipo-and-nagesari'>Kipo / Nagesari</a></li>
-		<li><a href="#kopi-joss.jpg">kopi-joss.jpg</a></li>
-            	<li><a href='#kopi-klotok'>Kopi Klotok</a></li>
-		<li><a href="#kopi.jpg">kopi.jpg</a></li>
-            	<li><a href='#leker'>Leker</a></li>
-		<li><a href="#lemper.jpg">lemper.jpg</a></li>
-            	<li><a href='#lontong-opor'>Lontong Opor</a></li>
-		<li><a href="#lopis.jpg">lopis.jpg</a></li>
-            	<li><a href='#lumpia'>Lumpia</a></li>
-            	<li><a href='#martabak'>Martabak</a></li>
-		<li><a href="#mentho.jpg">mentho.jpg</a></li>
-            	<li><a href='#mie-aceh'>Mie Aceh</a></li>
-		<li><a href="#mie-ayam-pangsit.jpg">mie-ayam-pangsit.jpg</a></li>
-            	<li><a href='#nasi-gandul'>Nasi Gandul</a></li>
-		<li><a href="#nasi-kebuli-sati.jpg">nasi-kebuli-sati.jpg</a></li>
-		<li><a href="#nasi-kuning-ternate.jpg">nasi-kuning-ternate.jpg</a></li>
-		<li><a href="#nasi-kuning.jpg">nasi-kuning.jpg</a></li>
-		<li><a href="#nasi-liwet.jpg">nasi-liwet.jpg</a></li>
-		<li><a href="#nasi-pindang.jpg">nasi-pindang.jpg</a></li>
-		<li><a href="#nasi-sambal-telur.jpg">nasi-sambal-telur.jpg</a></li>
-		<li><a href="#otak-otak-ikan-bakar.jpg">otak-otak-ikan-bakar.jpg</a></li>
-		<li><a href="#pasar-ikan.jpg">pasar-ikan.jpg</a></li>
-		<li><a href="#pedas-abis.jpg">pedas-abis.jpg</a></li>
-		<li><a href="#pempek.jpg">pempek.jpg</a></li>
-		<li><a href="#pukis.jpg">pukis.jpg</a></li>
-		<li><a href="#ramadan-targ.jpg">ramadan-targ.jpg</a></li>
-	        <li><a href='#risoles-mayo'>Risoles Mayo</a></li>
-	        <li><a href='#ronde'>Ronde</a></li>
-		<li><a href="#roti-bakar-kelling.jpg">roti-bakar-kelling.jpg</a></li>
-		<li><a href="#roti-pisang.jpg">roti-pisang.jpg</a></li>
-		<li><a href="#sate-campur.jpg">sate-campur.jpg</a></li>
-		<li><a href="#seafood.jpg">seafood.jpg</a></li>
-		<li><a href="#sego-abang.jpg">sego-abang.jpg</a></li>
-		<li><a href="#sego-megono.jpg">sego-megono.jpg</a></li>
-		<li><a href='#sego-pecel'>Sego Pecel</a></li>
-		<li><a href='#serabi'>Serabi</a></li>
-		<li><a href="#solo-salad.jpg">solo-salad.jpg</a></li>
-		<li><a href="#sop-ayam-klaten.jpg">sop-ayam-klaten.jpg</a></li>
-		<li><a href="#sop-buntut.jpg">sop-buntut.jpg</a></li>
-		<li><a href="#soto-kudus-campur.jpg">soto-kudus-campur.jpg</a></li>
-		<li><a href="#soto-tangkar.jpg">soto-tangkar.jpg</a></li>
-		<li><a href='#tape-telo'>Tape Telo</a></li>
-		<li><a href="#urap.jpg">urap.jpg</a></li>
-		<li><a href="#wiejska-knajpa.jpg">wiejska-knajpa.jpg</a></li>
+            	<li><a href='#ayam-koteka'>Ayam Koteka</a></li>
         </ol>
     </div>
 </div>
@@ -87,6 +29,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#bakmi-mihun.jpg">bakmi-mihun.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="bakmi">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/oj2xhksjsi644fv/bakmi.jpg?raw=1'/>
@@ -96,6 +40,20 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
         </p>
     </div>
 </div>
+
+		<li><a href="#bakso-pedas.jpg">bakso-pedas.jpg</a></li>
+		<li><a href="#bakso-urat.jpg">bakso-urat.jpg</a></li>
+		<li><a href="#bolu-bakar.jpg">bolu-bakar.jpg</a></li>
+		<li><a href="#brongkos.jpg">brongkos.jpg</a></li>
+		<li><a href="#bubur-ayam-khas-bandung.jpg">bubur-ayam-khas-bandung.jpg</a></li>
+		<li><a href="#burjo.jpg">burjo.jpg</a></li>
+		<li><a href="#enting-gepuk.jpg">enting-gepuk.jpg</a></li>
+		<li><a href="#gado-gado-kupat.jpg">gado-gado-kupat.jpg</a></li>
+		<li><a href="#gudeg.jpg">gudeg.jpg</a></li>
+		<li><a href="#jadah-manten.jpg">jadah-manten.jpg</a></li>
+		<li><a href="#janang-gempol.jpg">janang-gempol.jpg</a></li>
+		<li><a href="#ketan-bubuk.jpg">ketan-bubuk.jpg</a></li>
+
 
 <div class="demo-container mdl-grid slides" id="kipo-and-nagesari">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -107,6 +65,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#kopi-joss.jpg">kopi-joss.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="kopi-klotok">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/f2wl5r4pc9sbew2/kopi-klotok.jpg?raw=1'/>
@@ -116,6 +76,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
         </p>
     </div>
 </div>
+
+		<li><a href="#kopi.jpg">kopi.jpg</a></li>
 
 <div class="demo-container mdl-grid slides" id="leker">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -127,6 +89,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#lemper.jpg">lemper.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="lontong-opor">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/eekguesrf197vgx/lontong-opor.jpg?raw=1'/>
@@ -136,6 +100,9 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
         </p>
     </div>
 </div>
+
+		<li><a href="#lopis.jpg">lopis.jpg</a></li>
+
 
 <div class="demo-container mdl-grid slides" id="lumpia">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -157,6 +124,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#mentho.jpg">mentho.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="mie-aceh">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/335uirswbas859b/mie-aceh.jpg?raw=1'/>
@@ -167,6 +136,8 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#mie-ayam-pangsit.jpg">mie-ayam-pangsit.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="nasi-gandul">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/khvqxofd6iw6we4/nasi-gandul.jpg?raw=1'/>
@@ -176,6 +147,19 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
         </p>
     </div>
 </div>
+
+		<li><a href="#nasi-kebuli-sati.jpg">nasi-kebuli-sati.jpg</a></li>
+		<li><a href="#nasi-kuning-ternate.jpg">nasi-kuning-ternate.jpg</a></li>
+		<li><a href="#nasi-kuning.jpg">nasi-kuning.jpg</a></li>
+		<li><a href="#nasi-liwet.jpg">nasi-liwet.jpg</a></li>
+		<li><a href="#nasi-pindang.jpg">nasi-pindang.jpg</a></li>
+		<li><a href="#nasi-sambal-telur.jpg">nasi-sambal-telur.jpg</a></li>
+		<li><a href="#otak-otak-ikan-bakar.jpg">otak-otak-ikan-bakar.jpg</a></li>
+		<li><a href="#pasar-ikan.jpg">pasar-ikan.jpg</a></li>
+		<li><a href="#pedas-abis.jpg">pedas-abis.jpg</a></li>
+		<li><a href="#pempek.jpg">pempek.jpg</a></li>
+		<li><a href="#pukis.jpg">pukis.jpg</a></li>
+		<li><a href="#ramadan-targ.jpg">ramadan-targ.jpg</a></li>
 
 <div class="demo-container mdl-grid slides" id="risoles-mayo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -197,6 +181,13 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#roti-bakar-kelling.jpg">roti-bakar-kelling.jpg</a></li>
+		<li><a href="#roti-pisang.jpg">roti-pisang.jpg</a></li>
+		<li><a href="#sate-campur.jpg">sate-campur.jpg</a></li>
+		<li><a href="#seafood.jpg">seafood.jpg</a></li>
+		<li><a href="#sego-abang.jpg">sego-abang.jpg</a></li>
+		<li><a href="#sego-megono.jpg">sego-megono.jpg</a></li>
+
 <div class="demo-container mdl-grid slides" id="sego-pecel">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/mljveeaz7l4nlkp/sego-pecel.jpg?raw=1'/>
@@ -217,6 +208,13 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#solo-salad.jpg">solo-salad.jpg</a></li>
+		<li><a href="#sop-ayam-klaten.jpg">sop-ayam-klaten.jpg</a></li>
+		<li><a href="#sop-buntut.jpg">sop-buntut.jpg</a></li>
+		<li><a href="#soto-kudus-campur.jpg">soto-kudus-campur.jpg</a></li>
+		<li><a href="#soto-tangkar.jpg">soto-tangkar.jpg</a></li>
+
+
 <div class="demo-container mdl-grid slides" id="tape-telo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/g195k6ks5c9js5f/tape-telo.jpg?raw=1'/>
@@ -227,3 +225,5 @@ Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w
     </div>
 </div>
 
+		<li><a href="#urap.jpg">urap.jpg</a></li>
+		<li><a href="#wiejska-knajpa.jpg">wiejska-knajpa.jpg</a></li>
