@@ -15,65 +15,67 @@ tag: [Indonezja]
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
         <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
         <ol>
+            <li><a href="#pasar-ikan">Pasar Ikan</a></li>
+            <li><a href="#seafood">seafood</a></li>
+            <li><a href="#pedas-abis">Pedas Abis</a></li>
+            <li><a href="#ramadan-targ">ramadan-targ</a></li>
+            <li><a href="#wiejska-knajpa">wiejska-knajpa</a></li>
+        </ol>
+        <ol>
             <li><a href='#ayam-koteka'>Ayam Koteka / Nasi Kucing</a></li>
-            <li><a href="#bakmi-mihun">bakmi-mihun</a></li>
+            <li><a href="#bakmi-mihun">Bakmi Mihun</a></li>
             <li><a href='#bakmi'>Bakmi</a></li>
-            <li><a href="#bakso-pedas">bakso-pedas</a></li>
-            <li><a href="#bakso-urat">bakso-urat</a></li>
-            <li><a href="#bolu-bakar">bolu-bakar</a></li>
-            <li><a href="#brongkos">brongkos</a></li>
-            <li><a href="#bubur-ayam-khas-bandung">bubur-ayam-khas-bandung</a></li>
-            <li><a href="#burjo">burjo</a></li>
-            <li><a href="#enting-gepuk">enting-gepuk</a></li>
-            <li><a href="#gado-gado-kupat">gado-gado-kupat</a></li>
-            <li><a href="#gudeg">gudeg</a></li>
-            <li><a href="#jadah-manten">jadah-manten</a></li>
-            <li><a href="#janang-gempol">janang-gempol</a></li>
-            <li><a href="#ketan-bubuk">ketan-bubuk</a></li>
+            <li><a href="#bakso-pedas">Bakso Pedas</a></li>
+            <li><a href="#bakso-urat">Bakso Urat</a></li>
+            <li><a href="#bolu-bakar">Bolu Bakar</a></li>
+            <li><a href="#brongkos">Brongkos</a></li>
+            <li><a href="#bubur-ayam-khas-bandung">Bubur Ayam Hhas Bandung</a></li>
+            <li><a href="#burjo">Burjo</a></li>
+            <li><a href="#enting-gepuk">Enting Gepuk</a></li>
+            <li><a href="#gado-gado-kupat">Gado-gado kupat</a></li>
+            <li><a href="#gudeg">Gudeg</a></li>
+            <li><a href="#jadah-manten">Jadah Manten</a></li>
+            <li><a href="#janang-gempol">Janang Gempol</a></li>
+            <li><a href="#ketan-bubuk">Ketan Bubuk</a></li>
             <li><a href='#kipo-and-nagesari'>Kipo / Nagesari</a></li>
-            <li><a href="#kopi-joss">kopi-joss</a></li>
+            <li><a href="#kopi-joss">Kopi Joss</a></li>
             <li><a href='#kopi-klotok'>Kopi Klotok</a></li>
-            <li><a href="#kopi">kopi</a></li>
+            <li><a href="#kopi">Kopi</a></li>
             <li><a href='#leker'>Leker</a></li>
-            <li><a href="#lemper">lemper</a></li>
+            <li><a href="#lemper">Lemper</a></li>
             <li><a href='#lontong-opor'>Lontong Opor</a></li>
-            <li><a href="#lopis">lopis</a></li>
+            <li><a href="#lopis">Lopis</a></li>
             <li><a href='#lumpia'>Lumpia</a></li>
             <li><a href='#martabak'>Martabak</a></li>
-            <li><a href="#mentho">mentho</a></li>
+            <li><a href="#mentho">Mentho</a></li>
             <li><a href='#mie-aceh'>Mie Aceh</a></li>
-            <li><a href="#mie-ayam-pangsit">mie-ayam-pangsit</a></li>
+            <li><a href="#mie-ayam-pangsit">Mie Ayam Pangsit</a></li>
             <li><a href='#nasi-gandul'>Nasi Gandul</a></li>
-            <li><a href="#nasi-kebuli-sati">nasi-kebuli-sati</a></li>
-            <li><a href="#nasi-kuning-ternate">nasi-kuning-ternate</a></li>
-            <li><a href="#nasi-kuning">nasi-kuning</a></li>
-            <li><a href="#nasi-liwet">nasi-liwet</a></li>
-            <li><a href="#nasi-pindang">nasi-pindang</a></li>
-            <li><a href="#nasi-sambal-telur">nasi-sambal-telur</a></li>
-            <li><a href="#otak-otak-ikan-bakar">otak-otak-ikan-bakar</a></li>
-            <li><a href="#pasar-ikan">pasar-ikan</a></li>
-            <li><a href="#pedas-abis">pedas-abis</a></li>
-            <li><a href="#pempek">pempek</a></li>
-            <li><a href="#pukis">pukis</a></li>
-            <li><a href="#ramadan-targ">ramadan-targ</a></li>
+            <li><a href="#nasi-kebuli-sati">Nasi Kebuli Sati</a></li>
+            <li><a href="#nasi-kuning-ternate">Nasi Kuning Ternate</a></li>
+            <li><a href="#nasi-kuning">Nasi Kuning</a></li>
+            <li><a href="#nasi-liwet">Nasi Liwet</a></li>
+            <li><a href="#nasi-pindang">Nasi Pindang</a></li>
+            <li><a href="#nasi-sambal-telur">Nasi Sambal Telur</a></li>
+            <li><a href="#otak-otak-ikan-bakar">Otak-otak ikan bakar</a></li>
+            <li><a href="#pempek">Pempek</a></li>
+            <li><a href="#pukis">Pukis</a></li>
             <li><a href='#risoles-mayo'>Risoles Mayo</a></li>
             <li><a href='#ronde'>Ronde</a></li>
-            <li><a href="#roti-bakar-kelling">roti-bakar-kelling</a></li>
-            <li><a href="#roti-pisang">roti-pisang</a></li>
-            <li><a href="#sate-campur">sate-campur</a></li>
-            <li><a href="#seafood">seafood</a></li>
-            <li><a href="#sego-abang">sego-abang</a></li>
-            <li><a href="#sego-megono">sego-megono</a></li>
+            <li><a href="#roti-bakar-kelling">Roti Bakar Kelling</a></li>
+            <li><a href="#roti-pisang">Roti Pisang</a></li>
+            <li><a href="#sate-campur">Sate Campur</a></li>
+            <li><a href="#sego-abang">Sego Abang</a></li>
+            <li><a href="#sego-megono">Sego Megono</a></li>
             <li><a href='#sego-pecel'>Sego Pecel</a></li>
             <li><a href='#serabi'>Serabi</a></li>
-            <li><a href="#solo-salad">solo-salad</a></li>
-            <li><a href="#sop-ayam-klaten">sop-ayam-klaten</a></li>
-            <li><a href="#sop-buntut">sop-buntut</a></li>
-            <li><a href="#soto-kudus-campur">soto-kudus-campur</a></li>
-            <li><a href="#soto-tangkar">soto-tangkar</a></li>
+            <li><a href="#solo-salad">Solo salad</a></li>
+            <li><a href="#sop-ayam-klaten">Sop Ayam Klaten</a></li>
+            <li><a href="#sop-buntut">Sop Buntut</a></li>
+            <li><a href="#soto-kudus-campur">Soto Kudus Campur</a></li>
+            <li><a href="#soto-tangkar">Soto Tangkar</a></li>
             <li><a href='#tape-telo'>Tape Telo</a></li>
-            <li><a href="#urap">urap</a></li>
-            <li><a href="#wiejska-knajpa">wiejska-knajpa</a></li>
+            <li><a href="#urap">Urap</a></li>
         </ol>
     </div>
 </div>
@@ -91,7 +93,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="bakmi-mihun">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/kpkem64rmrhbiyb/bakmi-mihun.jpg?raw=1'/>
         <p>!!!
         <h1>bakmi-mihun</h1></p></div>
 </div>
@@ -111,73 +113,73 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="bakso-pedas">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/5068pb5yrz27k0f/bakso-pedas.jpg?raw=1'/>
         <p>!!!
         <h1>bakso-pedas</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="bakso-urat">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/i8kqay7bp0ycbi3/bakso-urat.jpg?raw=1'/>
         <p>!!!
         <h1>bakso-urat</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="bolu-bakar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/k3rlhflp3gfqhpi/bolu-bakar.jpg?raw=1'/>
         <p>!!!
         <h1>bolu-bakar</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="brongkos">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/xf8zn7yy9atwiue/brongkos.jpg?raw=1'/>
         <p>!!!
         <h1>brongkos</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="bubur-ayam-khas-bandung">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/kf14tpjyduhayjf/bubur-ayam-khas-bandung.jpg?raw=1'/>
         <p>!!!
         <h1>bubur-ayam-khas-bandung</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="burjo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/q08q8zocbdm8u9t/burjo.jpg?raw=1'/>
         <p>!!!
         <h1>burjo</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="enting-gepuk">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/ee6xzpjs7n148i4/enting-gepuk.jpg?raw=1'/>
         <p>!!!
         <h1>enting-gepuk</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="gado-gado-kupat">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/wmnea0n1l7ex0l2/gado-gado-kupat.jpg?raw=1'/>
         <p>!!!
         <h1>gado-gado-kupat</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="gudeg">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/obt6a5p0ugicsbx/gudeg.jpg?raw=1'/>
         <p>!!!
         <h1>gudeg</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="jadah-manten">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/fdml57sj4pc28qu/jadah-manten.jpg?raw=1'/>
         <p>!!!
         <h1>jadah-manten</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="janang-gempol">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/i68jag5gv0drlgz/janang-gempol.jpg?raw=1'/>
         <p>!!!
         <h1>janang-gempol</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="ketan-bubuk">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/zpglygo4xr3se9v/ketan-bubuk.jpg?raw=1'/>
         <p>!!!
         <h1>ketan-bubuk</h1></p></div>
 </div>
@@ -196,7 +198,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="kopi-joss">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/gl4y1cbdksrgt25/kopi-joss.jpg??raw=1'/>
         <p>!!!
         <h1>kopi-joss</h1></p></div>
 </div>
@@ -218,7 +220,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="kopi">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/tjh8wrnugxvmsai/kopi.jpg?raw=1'/>
         <p>!!!
         <h1>kopi</h1></p></div>
 </div>
@@ -235,7 +237,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="lemper">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/zx55dfj86iuy7lu/lemper.jpg?raw=1'/>
         <p>!!!
         <h1>lemper</h1></p></div>
 </div>
@@ -254,7 +256,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="lopis">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/1d34izwvvfs7g8k/lopis.jpg?raw=1'/>
         <p>!!!
         <h1>lopis</h1></p></div>
 </div>
@@ -285,7 +287,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="mentho">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/nw9tzjuxpezgijv/mentho.jpg?raw=1'/>
         <p>!!!
         <h1>mentho</h1></p></div>
 </div>
@@ -307,7 +309,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="mie-ayam-pangsit">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/1eey3b9s5p8qd7o/mie-ayam-pangsit.jpg?raw=1'/>
         <p>!!!
         <h1>mie-ayam-pangsit</h1></p></div>
 </div>
@@ -327,73 +329,73 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="nasi-kebuli-sati">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/drc1pn61h38pr0s/nasi-kebuli-sati.jpg?raw=1'/>
         <p>!!!
         <h1>nasi-kebuli-sati</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-kuning-ternate">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/sro3850kzedvhsv/nasi-kuning-ternate.jpg?raw=1'/>
         <p>!!!
         <h1>nasi-kuning-ternate</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-kuning">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/ovqikmr4tjocjhk/nasi-kuning.jpg?raw=1'/>
         <p>!!!
         <h1>nasi-kuning</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-liwet">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/egxg4ewtgi2m9jk/nasi-liwet.jpg?raw=1'/>
         <p>!!!
         <h1>nasi-liwet</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-pindang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/ai472fdob0c2wp2/nasi-pindang.jpg?raw=1'/>
         <p>!!!
         <h1>nasi-pindang</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-sambal-telur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/qex34h336r188ux/nasi-sambal-telur.jpg??raw=1'/>
         <p>!!!
         <h1>nasi-sambal-telur</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="otak-otak-ikan-bakar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/v1ggnyal26bdva8/otak-otak-ikan-bakar.jpg?raw=1'/>
         <p>!!!
         <h1>otak-otak-ikan-bakar</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="pasar-ikan">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/28yvnukdfl48miw/pasar-ikan.jpg?raw=1'/>
         <p>!!!
         <h1>pasar-ikan</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="pedas-abis">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/q3mpkherzn6vtv9/pedas-abis.jpg?raw=1'/>
         <p>!!!
         <h1>pedas-abis</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="pempek">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/losswyolvwojd12/pempek.jpg?raw=1'/>
         <p>!!!
         <h1>pempek</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="pukis">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/h4lp2lj193ulvgr/pukis.jpg?raw=1'/>
         <p>!!!
         <h1>pukis</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="ramadan-targ">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='?https://www.dropbox.com/s/7zj5gehgyl7zvjk/ramadan-targ.jpg?raw=1'/>
         <p>!!!
         <h1>ramadan-targ</h1></p></div>
 </div>
@@ -423,37 +425,37 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="roti-bakar-kelling">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/myf1vbyf3g32zmw/roti-bakar-kelling.jpg?raw=1'/>
         <p>!!!
         <h1>roti-bakar-kelling</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="roti-pisang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/mcqv4vy8sqfe2ug/roti-pisang.jpg?raw=1'/>
         <p>!!!
         <h1>roti-pisang</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sate-campur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/3w6vd7bajdwma0a/sate-campur.jpg?raw=1'/>
         <p>!!!
         <h1>sate-campur</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="seafood">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/ox8qt9d91ep4sov/seafood.jpg?raw=1'/>
         <p>!!!
         <h1>seafood</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sego-abang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/zdjfmp5iqw3icda/sego-abang.jpg?raw=1'/>
         <p>!!!
         <h1>sego-abang</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sego-megono">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/7zhaz24dbmo6q61/sego-megono.jpg?raw=1'/>
         <p>!!!
         <h1>sego-megono</h1></p></div>
 </div>
@@ -485,31 +487,31 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="solo-salad">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/poll1zhotweb4qc/solo-salad.jpg?raw=1'/>
         <p>!!!
         <h1>solo-salad</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sop-ayam-klaten">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/nmma5n3txamqmgs/sop-ayam-klaten.jpg?raw=1'/>
         <p>!!!
         <h1>sop-ayam-klaten</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sop-buntut">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/6s682s34468w5wp/sop-buntut.jpg?raw=1'/>
         <p>!!!
         <h1>sop-buntut</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="soto-kudus-campur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/gjf8lpvedcklv5s/soto-kudus-campur.jpg?raw=1'/>
         <p>!!!
         <h1>soto-kudus-campur</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="soto-tangkar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/1vuo2f0deqeq95n/soto-tangkar.jpg?raw=1'/>
         <p>!!!
         <h1>soto-tangkar</h1></p></div>
 </div>
@@ -528,13 +530,13 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="urap">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/3c8p4ed0e51s8el/urap.jpg?raw=1'/>
         <p>!!!
         <h1>urap</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="wiejska-knajpa">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?raw=1'/>
+        <img src='https://www.dropbox.com/s/gvrv0znehx4kllf/wiejska-knajpa.jpg?raw=1'/>
         <p>!!!
         <h1>wiejska-knajpa</h1></p></div>
 </div>
