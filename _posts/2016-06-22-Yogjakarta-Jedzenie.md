@@ -11,16 +11,16 @@ tag: [Indonezja]
 
         <p>Oczywiście trudno mówić o jednym indonezyjskim jedzeniu, gdy mówimy o kraju pi razy oko długości europy,
             zamieszkanym przez 250 mln ludzi mówiących 250 językami (jak liczyć z dialektami, często wzajemnie mało
-            zrozumiałymi, to jeszce drugie tyle). W porównaniu z Indonezją Europa jest tak bardzo jednorodna kulturowo i etnicznie
+            zrozumiałymi, to jeszce drugie tyle). W porównaniu z Indonezją Europa jest  jednorodna kulturowo i etnicznie
             (bo jest) więc mimo, że i Unii Europejskiej i Indonezji motta są w prawie identyczne (po angielsku je się
             tłumaczy odpowiednio “United in diversity” i “Unity in Diversity”) to, chyba ta druga zasługuje na nie
-            bardziej. Oczywiście, to bardzo ciekawy temat jak bardzo jest to unity, ale miało
+            bardziej. Oczywiście, to bardzo ciekawy temat ile tego unity jest w unity, ale miało
             być o jedzeniu, więc już nie przynudzam.</p>
 
         <p>To co poniżej napisałem jest nie o “indonezyjskim jedzeniu” a po prostu o jedzeniu w Yogyakarcie. Chociaż
             zgaduję, że większość z tych dań odnajdzie się w całym kraju, ale prawdopodobnie inaczej trochę zrobionych.
             Yogyakarta to w bardzo niedokładnym przybliżeniu taki Indonezyjski Kraków. Centrum kulturalne, piękna
-            przeszłość, a teraz atrakcja turystyczna. To co jest fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
+            przeszłość, a teraz atrakcja turystyczna. To co  fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
             przeciweństwie do Bali jest to przede wszystkim atrakcja turystyczna dla Indonezyjczyków. Więc jest tutaj dużo
             tandety i kiczu, ale przynajmniej ma swój lokalny koloryt - na Bali tandeta jest oczywiście zazwyczaj pod
             australiczków, nuda. </p>
