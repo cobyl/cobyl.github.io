@@ -1,7 +1,8 @@
 ---
 layout: slides
 title: Yogjakarta. Jedzenie.
-category: Wietnam3
+category: Wycieczki
+tag: [Indonezja]
 ---
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
