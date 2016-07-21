@@ -86,7 +86,8 @@ tag: [Indonezja]
         problem Jogjy i wschodniej jawy, dalej na zachód jest bardziej pikantnie. </p>
 
         <p>No i na koniec power tip. Radzę zapamiętać. Zamawiając mrożoną herbatę (es teh) zawsze powiedz “tawar“ co znaczy
-            czysta, czyli bez cukru. Dzięki temu zamiast przeraźliwego ulepku który jest tak od cukru gęstny, że trudno zamieszać,
+            czysta, czyli bez cukru. Albo dobitniej "tanpa gula" (tanba bez, gula cukier). 
+            Dzięki temu zamiast przeraźliwego ulepku który jest tak od cukru gęstny, że trudno zamieszać,
             dostaniesz po prostu trochę zbyt słodką herbatę (opcje zeby nie posłodzili wcalę, to pewno poza Bali można
             spotkać, ale mi się nie udało)</p>
     </div>
