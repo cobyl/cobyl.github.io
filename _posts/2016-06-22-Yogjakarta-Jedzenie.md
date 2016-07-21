@@ -7,7 +7,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
-        Taki katalog indonezyjskie jedzenia, głównie ulicznego.
+        <strong>Taki katalog indonezyjskie jedzenia, głównie ulicznego.</strong>
 
         <p>Oczywiście trudno mówić o jednym indonezyjskim jedzeniu, gdy mówimy o kraju pi razy oko długości europy,
             zamieszkanym przez 250 mln ludzi mówiących 250 językami (a z dialektami zdajsie często wzajemnie mało
@@ -79,7 +79,6 @@ tag: [Indonezja]
             bez cukru. Dzięki temu zamiast przeraźliwego ulepku który jest tak od cukru gęstny, że trudno zamieszać
             dostaniesz po prostu trochę zasłodką herbatę (opcje zeby nie posłodzili w ogóle poza Bali pewno można
             spotkać, ale mi się nie udało)</p>
-
     </div>
 </div>
 
@@ -160,9 +159,8 @@ tag: [Indonezja]
         <p>
         <h1>Pasar Ikan</h1>
         Pasar Ikan. Czyli Targ Rybny. To takie miejsce kolo dość syfnej (ale z powodu złego utrzymania, samej w sobie
-        dość
-        urokliwej) plaży niedaleko Yogyakarty. Fajne jest to że obok sa knajpki, gdzie się idzie z kupionymi tam rybami
-        i Ci je od razu przygotowują. Fotka niżej.
+        dość urokliwej) plaży niedaleko Yogyakarty. Fajne jest to że obok sa knajpki, gdzie się idzie z kupionymi tam 
+        rybami i Ci je od razu przygotowują. Fotka niżej.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="seafood">
@@ -220,9 +218,9 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="bakmi-mihun">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/kpkem64rmrhbiyb/bakmi-mihun.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Bakmi i Mihun</h1>
-        . Kluski - te grubsze to bakmi, cieńsze mihun. Bakmi sa pszenne, mihun z mąki kukurydzianej ponoć (chociaż mi się wydaje że ryżowej, ale powtarzam co mi powiedziano). Smażone w sosie sojowym, cebula, kolendra etc.
+        Kluski - te grubsze to bakmi, cieńsze mihun. Bakmi sa pszenne, mihun z mąki kukurydzianej ponoć (chociaż mi się wydaje że ryżowej, ale powtarzam co mi powiedziano). Smażone w sosie sojowym, cebula, kolendra etc.
         </p></div>
 </div>
 
@@ -242,7 +240,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="bakso-pedas">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/5068pb5yrz27k0f/bakso-pedas.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Bakso Pedas</h1>
         Pedas to pikantne, bakso to takie meatballsy z wołowiną i tapioką. Takie to sobie, ale oni to bardzo lubią. Jak już pisałem odnoszę wrażenie że indonezyjczycy mają fatalny gust własnego jedzenia.
         </p></div>
@@ -250,7 +248,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="bakso-urat">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/i8kqay7bp0ycbi3/bakso-urat.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Bakso Urat</h1>
         Rosol z kulkami z tapioki i wołowiny, a do tego jeszcze makaron, trochę zieleniny i czosnku. To co odróżnia to
         Urat, czyli żyły które jak rozumiem sa i w wywarze a także pocięte w zupie
@@ -259,7 +257,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="bolu-bakar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/k3rlhflp3gfqhpi/bolu-bakar.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Bolu Bakar</h1>
         Bolu to po polsku Chanos, pewno też nie znaleźliście tego słowa. Po angielsku to milkfish. Fajna delikatna
         rybka, specyficzną dla regionu, bardzo hodowlana. Tutaj podana z sambalem gami gami, super pikantnym trochę jak
@@ -269,7 +267,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="brongkos">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/xf8zn7yy9atwiue/brongkos.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Brongkos</h1>
         Wiem, że wygląda brzydko, Ale ja tu sobie zapisuje bardziej dania niż szpanuje uroda. Zupa z czarnonakrapianej fasoli (po angielsku to jest black eyed pea) na mleku kokosowym z wołowiną. Jedzenie wiejskiej biedoty, ale ponoć teraz także trochę bohemy. Ale middle klasa się brzydzi. Bardzo dobre. #indonesianfood #Indonezja
         </p></div>
@@ -277,7 +275,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="bubur-ayam-khas-bandung">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/kf14tpjyduhayjf/bubur-ayam-khas-bandung.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Bubur Ayam Khas Bandung</h1>
 
         Bubur to taka owsianka ryzowa, no taki ryz na bezsmakowa pulpe rozgotowany, Ayam to oczywiście kurczak (albo
@@ -289,7 +287,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="burjo">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/q08q8zocbdm8u9t/burjo.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Burjo</h1>
         Burjo. Nazwa od Bubur Kacang Ijo co oznacza coś jak owsianka z fasoli złotej, która pewno znacie jako mung (a tak w ogóle kacang to orzech a ijo to zielony) Gotuje się ją kilka godzin w mleku kokosowym z brązowym cukrem, a potem podaje się z mlekiem kokosowym (świeżym) i lodem. Danie w różnych wariantach obecne we wszystkich krajach pd-wsch azji. Wariant malezyjski zdecydowanie
         najlpeszy.
@@ -298,7 +296,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="enting-gepuk">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/ee6xzpjs7n148i4/enting-gepuk.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Enting-enting Gepuk</h1>
         Gepuk to znaczy miażdżyć, tak jak w moździerzu. Enting-enting to nazwa rodziny różnych słodyczy z orzechów. W
         każdym razie ten przypadek to orzeszki ziemne (kacang tanah), cukier puder (gula pasir) i jakieś dodatki
@@ -310,7 +308,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="gado-gado-kupat">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/wmnea0n1l7ex0l2/gado-gado-kupat.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Gado-gado kupat</h1>
         Gado gado kupat. A tu mamy fajny bajer języka indonezyjskiego. Dwa razy obok siebie słowo może być lub wzmocnieniem (zazwyczaj) albo nowym znaczeniem. Gado to znaczy spróbować odrobinkę, a gado gado wymieszać (jedzenie). Kupat to nazwa ciastka z ryżu ugotowanego na parze który tu dodatkiem. A samo gado gado to bardzo pożywna sałatka z kiełkami, jajkiem, ziemniakiem na parze, tofu, kawałkami pomidora i ogórka. Wszystko z stanowiącym istotę tego dania przepysznym sosem z orzeszków ziemnych. Wegetariańskie więc.
         </p></div>
@@ -318,7 +316,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="gudeg">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/obt6a5p0ugicsbx/gudeg.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Gudeg</h1>
         Curry z jackfruita mającego piękna polską nazwę dżakfrut. Długo, bardzo długo gotowany, tak przez 6h czy więcej
         owoc zamienia się z jednego z najsmaczniejszych azjatyckich owoców w taka lekko słodkawa masę w smaku może lekko
@@ -330,7 +328,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="jadah-manten">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/fdml57sj4pc28qu/jadah-manten.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Jadah Manten</h1>
     Jadah to nazwa grupy jedzenia z kleistego ryżu a manten to para młoda, taka weselna. Bo to takie jedzenie weselne. Ulubione jedzenie 6tego Sułtana Yogjakarty (obecnie rządzi 10ty, I właśnie ponoć numerami tylko się nazywa). A samo jedzenie to sticky rice z mlekiem kokosowym gotowany na parze, następnie nadziewany kurczakiem lub wołowiną, a następnie otaczany w jajku wymieszanym z mąką ryżowa i grillowany.
 
@@ -339,7 +337,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="janang-gempol">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/i68jag5gv0drlgz/janang-gempol.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Janang Gempol</h1>
         Janang to taka owsianka z mąki ryżowej, gempol to te kulki też z mąki ryżowej. Dodatkowo z brązowym cukrem i mlekiem kokosowym. Janang jest tradycyjnie używane jest przez wyznawców hinduizmu jako ofiara, ale jesteśmy na muzułmańskiej Jawie i tu nie mało takze muzułmanów składa takie ofiary. Pół tysiąclecia islamu tak zupełnie hinduizmu nie zmylo. Zresztą tak jeszcze anegdotka, to co mnie zdziwiło że to ludzie czesto znają różne hinduskie eposy, koligacje rodzinne bogów, hotele itd mają od nich nazwy. Ogólnie Indonezja jest mocno indo.
         </p></div>
@@ -347,7 +345,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="ketan-bubuk">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/zpglygo4xr3se9v/ketan-bubuk.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Ketan Bubuk</h1>
         Znowu nasz przyjaciel stikirajs, czyli kleisty i to bardzo ryż, podawany z zmielonym kokosem, soy powder, czyli to będzie co, jakiś proszek sojowy ale chyba jednak nie ten dodatek co dzieciom by je bardziej utuczyc się daje. Mocno orzechowy w smaku. No i jeszcze do tego cukier puder.<br />
         A same słowa znaczą: ketan to stikirajs, a bubuk to proszek czy też efekt jakiegoś cięcia na drobne, np drewna czy żelaza. No albo to na pupę niemowlaka też.
@@ -394,7 +392,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="kopi">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/tjh8wrnugxvmsai/kopi.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Kopi</h1>
         Indonezja kawą stoi, kawa tu jest naprawdę świetna. Co najfajniejsze jest jej duży wybór, takich niezbyt fancy pseudohipsterskich miejsc z dużym wyborem gatunku, metod parzenia i niskimi cenami jest multum. Dodatkowy plus maja za to że cold brew jest popularny. A to fajnie gra z klimatem tu. #coffee #kawa
         </p></div>
@@ -413,7 +411,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="lemper">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/zx55dfj86iuy7lu/lemper.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Lemper</h1>
         Sticky rice nadziewany wołowiną lub kurczakiem. Tradycyjnie jedzenie weselne. Ciągle mam problem że słowem sticky rice, po polsku to jak widzę w Wikipedii tłumaczy się po prostu na ryż kleisty, ale jakoś wtedy mi za mało brzmi na nazwę własną. Ale może przekombinowuje. Pewno tak.
         </p></div>
@@ -434,7 +432,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="lopis">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/1d34izwvvfs7g8k/lopis.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Lopis</h1>
         Kolejny i kolejny raz kleisty ryż, kolejny raz z kokosem ale z sosem z brązowego cukru, który się nazywa juruh - który to po prostu woda, cukier, odrobina soli.
         </p></div>
@@ -467,7 +465,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="mentho">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/nw9tzjuxpezgijv/mentho.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Mentho</h1>
         Gotowane na parze ciasto z mąki ryżowej faszerowane mieloną wołowiną. Trochę jak knedle. Zdjęcie jak to moje nie zaapetyczne, zresztą indonezyjskie jedzenie nie jest tak ładne jak wietnamskie, ale chyba oddaje istotę. Przysmak Sułtana, kiedyś danie tylko na specjalne ceremonie, dostępne tylko na dworze królewskim. Bo tu w ogóle jest Sultan, w Yogjakarcie, mający nadal realne wpływy i nieformalna władze. Jeden z dwóch dworów królewskich jakie się w Indonezji ostaly.
         </p></div>
@@ -491,7 +489,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="mie-ayam-pangsit">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/1eey3b9s5p8qd7o/mie-ayam-pangsit.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Mie Ayam Pangsit</h1>
         Mie to kluski, Ayam kura, Pangsit to ten chrupek (takie pszenne w głębokim tłuszczu). Dodatkowo z delikatnym
         rosolkiem. Ze się powtórzę, nic specjalnego. Ten makaron to taki jak z chińskich zupek, bardzo popularny on tu
@@ -516,7 +514,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-kebuli-sati">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/drc1pn61h38pr0s/nasi-kebuli-sati.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Kebuli Sapi</h1>
         Nasi ryż, Sapi wolowina, a to kebuli to nazwa własna dania. To po prostu jest biryani dość bliskie klasycznej
         indyjskiej wersji. A więc całkiem dobre - w Indiach ja nie przepadalem za biryani, tam dużo dużo lepszych rzeczy
@@ -526,7 +524,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-kuning-ternate">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/sro3850kzedvhsv/nasi-kuning-ternate.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Kuning Ternate</h1>
         Nasi ryż, Kuning żółty, a Ternate to taka wyspa. Ryż, piekielnie ostry sos, takie malutkie rybki (teri medan lub
         teri nasi, te drugie w się tak nazywają bo małe jak ryz), trochę klusek no i dodatek jakiś tu jajko i kurczak. Z
@@ -536,7 +534,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-kuning">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/ovqikmr4tjocjhk/nasi-kuning.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Kuning</h1>
         Tym razem dla porównania z tym z wczoraj, jak wygląda to danie tu, w Jogjakarcie. Klasycznie zamiast rybek mamy
         smażone na słodko tempe, brak też super pikantnosci (a raczej jak wszędzie tu jest taka słodka nuta). No i
@@ -545,7 +543,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-liwet">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/egxg4ewtgi2m9jk/nasi-liwet.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Liwet</h1>
         Nasi Liwet czyli ryż gotowany w mleku kokosowym z dodatkami. To co wygląda jak chipsy to kozia skóra preparowana, a poza tym małe danka też w mleku kokosowym - kurczak (opor ayam, może kiedyś oddzielnie będzie o), jeszcze jakiś inny kurczak, oraz jajka długo gotowane w przyprawach, telur pindang. Tutaj tak bardziej podane bo byłem na kolacji na koniec dzisiejszego postu zaproszony do takiej ciut bardziej fancy restauracji. Bo mam wrażenie że przez cały Ramadan tu się w zasadzie każdego dnia umawiają z jakąś inna grupa rodziny, znajomych czy co na to przełamanie postu. Taki odpowiednik śledzika.
         </p></div>
@@ -553,7 +551,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-pindang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/ai472fdob0c2wp2/nasi-pindang.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Pindang</h1>
         Ryz z jajkiem jak widac oraz bawolym mięsem co widać mniej. To w wszystko z takim sosem na granicy zupy, taki
         karmelizowany,w którym dużo liści rośliny z rodziny gniotowatych. A I (chyba) idea tego jest taka ze samo mięso
@@ -563,7 +561,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="nasi-sambal-telur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/qex34h336r188ux/nasi-sambal-telur.jpg??raw=1'/>
-        <p>!!!
+        <p>
         <h1>Nasi Sambal Telur</h1>
         Nasi Sambal Telur. Czyli ryż + pikantna pasta + omlet (telur to jajko). Tutaj jeszcze sobie dobralem panierowane Tahu czyli tofu. Taki posiłek to 90groszy. Całkiem dobre, bo sambal jest obłędnie pyszny.
         </p></div>
@@ -571,13 +569,13 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="otak-otak-ikan-bakar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/v1ggnyal26bdva8/otak-otak-ikan-bakar.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>otak-otak-ikan-bakar</h1></p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="pempek">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/losswyolvwojd12/pempek.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Pempek</h1>
         Ciasto z mąki, cebuli i zmielonej ryby, najczesciej tenggiri czyli makreli. Ciasto się najpierw gotuje a potem smaży na głębokim tłuszczu. Tutaj akurat faszerowane jajkiem, taki wariant nazywa sie Kapalselam, co po indonezyjsku znaczy łódź podwodna. Do tego sos z octu i słodkiego sosu sojowego.
         </p></div>
@@ -585,7 +583,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="pukis">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/h4lp2lj193ulvgr/pukis.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Pukis</h1>
         Ciastka z mąki pszennej z mlekiem kokosowym, z odrobiną drożdży, oraz z zdecydowanie nie odrobiną cukru. Opiekane (grillowane?). Troszkę w smaku coś jak może pączki? Ciasto robi się z różnymi dodatkami: pandam, czekolada, durian etc. #Indonesia #Indonezja
         </p></div>
@@ -617,7 +615,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="roti-bakar-kelling">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/myf1vbyf3g32zmw/roti-bakar-kelling.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Roti Bakar Kelling</h1>
         Roti Bakar Kelling, czyli Chleb (jaka jego nazwa swoją drogą miłym przypomnieniem ze Indo w nazwie Indonezja nie przypadkiem:)) + Grillowany + ciemnoskory (ale ciemnoskory nie jak afrykanin a jak hindus). Tutaj dodatkami byly Kacang czyli orzechy (chyba nie ma w ind liczby mnogiej). Grillowany na węglu drzewnym chleb taki jakiś tostowy zgajduje ze barwiony węglem drzewnym z bambusa, bo tu to spotykana technika, ale może się mylę. Strasznie kaloryczny zapychacz.
         </p></div>
@@ -625,7 +623,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="roti-pisang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/mcqv4vy8sqfe2ug/roti-pisang.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Roti Pisang</h1>
         Chleb/banan. Nic specjalnego Ale daje jako ciekawostka, bo to nasza swojska Polska drożdżówka, tyle że no
         właśnie - z bananem.
@@ -634,7 +632,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="sate-campur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/3w6vd7bajdwma0a/sate-campur.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Sate Campur</h1>
         Sate to te grillowane saszlyczki, sataye. Campur znaczy mieszane. Czyli ze wiecej niż jeden rodzaj. Tutaj to
         jest tak: sate tempeh, w tym wypadku użyte jest miękkie tempe, tempe gembus. Oraz Sate Kere. Kere znaczy jakiś
@@ -646,7 +644,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="sego-abang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/zdjfmp5iqw3icda/sego-abang.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Sego Abang</h1>
         Nazwa jest po jawajsku, nie indonezyjski. Sego to ryż (a konkretniej jedno ze słów na ryż, jawajski jest
         pokrecony i ma dwa różne zestawy słownictwa zależnie od statusu społecznego, sego się używa między osobami o tym
@@ -696,7 +694,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="solo-salad">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/poll1zhotweb4qc/solo-salad.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Solo salad</h1>
         Solo salad. Solo to nazwa miasta, dość blisko Jogja zresztą, słynnego z fundamentalistow, Ci od zamachów na Bali byli stamtąd i wychowali się w tamtejszych meczetach. A salad to pozostałość po holendrach, bardzo bardzo dużo takich pozostałości w indonezyjskim języku, bardzo wygodne. A solo salad to jajko, wołowina, ziemniaki, marchew, pomidory cebula wszystko polane letnim sosem na bazie delikatnie słodkiego (cukier jest tym dla indonezyjczykow co sos rybny dla wietnamczykow) sosu sojowego. #indonezja #indonesianfood
         </p></div>
@@ -704,14 +702,14 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="sop-ayam-klaten">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/nmma5n3txamqmgs/sop-ayam-klaten.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Sop Ayam Klaten</h1>
         Sop to zupa, rosół, od Soto różni się tym że to jest bardziej czysty rosół, mniej warzyw, no i baza jest bardzo pieprzna. Ayam to kurczak. Klatem to takie miasteczko.</p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="sop-buntut">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/6s682s34468w5wp/sop-buntut.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Sop Buntut</h1>
         Sop zupa, buntut ogon. Tutaj akurat wołowy. No i to tyle. Dość dobre. Na bazie takiego dość wloszczyznopodobnego
         rosołu. Danie tak w ogóle z Sumatry, z Padang, o którym może kiedy indziej.
@@ -720,7 +718,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="soto-kudus-campur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/gjf8lpvedcklv5s/soto-kudus-campur.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Soto Kudus Campur</h1>
         Zupa która powinna być z mięsem bawołu wodnego, kebo. Samo Kudus to nazwa miasta, Soto to Plus minus zupa. Tutaj niestety wersja oszukana, z kurczakiem. Ale też dobra. #zupa #Indonezja
         </p></div>
@@ -728,7 +726,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="soto-tangkar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/1vuo2f0deqeq95n/soto-tangkar.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Soto Tangkar</h1>
         Soto to nazwa rodziny zup, powiedzmy że coś jak rosół. Tangar to jedna z dzielnic Yogjakarty, czyli miasta gdzie teraz jestem. To zupa z mlekiem kokosowym z taka gulaszową wołowiną, dość pikantna i całkiem niezła.
         </p></div>
@@ -749,7 +747,7 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="urap">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
         <img src='https://www.dropbox.com/s/3c8p4ed0e51s8el/urap.jpg?raw=1'/>
-        <p>!!!
+        <p>
         <h1>Urap</h1>
         Kolejne nie za piękne danie, ale bardzo dobre. Szpinak wodny, fasolka (jakąś taka jak szparagowa), trochę kiełków i marchewka. To się gotuje w wodzie a następnie serwuje z zmiksowaną kopra kokosowa i pikantnymi przyprawami (to takie jasne na zdjęciu co wygląda nie za apetycznie).
         </p></div>
