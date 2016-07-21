@@ -75,7 +75,7 @@ tag: [Indonezja]
             wietnamie
             gdzie puszka piwa to 0.5$ tutejsze ceny, a więc mniej więcej 3$ za butelkę bolą bardzo. Jest sposób, żeby
             napić się taniej na mieście - Kopi Klotok, ale to w sumie trochę smutne.</p>
-        
+
         <p><strong>Słodycze</strong>. No cóż, taki wyraźny ślad islamu. Dużo slodkiego. W porównaniu z Wietnamem, czy
         Tajlandią to nawet bardzo bardzo bardzo bardzo dużo. Podobnie jak dużo cukru. Ale jak rozumiem to trochę
         problem wlaśnie tego regiony, dalej na zachód jest bardziej pikantnie. </p>
@@ -106,11 +106,11 @@ tag: [Indonezja]
             <li><a href="#bakso-pedas">Bakso Pedas</a></li>
             <li><a href="#bakso-urat">Bakso Urat</a></li>
             <li><a href="#bolu-bakar">Bolu Bakar</a></li>
-            <li><a href="#brongkos">Brongkos</a></li>
-            <li><a href="#bubur-ayam-khas-bandung">Bubur Ayam Hhas Bandung</a></li>
+            <li><a href="#brongkos">Brongkos ❤</a></li>
+            <li><a href="#bubur-ayam-khas-bandung">Bubur Ayam Khas Bandung</a></li>
             <li><a href="#burjo">Burjo</a></li>
             <li><a href="#enting-gepuk">Enting Gepuk</a></li>
-            <li><a href="#gado-gado-kupat">Gado-gado kupat</a></li>
+            <li><a href="#gado-gado-kupat">Gado-gado kupat ❤</a></li>
             <li><a href="#gudeg">Gudeg</a></li>
             <li><a href="#jadah-manten">Jadah Manten</a></li>
             <li><a href="#janang-gempol">Janang Gempol</a></li>
@@ -128,9 +128,9 @@ tag: [Indonezja]
             <li><a href="#mentho">Mentho</a></li>
             <li><a href='#mie-aceh'>Mie Aceh</a></li>
             <li><a href="#mie-ayam-pangsit">Mie Ayam Pangsit</a></li>
-            <li><a href='#nasi-gandul'>Nasi Gandul</a></li>
+            <li><a href='#nasi-gandul'>Nasi Gandul ❤</a></li>
             <li><a href="#nasi-kebuli-sati">Nasi Kebuli Sati</a></li>
-            <li><a href="#nasi-kuning-ternate">Nasi Kuning Ternate</a></li>
+            <li><a href="#nasi-kuning-ternate">Nasi Kuning Ternate ❤</a></li>
             <li><a href="#nasi-kuning">Nasi Kuning</a></li>
             <li><a href="#nasi-liwet">Nasi Liwet</a></li>
             <li><a href="#nasi-pindang">Nasi Pindang</a></li>
@@ -142,10 +142,10 @@ tag: [Indonezja]
             <li><a href='#ronde'>Ronde</a></li>
             <li><a href="#roti-bakar-kelling">Roti Bakar Kelling</a></li>
             <li><a href="#roti-pisang">Roti Pisang</a></li>
-            <li><a href="#sate-campur">Sate Campur</a></li>
+            <li><a href="#sate-campur">Sate Campur ❤</a></li>
             <li><a href="#sego-abang">Sego Abang</a></li>
             <li><a href="#sego-megono">Sego Megono</a></li>
-            <li><a href='#sego-pecel'>Sego Pecel</a></li>
+            <li><a href='#sego-pecel'>Sego Pecel ❤</a></li>
             <li><a href='#serabi'>Serabi</a></li>
             <li><a href="#solo-salad">Solo salad</a></li>
             <li><a href="#sop-ayam-klaten">Sop Ayam Klaten</a></li>
@@ -788,7 +788,7 @@ tag: [Indonezja]
         <p>
         <h1>Soto Kudus Campur</h1>
         Zupa która powinna być z mięsem bawołu wodnego, kebo. Samo Kudus to nazwa miasta, Soto to Plus minus zupa. Tutaj
-        niestety wersja oszukana, z kurczakiem. Ale też dobra. 
+        niestety wersja oszukana, z kurczakiem. Ale też dobra.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="soto-tangkar">
