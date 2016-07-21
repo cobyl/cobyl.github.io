@@ -90,7 +90,8 @@ tag: [Indonezja]
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; '>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
         <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
-        <strong>To co nie pasuje do kategorii "potrawy"</strong>
+        <br />
+        <u>To co nie pasuje do kategorii "potrawy"</u>
         <ol>
             <li><a href="#pasar-ikan">Pasar Ikan</a></li>
             <li><a href="#seafood">Owoce morza</a></li>
@@ -98,9 +99,9 @@ tag: [Indonezja]
             <li><a href="#ramadan-targ">Ramadan / Targ</a></li>
             <li><a href="#wiejska-knajpa">Knajpka za miastem</a></li>
         </ol>
-        <strong>Potrawy</strong>
+        <u>Potrawy</u>
         <ol>
-            <li><a href='#ayam-koteka'>Ayam Koteka / Nasi Kucing</a></li>
+            <li><a href='#ayam-koteka'>Ayam Koteka</a></li>
             <li><a href="#bakmi-mihun">Bakmi Mihun</a></li>
             <li><a href='#bakmi'>Bakmi</a></li>
             <li><a href="#bakso-pedas">Bakso Pedas</a></li>
