@@ -75,7 +75,6 @@ tag: [Indonezja]
 		<li><a href="#urap.jpg">urap.jpg</a></li>
 		<li><a href="#wiejska-knajpa.jpg">wiejska-knajpa.jpg</a></li>
         </ol>
-        </p>
     </div>
 </div>
 
