@@ -19,8 +19,8 @@ tag: [Indonezja]
 
         <p>To co poniżej napisałem jest nie o “indonezyjskim jedzeniu” a po prostu o jedzeniu w Yogyakarcie. Chociaż
             zgaduję, że większość z tych dań odnajdzie się w całym kraju, ale prawdopodobnie inaczej trochę zrobionych.
-            Yogyakarta to w bardzo niedokładnym przybliżeniu taki Indonezyjski Kraków. Centrum kulturalne, piękna
-            przeszłość, a teraz atrakcja turystyczna. To co  fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
+            Yogyakarta to w bardzo niedokładnym przybliżeniu taki Kraków. Centrum kulturalne, miasto uniwersyteckie, piękna
+            przeszłość, a także popularny kierunek turystyczny. To co  fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
             przeciweństwie do Bali jest to przede wszystkim atrakcja turystyczna dla Indonezyjczyków. Więc jest tutaj dużo
             tandety i kiczu, ale przynajmniej ma swój lokalny koloryt - na Bali tandeta jest oczywiście zazwyczaj pod
             australiczków, nuda. </p>
@@ -28,7 +28,7 @@ tag: [Indonezja]
         <p>Jogja to jest jedno z
             dwóch ostatnich miejsc gdzie zachował się dwór królewski. Jogja rządzi Sułtan (o ile się orientuje,
             formalnie to wygrywa jakieś wybory, żeby procedurom stało się zadość), jest rodzina królewska, jest pałac.
-            Są też z tego powodu tradycje kuchnii dworskiej. Coś tam z tego znajdzie się na liści. A więc taki ichni wariant <em>haute
+            Są też z tego powodu tradycje kuchnii dworskiej. Coś tam z tego znajdzie się na liście. Taki ichni wariant <em>haute
                 cuisine</em>.
 
         </p>
@@ -38,7 +38,7 @@ tag: [Indonezja]
             A do tego często dość umiarkowanie higieniczny. Za to knajpy są tutaj bardzo tanie, bardzo przyjemne i tak
             naprawdę to one powinny być waszym wyborem jeśli nie szukacie zbyt wiele hardcoru. </p>
 
-        <p>W Yogjakarcie jedzenie nie jest jakieś bardzo pyszne. Uprzedzam. Bywa dobre, owszem bywa pyszne, ale średnia
+        <p>Bo jedzenie nie jest jakieś bardzo pyszne. Uprzedzam. Bywa dobre, nawet bardzo dobre, ale średnia
             jest tutaj
             niestety dużo niższa niż Wietnamska. Jest dużo tłuściej, jest dużo dużo więcej cukru, jest dużo dużo mniej
             świeżych warzyw i ziół. Jest też mniej gluatminianu sodu - dla tych którzy wierzą, że to szkodliwe to może
@@ -48,10 +48,10 @@ tag: [Indonezja]
 
         <p>Problem z Indonezyjczykami - a konkretniej Jawajczykami, bo ta etnia zamieszkuję okolicę Jogjy, (ale
             podejrzewam, ze problem jest ogólnokrajowy) jest taki, że mają fatalny gust do swojego jedzenia. Na targach,
-            festiwalach streetfódu etc. widać, że kolejki są właśnie po te najtłustsze grubo smażone
-            pączkocośie a pyszne delikatne kokosowe curry nie budzą takiego zainteresowania.
+            festiwalach streetfoodu etc. widać, że kolejki są właśnie po te najtłustsze grubo smażone
+            pączkocośie a pyszne delikatne kokosowe curry nie budzą aż takiego zainteresowania.
             (w sumie w wietnamie też tak bywa, wietnamskie studenciaki uwielbiają chodzić na targi streetfoodu
-            i w cinać smażoną na głębokim tłuszczu pokrojoną w paski bagietkę z majonezem...)
+            i wcinać smażoną na głębokim tłuszczu pokrojoną w paski bagietkę z majonezem...)
         </p>
 
         <p>Wielką zaletą jedzenia tutaj jest za to to, że jest bardzo <strong>przyjazne wegetarianom</strong>. Z znanych
@@ -70,23 +70,30 @@ tag: [Indonezja]
 
         <p>No i oczywiśćie, za to, że moje opisy dań i ich nazwy są trafne nie ręcze. Oczywiście były konsultowane z ludnością
             lokalną ;), ale jednak po drodze między moją <strong>nieznajomością indonezyjskiego</strong> (który skądinąd
-            to fajny język po miesiącu umiem tak z 50 razy więcej niz po półroku w wietnamie), moim fatalnym angielski,,
+            to fajny język po miesiącu umiem tak z 50 razy więcej niz po półroku w wietnamie wietnamskiego), moim fatalnym angielskim,
             równie jak nie bardziej fatalnym angielskim rozmówców doprawdy wiele jest okazji do <em>lost in
-                translaltion</em>. Więc jak gdzieś gadam bzdury proszę o wybaczenie. Starałem się. </p>
+                translation</em>. Więc jak gdzieś gadam bzdury proszę o wybaczenie. Starałem się.
+        No i pamiętajcie, że jak wiadomo nikt tak bardzo mało nie wie o własnej kulturze jak jej uczestnicy. A już
+            na pewno pojedyńczy a nie w jakiejś statystycznej masie. Więc
+            te różne opowieści, które tu przytaczam,  kto co je, jaka historia dań, albo czy to danie niższej czy wyższej
+            klasy to są bardzo skażone rozmówcą. Prawdy trzeba szukać pewno w książkach. Ale nic nie jest tak mało
+            ciekawe jak prawda, więc nie polecam.
+        </p>
 
-        <p><strong>Ceny</strong>. Jogja jest bajecznie tania. Nie byłem nigdy w życiu w tak tanim miejscu. Więc
-            i jedzenie drogie nie jest. To są ceny rzędu od 0.25$ przez okolice 1$ bo bardzo rzadko, nawet w lepszej
-            (ale bez szalenśtw!) knajpie, więcej niż 4$ za danie. Za to alkohol absurdalnie drogi. Szczególnie po
-            wietnamie
+        <p><strong>Ceny</strong>. Jogja jest tania. Jedyne porónywalnie tanie miejsce w jakim byłem to może Lwów.
+            Więcc i jedzenie drogie nie jest. To są ceny rzędu od 0.25$ przez okolice 1$ bo bardzo rzadko, nawet w lepszej
+            (ale bez szalenśtw!) knajpie, do 4$ za obiad z piciem nie alkoholowym.
+            Za to alkohol absurdalnie drogi. Szczególnie po wietnamie
             gdzie puszka piwa to 0.5$ tutejsze ceny, a więc mniej więcej 3$ za butelkę bolą bardzo. Jest sposób, żeby
             napić się taniej na mieście - Kopi Klotok, ale to w sumie trochę smutne.</p>
 
         <p><strong>Słodycze</strong>. No cóż, taki wyraźny ślad islamu. Dużo slodkiego. W porównaniu z Wietnamem, czy
-        Tajlandią to nawet bardzo bardzo bardzo bardzo dużo. Podobnie jak dużo cukru wszędzie. Ale to chyba trochę
+        Tajlandią to nawet bardzo bardzo bardzo bardzo dużo. Niestety dużo za słodkiego. Na plus za to indonezja ma to,
+            że czekolada ma tu znośne ceny, chociaż taką sobie jakość. Mówiono mi, że ta przesadna słodycz wszystkiego to chyba trochę
         problem Jogjy i wschodniej jawy, dalej na zachód jest bardziej pikantnie. </p>
 
         <p>No i na koniec power tip. Radzę zapamiętać. Zamawiając mrożoną herbatę (es teh) zawsze powiedz “tawar“ co znaczy
-            czysta, czyli bez cukru. Albo dobitniej "tanpa gula" (tanba bez, gula cukier). 
+            czysta, czyli bez cukru. Albo dobitniej "tanpa gula" (tanba bez, gula cukier). Tak samo z sokami!
             Dzięki temu zamiast przeraźliwego ulepku który jest tak od cukru gęstny, że trudno zamieszać,
             dostaniesz po prostu trochę zbyt słodką herbatę (opcje zeby nie posłodzili wcalę, to pewno poza Bali można
             spotkać, ale mi się nie udało)</p>
@@ -95,7 +102,7 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; '>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
-        <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.
+        <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.<br />
         <br />
         <u>To co nie pasuje do kategorii "potrawy"</u>
         <ol>
@@ -283,7 +290,7 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/xf8zn7yy9atwiue/brongkos.jpg?raw=1'/>
         <p>
         <h1>Brongkos</h1>
-        Wiem, że wygląda wybitnie brzydko, ale jak pisałe, tu sobie zapisuje bardziej dania niż szpanuje uroda.
+        Wiem, że wygląda wybitnie brzydko, ale jak pisałem, tu sobie zapisuje bardziej dania niż szpanuję uroda.
         Zupa z czarnonakrapianej fasoli (po angielsku to jest black eyed pea) na mleku kokosowym z wołowiną.
         Jedzenie wiejskiej biedoty, ale ponoć teraz także trochę bohemy. Ale middle klasa się brzydzi. Bardzo dobre.
         </p>
