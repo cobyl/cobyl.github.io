@@ -1,52 +1,57 @@
 ---
 layout: slides
-title: Yogjakarta. Jedzenie.
+title: Yogyakarta. Jedzenie.
 category: Wycieczki
 tag: [Indonezja]
 ---
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto;'>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
-        <strong>Taki katalog indonezyjskie jedzenia, głównie ulicznego.</strong>
+        <strong>Taki katalog Indonezyjskiego jedzenia, głównie ulicznego.</strong>
 
-        <p>Oczywiście trudno mówić o jednym indonezyjskim jedzeniu, gdy mówimy o kraju pi razy oko długości europy,
+        <p>Trudno mówić o jednym indonezyjskim jedzeniu, gdy mówimy o kraju pi razy oko długości europy,
             zamieszkanym przez 250 mln ludzi mówiących 250 językami (jak liczyć z dialektami, często wzajemnie mało
-            zrozumiałymi, to jeszce drugie tyle). W porównaniu z Indonezją Europa jest  jednorodna kulturowo i etnicznie
+            zrozumiałymi, to jeszcze drugie tyle). W porównaniu z Indonezją Europa jest jednorodna kulturowo i etnicznie
             (bo jest) więc mimo, że i Unii Europejskiej i Indonezji motta są w prawie identyczne (po angielsku je się
             tłumaczy odpowiednio “United in diversity” i “Unity in Diversity”) to, chyba ta druga zasługuje na nie
             bardziej. Oczywiście, to bardzo ciekawy temat ile tego unity jest w unity, ale miało
             być o jedzeniu, więc już nie przynudzam.</p>
 
-        <p>To co poniżej napisałem jest nie o “indonezyjskim jedzeniu” a po prostu o jedzeniu w Yogyakarcie. Chociaż
+        <p>Tak więć to co poniżej jest po prostu o jedzeniu w Yogyakarcie, gdzie byłem ostatni miesiąc. Chociaż
             zgaduję, że większość z tych dań odnajdzie się w całym kraju, ale prawdopodobnie inaczej trochę zrobionych.
             Yogyakarta to w bardzo niedokładnym przybliżeniu taki Kraków. Miasto w wschodniej Jawie, największej i
-            najgęściej zaludnionej wyspie indonezji (prawie trzy razy mniejsza niż polska, a mieszka na niej 130mln ludzi).
+            najgęściej zaludnionej wyspie indonezji (prawie trzy razy mniejsza niż polska, a mieszka na niej 130mln
+            ludzi).
             Centrum kulturalne, miasto uniwersyteckie, piękna
-            przeszłość, a także popularny kierunek turystyczny. To co  fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
-            przeciweństwie do Bali jest to przede wszystkim atrakcja turystyczna dla Indonezyjczyków. Więc jest tutaj dużo
+            przeszłość, a także popularny kierunek turystyczny. To co fajne w Jogjy, jak nazwę miasta się skraca, to to,
+            że w
+            przeciweństwie do Bali jest to przede wszystkim atrakcja turystyczna dla Indonezyjczyków. Więc jest tutaj
+            dużo
             tandety i kiczu, ale przynajmniej ma swój lokalny koloryt - na Bali tandeta jest oczywiście zazwyczaj pod
             australiczków, nuda. </p>
 
         <p>Jogja to jest jedno z
-            dwóch ostatnich miejsc w indonezji gdzie zachował się dwór królewski. Jogja rządzi Sułtan (o ile się orientuje,
+            dwóch ostatnich miejsc w indonezji gdzie zachował się dwór królewski. Jogja rządzi Sułtan (o ile się
+            orientuje,
             formalnie to wygrywa jakieś wybory, żeby procedurom stało się zadość), jest rodzina królewska, jest pałac.
-            Są też z tego powodu tradycje kuchnii dworskiej. Coś tam z tego znajdzie się na liście. Taki ichni wariant <em>haute
+            Są też z tego powodu tradycje kuchnii dworskiej. Coś tam z tego znajdzie się na liście. Taki ichni wariant
+            <em>haute
                 cuisine</em>.
 
         </p>
 
-        <p>Ten spis, to spis tego co zjadłem przez ostatni miesiąc. Z naciskiem na streetfood, który to
+        <p>A więc jak pisałem, to spis tego co zjadłem przez ostatni miesiąc. Z naciskiem na streetfood, który to
             nacisk nie jest najlepszym pomysłem. Bo w przeciwieństwie do Wietnamu streetfood tutaj nie jest rewelacyjny.
             A do tego często dość umiarkowanie higieniczny. Za to knajpy są tutaj bardzo tanie, bardzo przyjemne i tak
             naprawdę to one powinny być waszym wyborem jeśli nie szukacie zbyt wiele hardcoru. </p>
 
         <p>Bo jedzenie nie jest jakieś bardzo pyszne. Uprzedzam. Bywa dobre, nawet bardzo dobre, ale średnia
             jest tutaj
-            niestety dużo niższa niż Wietnamska. Jest dużo tłuściej, jest dużo dużo więcej cukru, jest dużo dużo mniej
+            niestety dużo niższa niż wietnamska. Jest dużo tłuściej, jest dużo dużo więcej cukru, jest dużo dużo mniej
             świeżych warzyw i ziół. Jest też mniej gluatminianu sodu - dla tych którzy wierzą, że to szkodliwe to może
-            lepiej, dla tych którzy zamiast wiary wybierają naukę, to oczywiście to smutne - bo oznacza mniej
+            lepiej, dla tych którzy zamiast wiary wybierają naukę, to oczywiście smutne - bo oznacza mniej
             smaku. No i nie ma sosu rybnego, a po półroku w wietnamie to mam objawy odstawienne - jak byłem w wietnamie
-        to myslałem, że mam go dość, jakże bardzo się myliłem. </p>
+            to myslałem, że mam go dość, jakże bardzo się myliłem. </p>
 
         <p>Problem z Indonezyjczykami - a konkretniej Jawajczykami, bo ta etnia zamieszkuję okolicę Jogjy, (ale
             podejrzewam, ze problem jest ogólnokrajowy) jest taki, że mają fatalny gust do swojego jedzenia. Na targach,
@@ -70,31 +75,37 @@ tag: [Indonezja]
             powtórzeń może być - np dużo za dużo razy chyba tłumaczę, że <em>nasi</em> to ryż.
         </p>
 
-        <p>No i oczywiśćie, za to, że moje opisy dań i ich nazwy są trafne nie ręcze. Oczywiście były konsultowane z ludnością
+        <p>No i oczywiśćie, za to, że moje opisy dań i ich nazwy są trafne nie ręcze. Oczywiście były konsultowane z
+            ludnością
             lokalną ;), ale jednak po drodze między moją <strong>nieznajomością indonezyjskiego</strong> (który skądinąd
-            to fajny język po miesiącu umiem tak z 50 razy więcej niz po półroku w wietnamie wietnamskiego), moim fatalnym angielskim,
+            to fajny język po miesiącu umiem tak z 50 razy więcej niz po półroku w wietnamie wietnamskiego), moim
+            fatalnym angielskim,
             równie jak nie bardziej fatalnym angielskim rozmówców doprawdy wiele jest okazji do <em>lost in
                 translation</em>. Więc jak gdzieś gadam bzdury proszę o wybaczenie. Starałem się.
-        No i pamiętajcie, że jak wiadomo nikt tak bardzo mało nie wie o własnej kulturze jak jej uczestnicy. A już
+            No i pamiętajcie, że jak wiadomo nikt tak bardzo mało nie wie o własnej kulturze jak jej uczestnicy. A już
             na pewno pojedyńczy a nie w jakiejś statystycznej masie. Więc
-            te różne opowieści, które tu przytaczam,  kto co je, jaka historia dań, albo czy to danie niższej czy wyższej
+            te różne opowieści, które tu przytaczam, kto co je, jaka historia dań, albo czy to danie niższej czy wyższej
             klasy to są bardzo skażone rozmówcą. Prawdy trzeba szukać pewno w książkach. Ale nic nie jest tak mało
             ciekawe jak prawda, więc nie polecam.
         </p>
 
         <p><strong>Ceny</strong>. Jogja jest tania. Jedyne porónywalnie tanie miejsce w jakim byłem to może Lwów.
-            Więcc i jedzenie drogie nie jest. To są ceny rzędu od 0.25$ przez okolice 1$ bo bardzo rzadko, nawet w lepszej
+            Więcc i jedzenie drogie nie jest. To są ceny rzędu od 0.25$ przez okolice 1$ bo bardzo rzadko, nawet w
+            lepszej
             (ale bez szalenśtw!) knajpie, do 4$ za obiad z piciem nie alkoholowym.
             Za to alkohol absurdalnie drogi. Szczególnie po wietnamie
             gdzie puszka piwa to 0.5$ tutejsze ceny, a więc mniej więcej 3$ za butelkę bolą bardzo. Jest sposób, żeby
             napić się taniej na mieście - Kopi Klotok, ale to w sumie trochę smutne.</p>
 
         <p><strong>Słodycze</strong>. No cóż, taki wyraźny ślad islamu. Dużo slodkiego. W porównaniu z Wietnamem, czy
-        Tajlandią to nawet bardzo bardzo bardzo bardzo dużo. Niestety dużo za słodkiego. Na plus za to indonezja ma to,
-            że czekolada ma tu znośne ceny, chociaż taką sobie jakość. Mówiono mi, że ta przesadna słodycz wszystkiego to chyba trochę
-        problem Jogjy i wschodniej jawy, dalej na zachód jest bardziej pikantnie. </p>
+            Tajlandią to nawet bardzo bardzo bardzo bardzo dużo. Niestety dużo za słodkiego. Na plus za to indonezja ma
+            to,
+            że czekolada ma tu znośne ceny, chociaż taką sobie jakość. Mówiono mi, że ta przesadna słodycz wszystkiego
+            to chyba trochę
+            problem Jogjy i wschodniej jawy, dalej na zachód jest bardziej pikantnie. </p>
 
-        <p>No i na koniec power tip. Radzę zapamiętać. Zamawiając mrożoną herbatę (es teh) zawsze powiedz “tawar“ co znaczy
+        <p>No i na koniec power tip. Radzę zapamiętać. Zamawiając mrożoną herbatę (es teh) zawsze powiedz “tawar“ co
+            znaczy
             czysta, czyli bez cukru. Albo dobitniej "tanpa gula" (tanba bez, gula cukier). Tak samo z sokami!
             Dzięki temu zamiast przeraźliwego ulepku który jest tak od cukru gęstny, że trudno zamieszać,
             dostaniesz po prostu trochę zbyt słodką herbatę (opcje zeby nie posłodzili wcalę, to pewno poza Bali można
@@ -104,8 +115,8 @@ tag: [Indonezja]
 
 <div class="demo-container mdl-grid slides" id="start" style='height:auto; min-height:auto;max-height:auto; '>
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col desccells">
-        <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.<br />
-        <br />
+        <strong>Alfabetyczna lista </strong>. ❤ to pozycje obowiązkowe.<br/>
+        <br/>
         <u>To co nie pasuje do kategorii "potrawy"</u>
         <ol>
             <li><a href="#pasar-ikan">Pasar Ikan</a></li>
@@ -286,7 +297,8 @@ tag: [Indonezja]
         <h1>Bolu Bakar</h1>
         Bolu to taka ryba, po polsku nazywa się Chanos, pewno też nie znaleźliście tego słowa.
         Po angielsku to milkfish. Fajna delikatna
-        rybka, specyficzną dla regionu, bardzo hodowlana. Tutaj podana z sambalem gami gami, bardzo pikantnym, trochę jak
+        rybka, specyficzną dla regionu, bardzo hodowlana. Tutaj podana z sambalem gami gami, bardzo pikantnym, trochę
+        jak
         jakaś meksykańską salsa, a także sayur urap - szpinak wodny z mielonym kokosem. A i jeszcze rybna zupka.
         </p></div>
 </div>
@@ -323,7 +335,8 @@ tag: [Indonezja]
         tak w ogóle kacang to orzech a ijo to zielony) Gotuje się ją kilka godzin w mleku kokosowym z brązowym cukrem, a
         potem podaje się z mlekiem kokosowym (świeżym) i lodem. Danie w różnych wariantach obecne we wszystkich krajach
         pd-wsch azji. Wariant malezyjski zdecydowanie najlepszy.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="enting-gepuk">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -385,7 +398,8 @@ tag: [Indonezja]
         muzułmańskiej Jawie i tu ponoć nadal nie mało takze muzułmanów składa takie ofiary.
         Pół tysiąclecia islamu tak zupełnie
         hinduizmu nie zmylo. Tak przy okazji, to to co mnie zdziwiło że to ludzie często znają różne
-        hinduskie eposy, koligacje rodzinne bogów, hotele czy knajpy mają od nich nazwy. Ogólnie Indonezja jest mocno Indo.
+        hinduskie eposy, koligacje rodzinne bogów, hotele czy knajpy mają od nich nazwy. Ogólnie Indonezja jest mocno
+        Indo.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="ketan-bubuk">
@@ -448,7 +462,8 @@ tag: [Indonezja]
         Indonezja kawą stoi, kawa tu jest naprawdę świetna. Co najfajniejsze jest jej sporo takich niezbyt fancy
         pseudohipsterskich miejsc z dużym wyborem gatunku, metod parzenia i niskimi cenami jest multum. Dodatkowy plus
         maja za to że cold brew jest popularny. A to fajnie gra z klimatem tu.
-        </p></div>
+        </p>
+    </div>
 </div>
 
 <div class="demo-container mdl-grid slides" id="leker">
@@ -469,7 +484,8 @@ tag: [Indonezja]
         Sticky rice nadziewany wołowiną lub kurczakiem. Tradycyjnie jedzenie weselne. Ciągle mam problem że słowem
         sticky rice, po polsku to jak widzę w Wikipedii tłumaczy się po prostu na ryż kleisty, ale jakoś wtedy mi za
         mało brzmi na nazwę własną. Ale może przekombinowuje. Pewno tak.
-        </p></div>
+        </p>
+    </div>
 </div>
 
 <div class="demo-container mdl-grid slides" id="lontong-opor">
@@ -579,7 +595,8 @@ tag: [Indonezja]
         Nasi ryż, Sapi wolowina, a to Kebuli to nazwa własna dania. To po prostu jest biryani dość bliskie klasycznej
         indyjskiej wersji. A więc całkiem dobre - w Indiach ja nie przepadalem za biryani, tam dużo dużo lepszych rzeczy
         jest też (chce masala dosa, chcę tali!), ale i tak mam sentyment.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-kuning-ternate">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -612,7 +629,8 @@ tag: [Indonezja]
         byłem na kolacji na koniec dzisiejszego postu zaproszony do takiej ciut bardziej fancy restauracji. Bo mam
         wrażenie że przez cały Ramadan tu się w zasadzie każdego dnia umawiają z jakąś inna grupa rodziny, znajomych czy
         co na to przełamanie postu. Taki odpowiednik śledzika.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="nasi-pindang">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -642,7 +660,8 @@ tag: [Indonezja]
         grillowane. No i tak właśnie, taka rybna pulpa z jakiś najtańszych ryb nie nadających się do czegoś bardziej
         zgrillowana w liściu banana podana z bardzo pikantnym sosem z orzeszkami (zupełnie innym niż ten słodki łagodny
         do sate). I właśnie ten sos jest tym co jest smaczne w tym daniu. Bo jest super. Reszta taka sobie.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="pempek">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -707,7 +726,8 @@ tag: [Indonezja]
         <h1>Roti Pisang</h1>
         Chleb + banan. Nic specjalnego Ale daje jako ciekawostka, bo to nasza swojska Polska drożdżówka, tyle że no
         właśnie - z bananem.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="sate-campur">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -810,7 +830,8 @@ tag: [Indonezja]
         <h1>Soto Kudus Campur</h1>
         Zupa która powinna być z mięsem bawołu wodnego, kebo. Samo Kudus to nazwa miasta, Soto to Plus minus zupa. Tutaj
         niestety wersja oszukana, z kurczakiem. Ale też dobra.
-        </p></div>
+        </p>
+    </div>
 </div>
 <div class="demo-container mdl-grid slides" id="soto-tangkar">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
@@ -842,6 +863,7 @@ tag: [Indonezja]
         Kolejne nie za piękne danie, ale bardzo dobre. Szpinak wodny, fasolka (jakąś taka jak szparagowa), trochę
         kiełków i marchewka. To się gotuje w wodzie a następnie serwuje z zmiksowaną kopra kokosowa i pikantnymi
         przyprawami (to takie jasne na zdjęciu co wygląda nie za apetycznie).
-        </p></div>
+        </p>
+    </div>
 </div>
 
