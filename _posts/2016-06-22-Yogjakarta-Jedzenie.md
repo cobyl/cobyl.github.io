@@ -19,14 +19,16 @@ tag: [Indonezja]
 
         <p>To co poniżej napisałem jest nie o “indonezyjskim jedzeniu” a po prostu o jedzeniu w Yogyakarcie. Chociaż
             zgaduję, że większość z tych dań odnajdzie się w całym kraju, ale prawdopodobnie inaczej trochę zrobionych.
-            Yogyakarta to w bardzo niedokładnym przybliżeniu taki Kraków. Centrum kulturalne, miasto uniwersyteckie, piękna
+            Yogyakarta to w bardzo niedokładnym przybliżeniu taki Kraków. Miasto w wschodniej Jawie, największej i
+            najgęściej zaludnionej wyspie indonezji (prawie trzy razy mniejsza niż polska, a mieszka na niej 130mln ludzi).
+            Centrum kulturalne, miasto uniwersyteckie, piękna
             przeszłość, a także popularny kierunek turystyczny. To co  fajne w Jogjy, jak nazwę miasta się skraca, to to, że w
             przeciweństwie do Bali jest to przede wszystkim atrakcja turystyczna dla Indonezyjczyków. Więc jest tutaj dużo
             tandety i kiczu, ale przynajmniej ma swój lokalny koloryt - na Bali tandeta jest oczywiście zazwyczaj pod
             australiczków, nuda. </p>
 
         <p>Jogja to jest jedno z
-            dwóch ostatnich miejsc gdzie zachował się dwór królewski. Jogja rządzi Sułtan (o ile się orientuje,
+            dwóch ostatnich miejsc w indonezji gdzie zachował się dwór królewski. Jogja rządzi Sułtan (o ile się orientuje,
             formalnie to wygrywa jakieś wybory, żeby procedurom stało się zadość), jest rodzina królewska, jest pałac.
             Są też z tego powodu tradycje kuchnii dworskiej. Coś tam z tego znajdzie się na liście. Taki ichni wariant <em>haute
                 cuisine</em>.
@@ -177,8 +179,8 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/28yvnukdfl48miw/pasar-ikan.jpg?raw=1'/>
         <p>
         <h1>Pasar Ikan</h1>
-        Pasar Ikan. Czyli Targ Rybny. To takie miejsce kolo dość syfnej (ale z powodu złego utrzymania, samej w sobie
-        dość urokliwej) plaży niedaleko Yogyakarty. Fajne jest to że obok sa knajpki, gdzie się idzie z kupionymi tam
+        Czyli Targ Rybny. Na zdjęciu jest akurat taki koło dość syfnej (ale z powodu złego utrzymania, samej w sobie
+        bardzo urokliwej) plaży niedaleko Yogyakarty. Fajne jest to że obok sa knajpki, gdzie się idzie z kupionymi tam
         rybami i Ci je od razu przygotowują. Fotka niżej.
         </p></div>
 </div>
@@ -195,11 +197,12 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/q3mpkherzn6vtv9/pedas-abis.jpg?raw=1'/>
         <p>
         <h1>Pedas Abis</h1>
-        To nie nazwa dania a taka sieciówka bez szaleństw ale ujdzie. Sama nazwa znaczy "bardzo pikantne".
-        No i tak. Jest pikantnie, jest też tanio (to na zdjęciu to pewno 3$). Idea jest taka że się zamawia dużo sambali
-        a więc sosów oraz jakieś mini danka do nich. Tutaj kalmar, kurczak, krewetki, jakąś wątróbka etc. Ja jestem
+        To nie nazwa dania a taka sieciówka. Bez szaleństw ale ujdzie. Sama nazwa znaczy "bardzo pikantne".
+        No i tak. Jest pikantnie, jest też tanio (to na zdjęciu, dla dwóch osób, to pewno w sumie 4$). Idea jest taka że
+        się zamawia dużo sambali - a więc sosów - oraz jakieś mini danka do nich.
+        Tutaj kalmar, kurczak, krewetki, jakąś wątróbka etc. Ja jestem
         wielkim fanem "dużo małych dań" zamiast jednego bardziej konkretnego więc mi się podobało.
-        Zresztą azjatyckie kuchnie na tym zyskują, np hinduskie jako tali jest dużo lepsze, niż duż micha curry.
+        Zresztą azjatyckie kuchnie na tym zyskują, np hinduskie jako tali jest dużo lepsze, niż duża micha curry.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="ramadan-targ">
@@ -209,7 +212,8 @@ tag: [Indonezja]
         <h1>Ramadan Targ</h1>
         Ramadanowy targ. Na jakiś czas przed iftar, czyli pierwszym posiłkiem po zmierzchu (a więc po poście), otwierają
         się takie targi. Oczywiście jedzenie na wynos tylko. Zresztą tu jak w Tajlandii sporo miejsc z jedzeniem tylko
-        na wynos, np w Wietnamie to rzadkość.
+        na wynos, np w Wietnamie, a w każdym razie sajgonie, to rzadkość. Kto odwiedził wietnamskie mieszkanie
+        zrozumie czemu.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="wiejska-knajpa">
@@ -227,9 +231,9 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/23avoay6vn9q2rm/ayam-koteka.jpg?raw=1'/>
         <p>
         <h1>Ayam Koteka</h1>
-        Od lewego górnego rogu. Ayam Koteka, mielone kurze mięso z jajkiem zapiekane w bambusie. Potem ogromnie dużo
+        Od lewego górnego rogu. Ayam Koteka - mielone kurze mięso z jajkiem zapiekane w bambusie. Potem ogromnie dużo
         wody kokosowej z lodem. A na dole Nasi Kucing, tzw koci ryż. Czyli ryż z mikrospopijnymi porcjami małych dań. Tu
-        smażone tempeh, rybki etc. Będzie jeszcze o tym nasu kucing potem.
+        smażone tempeh, rybki etc. Będzie jeszcze o tym nasi kucing potem.
         </p>
     </div>
 </div>
@@ -272,7 +276,7 @@ tag: [Indonezja]
         <p>
         <h1>Bakso Urat</h1>
         Rosol z kulkami z tapioki i wołowiny, a do tego jeszcze makaron, trochę zieleniny i czosnku. To co odróżnia to
-        Urat, czyli żyły które jak rozumiem sa i w wywarze a także pocięte w zupie.
+        Urat, czyli żyły które jak rozumiem sa i w wywarze a także pocięte na kawałki w zupie.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="bolu-bakar">
@@ -280,8 +284,9 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/k3rlhflp3gfqhpi/bolu-bakar.jpg?raw=1'/>
         <p>
         <h1>Bolu Bakar</h1>
-        Bolu to po polsku Chanos, pewno też nie znaleźliście tego słowa. Po angielsku to milkfish. Fajna delikatna
-        rybka, specyficzną dla regionu, bardzo hodowlana. Tutaj podana z sambalem gami gami, super pikantnym trochę jak
+        Bolu to taka ryba, po polsku nazywa się Chanos, pewno też nie znaleźliście tego słowa.
+        Po angielsku to milkfish. Fajna delikatna
+        rybka, specyficzną dla regionu, bardzo hodowlana. Tutaj podana z sambalem gami gami, bardzo pikantnym, trochę jak
         jakaś meksykańską salsa, a także sayur urap - szpinak wodny z mielonym kokosem. A i jeszcze rybna zupka.
         </p></div>
 </div>
@@ -292,7 +297,8 @@ tag: [Indonezja]
         <h1>Brongkos</h1>
         Wiem, że wygląda wybitnie brzydko, ale jak pisałem, tu sobie zapisuje bardziej dania niż szpanuję uroda.
         Zupa z czarnonakrapianej fasoli (po angielsku to jest black eyed pea) na mleku kokosowym z wołowiną.
-        Jedzenie wiejskiej biedoty, ale ponoć teraz także trochę bohemy. Ale middle klasa się brzydzi. Bardzo dobre.
+        Jedzenie wiejskiej biedoty, ale ponoć teraz także trochę bohemy. Ale middle klasa się trochę brzydzi
+        (a potem opowiada, że babcia to robi najlepszy brongkos na świecie). Bardzo dobre.
         </p>
     </div>
 </div>
@@ -302,7 +308,7 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/kf14tpjyduhayjf/bubur-ayam-khas-bandung.jpg?raw=1'/>
         <p>
         <h1>Bubur Ayam Khas Bandung</h1>
-        Bubur to taka owsianka ryzowa, no taki ryż na bezsmakową pulpę rozgotowany, Ayam to oczywiście kurczak (albo
+        Bubur to taka owsianka ryżowa, taki ryż na bezsmakową pulpę rozgotowany, Ayam to oczywiście kurczak (albo
         galerianka), Khas Bandung to znaczy coś w stylu "specjalne z Bandung". A Bandung to takie duże uniwersyteckie
         miasto koło Dżakarty. No i to jest ten ryż, kiełki, orzeszki ziemne, cebula, kurczak wraz zupa na bazie mleka
         kokosowego z kurkumą.
@@ -350,7 +356,7 @@ tag: [Indonezja]
         <h1>Gudeg</h1>
         Curry z jackfruita mającego piękna polską nazwę dżakfrut. Długo, bardzo długo gotowany, tak przez 6h czy więcej
         owoc zamienia się z jednego z najsmaczniejszych azjatyckich owoców w taka lekko słodkawa masę w smaku może lekko
-        przypominajaca młodą kapusta. Nie jest to jakieś źle ale trochę szkoda przeboskich dzakfrutów na takie
+        przypominajaca młodą kapusta. Nie jest to bardzo złe ale trochę szkoda przeboskich dzakfrutów na takie
         przeciętne coś. To jest tradycyjne danie z Yogjakarty, ponoć tu najlepsze. Raczej nie planuje sprawdzać gdzie
         indziej. Bo mimo wszystko z całego dania i tak najbardziej smakował dany jako dodatek smażony tempeh (A samo
         istnienie temphu powoduje że indonezyjska kuchnie mimo jej nierówności jednak bardzo lubię)
@@ -378,8 +384,8 @@ tag: [Indonezja]
         mlekiem kokosowym. Janang jest tradycyjnie używane jest przez wyznawców hinduizmu jako ofiara, ale jesteśmy na
         muzułmańskiej Jawie i tu ponoć nadal nie mało takze muzułmanów składa takie ofiary.
         Pół tysiąclecia islamu tak zupełnie
-        hinduizmu nie zmylo. Zresztą tak jeszcze anegdotka, to co mnie zdziwiło że to ludzie czesto znają różne
-        hinduskie eposy, koligacje rodzinne bogów, hotele itd mają od nich nazwy. Ogólnie Indonezja jest mocno Indo.
+        hinduizmu nie zmylo. Tak przy okazji, to to co mnie zdziwiło że to ludzie często znają różne
+        hinduskie eposy, koligacje rodzinne bogów, hotele czy knajpy mają od nich nazwy. Ogólnie Indonezja jest mocno Indo.
         </p></div>
 </div>
 <div class="demo-container mdl-grid slides" id="ketan-bubuk">
@@ -412,7 +418,7 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/gl4y1cbdksrgt25/kopi-joss.jpg??raw=1'/>
         <p>
         <h1>Kopi Joss</h1>
-        Czyli kawa z wyrzucony do środka rozzarzonym węglem. Po co nie wiem. W sensie nigdy mnie ten koncept nie
+        Czyli kawa z wyrzuconym do środka rozzarzonym węglem. Po co nie wiem. W sensie nigdy mnie ten koncept nie
         przekonywał.
         </p></div>
 </div>
@@ -422,12 +428,13 @@ tag: [Indonezja]
         <img src='https://www.dropbox.com/s/f2wl5r4pc9sbew2/kopi-klotok.jpg?raw=1'/>
         <p>
         <h1>Kopi Klotok</h1>
-        W Indonezji alkohol jest dostępny, ale jednak muzułmański kraj to muzułmański. Jest drogi , poza bali raczej
-        tylko w knajpach, nie w sklepach typu minimarket, jeśłi już to w marketach czy delikatesach.
+        W Indonezji alkohol jest dostępny, ale jednak muzułmański kraj to muzułmański. Jest drogi, poza bali raczej
+        tylko w knajpach, nie w sklepach typu minimarket. (tutaj alkohol jes tylko w dużych marketach czy delikatesach)
         Teraz jest Ramadan, więc nawet knajpy
         które mają zazwyczaj alkohol, na ten czas zdarza się, że go wycofują. Tym ciekawszym zjawiskiem jest Kopi
-        Klopok. To jest po prostu kawa z wódka. Za równowartość 1$ dostajesz takie coś. Koszmarnie mocne, więcej wódki
-        niż kawy. Pić się nie da nawet moimi polskimi ustami. Ponoć to jest takie polegalne. Jakoś się te "kawiarnie"
+        Klopok. To jest po prostu kawa z wódką. Za równowartość 1$ dostajesz takie coś. Koszmarnie mocne, więcej wódki
+        niż kawy. Pić się daje z trudem nawet moimi wprawionymi polskimi ustami.
+        Ponoć to jest takie polegalne. Jakoś się te "kawiarnie"
         policji opłacają. Mam wrażenie że przeliczeniu %/PLN paradoksalnie jedno z tańszych alko regionu.
         </p>
     </div>
@@ -440,7 +447,7 @@ tag: [Indonezja]
         <h1>Kopi</h1>
         Indonezja kawą stoi, kawa tu jest naprawdę świetna. Co najfajniejsze jest jej sporo takich niezbyt fancy
         pseudohipsterskich miejsc z dużym wyborem gatunku, metod parzenia i niskimi cenami jest multum. Dodatkowy plus
-        maja za to że cold brew jest popularny. A to fajnie gra z klimatem tu. #coffee #kawa
+        maja za to że cold brew jest popularny. A to fajnie gra z klimatem tu.
         </p></div>
 </div>
 
@@ -471,7 +478,7 @@ tag: [Indonezja]
         <p>
         <h1>Lontong Opor</h1>
         Lontong to rodzaj gotowanego na parze ryżu, to co jak takie kluski wygląda. Opor to delikatnie pikantna zupa z
-        mleka kokosowego, takie Jawajskie w curry. Je się to jak tu widać z jajkiem, kurczakiem (mięso i watrobka), może
+        mleka kokosowego, takie jawajskie w curry. Je się to jak tu widać z jajkiem, kurczakiem (mięso i watrobka), może
         być też z wołowiną lub tofu. Wariant jak widac uliczny, tak się to dostaje na wynos.
         </p>
     </div>
