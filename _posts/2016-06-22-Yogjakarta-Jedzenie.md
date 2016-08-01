@@ -218,7 +218,7 @@ tag: [Indonezja]
 </div>
 <div class="demo-container mdl-grid slides" id="ramadan-targ">
     <div class="demo-content mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--12-col">
-        <img src='?https://dl.dropbox.com/s/7zj5gehgyl7zvjk/ramadan-targ.jpg'/>
+        <img src='https://dl.dropbox.com/s/7zj5gehgyl7zvjk/ramadan-targ.jpg'/>
         <p>
         <h1>Ramadan Targ</h1>
         Ramadanowy targ. Na jakiś czas przed iftar, czyli pierwszym posiłkiem po zmierzchu (a więc po poście), otwierają
