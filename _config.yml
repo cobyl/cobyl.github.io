@@ -1,8 +1,12 @@
 markdown: kramdown
 pygments: true
+gems:
+- jekyll-sitemap
+- jekyll-feed
 
 url: http://cobyl.github.io
 
 theme:
   name: Polkobexim
   email: tomek.kobylinski@gmail.com
+
