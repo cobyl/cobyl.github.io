@@ -2,6 +2,6 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 
-theme: Polkobexim
+title: Polkobexim
 email: tomek.kobylinski@gmail.com
 
