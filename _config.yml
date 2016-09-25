@@ -2,3 +2,7 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 
+theme:
+  name: Polkobexim
+  email: tomek.kobylinski@gmail.com
+
