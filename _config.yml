@@ -2,7 +2,7 @@ gems:
 - jekyll-sitemap
 - jekyll-feed
 
-url: http://cobyl.github.io
+url: https://cobyl.github.io
 
 theme:
   name: Polkobexim
