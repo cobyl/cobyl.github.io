@@ -50,7 +50,7 @@ img.foodphoto {
   width:100%;
 }
 
-@media all and (min-width: 100px) {
+@media all and (min-width: 1000px) {
 div.ingredients {
    width: 33%;
   float: left;
