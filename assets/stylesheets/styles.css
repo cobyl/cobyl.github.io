@@ -47,7 +47,7 @@ div.recipe {
 
 img.foodphoto {
   margin: 10px;
-  width:100%;
+  max-width:100%;
 }
 
 @media all and (min-width: 1000px) {
